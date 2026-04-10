@@ -1,0 +1,6122 @@
+[
+  {
+    "fundamental": "C1",
+    "fundamental_hz": 32.7,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 32.7,
+        "interval": "unison",
+        "note": "C1"
+      },
+      {
+        "n": 2,
+        "hz": 65.4,
+        "interval": "octave",
+        "note": "C2"
+      },
+      {
+        "n": 3,
+        "hz": 98.1,
+        "interval": "perfect 5th above octave",
+        "note": "G2"
+      },
+      {
+        "n": 4,
+        "hz": 130.8,
+        "interval": "2 octaves",
+        "note": "C3"
+      },
+      {
+        "n": 5,
+        "hz": 163.5,
+        "interval": "major 3rd above 2 octaves",
+        "note": "E3"
+      },
+      {
+        "n": 6,
+        "hz": 196.2,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "G3"
+      },
+      {
+        "n": 7,
+        "hz": 228.9,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "A#3"
+      },
+      {
+        "n": 8,
+        "hz": 261.6,
+        "interval": "3 octaves",
+        "note": "C4"
+      },
+      {
+        "n": 9,
+        "hz": 294.3,
+        "interval": "major 2nd above 3 octaves",
+        "note": "D4"
+      },
+      {
+        "n": 10,
+        "hz": 327.0,
+        "interval": "major 3rd above 3 octaves",
+        "note": "E4"
+      },
+      {
+        "n": 11,
+        "hz": 359.7,
+        "interval": "tritone above 3 octaves",
+        "note": "F#4"
+      },
+      {
+        "n": 12,
+        "hz": 392.4,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "G4"
+      },
+      {
+        "n": 13,
+        "hz": 425.1,
+        "interval": "major 6th above 3 octaves",
+        "note": "G#4"
+      },
+      {
+        "n": 14,
+        "hz": 457.8,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "A#4"
+      },
+      {
+        "n": 15,
+        "hz": 490.5,
+        "interval": "major 7th above 3 octaves",
+        "note": "B4"
+      },
+      {
+        "n": 16,
+        "hz": 523.2,
+        "interval": "4 octaves",
+        "note": "C5"
+      }
+    ]
+  },
+  {
+    "fundamental": "C#1",
+    "fundamental_hz": 34.65,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 34.65,
+        "interval": "unison",
+        "note": "C#1"
+      },
+      {
+        "n": 2,
+        "hz": 69.3,
+        "interval": "octave",
+        "note": "C#2"
+      },
+      {
+        "n": 3,
+        "hz": 103.95,
+        "interval": "perfect 5th above octave",
+        "note": "G#2"
+      },
+      {
+        "n": 4,
+        "hz": 138.6,
+        "interval": "2 octaves",
+        "note": "C#3"
+      },
+      {
+        "n": 5,
+        "hz": 173.25,
+        "interval": "major 3rd above 2 octaves",
+        "note": "F3"
+      },
+      {
+        "n": 6,
+        "hz": 207.9,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "G#3"
+      },
+      {
+        "n": 7,
+        "hz": 242.55,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "B3"
+      },
+      {
+        "n": 8,
+        "hz": 277.2,
+        "interval": "3 octaves",
+        "note": "C#4"
+      },
+      {
+        "n": 9,
+        "hz": 311.85,
+        "interval": "major 2nd above 3 octaves",
+        "note": "D#4"
+      },
+      {
+        "n": 10,
+        "hz": 346.5,
+        "interval": "major 3rd above 3 octaves",
+        "note": "F4"
+      },
+      {
+        "n": 11,
+        "hz": 381.15,
+        "interval": "tritone above 3 octaves",
+        "note": "G4"
+      },
+      {
+        "n": 12,
+        "hz": 415.8,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "G#4"
+      },
+      {
+        "n": 13,
+        "hz": 450.45,
+        "interval": "major 6th above 3 octaves",
+        "note": "A4"
+      },
+      {
+        "n": 14,
+        "hz": 485.1,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "B4"
+      },
+      {
+        "n": 15,
+        "hz": 519.75,
+        "interval": "major 7th above 3 octaves",
+        "note": "C5"
+      },
+      {
+        "n": 16,
+        "hz": 554.4,
+        "interval": "4 octaves",
+        "note": "C#5"
+      }
+    ]
+  },
+  {
+    "fundamental": "D1",
+    "fundamental_hz": 36.71,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 36.71,
+        "interval": "unison",
+        "note": "D1"
+      },
+      {
+        "n": 2,
+        "hz": 73.42,
+        "interval": "octave",
+        "note": "D2"
+      },
+      {
+        "n": 3,
+        "hz": 110.13,
+        "interval": "perfect 5th above octave",
+        "note": "A2"
+      },
+      {
+        "n": 4,
+        "hz": 146.84,
+        "interval": "2 octaves",
+        "note": "D3"
+      },
+      {
+        "n": 5,
+        "hz": 183.55,
+        "interval": "major 3rd above 2 octaves",
+        "note": "F#3"
+      },
+      {
+        "n": 6,
+        "hz": 220.26,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "A3"
+      },
+      {
+        "n": 7,
+        "hz": 256.97,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "C4"
+      },
+      {
+        "n": 8,
+        "hz": 293.68,
+        "interval": "3 octaves",
+        "note": "D4"
+      },
+      {
+        "n": 9,
+        "hz": 330.39,
+        "interval": "major 2nd above 3 octaves",
+        "note": "E4"
+      },
+      {
+        "n": 10,
+        "hz": 367.1,
+        "interval": "major 3rd above 3 octaves",
+        "note": "F#4"
+      },
+      {
+        "n": 11,
+        "hz": 403.81,
+        "interval": "tritone above 3 octaves",
+        "note": "G#4"
+      },
+      {
+        "n": 12,
+        "hz": 440.52,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "A4"
+      },
+      {
+        "n": 13,
+        "hz": 477.23,
+        "interval": "major 6th above 3 octaves",
+        "note": "A#4"
+      },
+      {
+        "n": 14,
+        "hz": 513.94,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "C5"
+      },
+      {
+        "n": 15,
+        "hz": 550.65,
+        "interval": "major 7th above 3 octaves",
+        "note": "C#5"
+      },
+      {
+        "n": 16,
+        "hz": 587.36,
+        "interval": "4 octaves",
+        "note": "D5"
+      }
+    ]
+  },
+  {
+    "fundamental": "D#1",
+    "fundamental_hz": 38.89,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 38.89,
+        "interval": "unison",
+        "note": "D#1"
+      },
+      {
+        "n": 2,
+        "hz": 77.78,
+        "interval": "octave",
+        "note": "D#2"
+      },
+      {
+        "n": 3,
+        "hz": 116.67,
+        "interval": "perfect 5th above octave",
+        "note": "A#2"
+      },
+      {
+        "n": 4,
+        "hz": 155.56,
+        "interval": "2 octaves",
+        "note": "D#3"
+      },
+      {
+        "n": 5,
+        "hz": 194.45,
+        "interval": "major 3rd above 2 octaves",
+        "note": "G3"
+      },
+      {
+        "n": 6,
+        "hz": 233.34,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "A#3"
+      },
+      {
+        "n": 7,
+        "hz": 272.23,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "C#4"
+      },
+      {
+        "n": 8,
+        "hz": 311.12,
+        "interval": "3 octaves",
+        "note": "D#4"
+      },
+      {
+        "n": 9,
+        "hz": 350.01,
+        "interval": "major 2nd above 3 octaves",
+        "note": "F4"
+      },
+      {
+        "n": 10,
+        "hz": 388.9,
+        "interval": "major 3rd above 3 octaves",
+        "note": "G4"
+      },
+      {
+        "n": 11,
+        "hz": 427.79,
+        "interval": "tritone above 3 octaves",
+        "note": "A4"
+      },
+      {
+        "n": 12,
+        "hz": 466.68,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "A#4"
+      },
+      {
+        "n": 13,
+        "hz": 505.57,
+        "interval": "major 6th above 3 octaves",
+        "note": "B4"
+      },
+      {
+        "n": 14,
+        "hz": 544.46,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "C#5"
+      },
+      {
+        "n": 15,
+        "hz": 583.35,
+        "interval": "major 7th above 3 octaves",
+        "note": "D5"
+      },
+      {
+        "n": 16,
+        "hz": 622.24,
+        "interval": "4 octaves",
+        "note": "D#5"
+      }
+    ]
+  },
+  {
+    "fundamental": "E1",
+    "fundamental_hz": 41.2,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 41.2,
+        "interval": "unison",
+        "note": "E1"
+      },
+      {
+        "n": 2,
+        "hz": 82.4,
+        "interval": "octave",
+        "note": "E2"
+      },
+      {
+        "n": 3,
+        "hz": 123.6,
+        "interval": "perfect 5th above octave",
+        "note": "B2"
+      },
+      {
+        "n": 4,
+        "hz": 164.8,
+        "interval": "2 octaves",
+        "note": "E3"
+      },
+      {
+        "n": 5,
+        "hz": 206.0,
+        "interval": "major 3rd above 2 octaves",
+        "note": "G#3"
+      },
+      {
+        "n": 6,
+        "hz": 247.2,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "B3"
+      },
+      {
+        "n": 7,
+        "hz": 288.4,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "D4"
+      },
+      {
+        "n": 8,
+        "hz": 329.6,
+        "interval": "3 octaves",
+        "note": "E4"
+      },
+      {
+        "n": 9,
+        "hz": 370.8,
+        "interval": "major 2nd above 3 octaves",
+        "note": "F#4"
+      },
+      {
+        "n": 10,
+        "hz": 412.0,
+        "interval": "major 3rd above 3 octaves",
+        "note": "G#4"
+      },
+      {
+        "n": 11,
+        "hz": 453.2,
+        "interval": "tritone above 3 octaves",
+        "note": "A#4"
+      },
+      {
+        "n": 12,
+        "hz": 494.4,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "B4"
+      },
+      {
+        "n": 13,
+        "hz": 535.6,
+        "interval": "major 6th above 3 octaves",
+        "note": "C5"
+      },
+      {
+        "n": 14,
+        "hz": 576.8,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "D5"
+      },
+      {
+        "n": 15,
+        "hz": 618.0,
+        "interval": "major 7th above 3 octaves",
+        "note": "D#5"
+      },
+      {
+        "n": 16,
+        "hz": 659.2,
+        "interval": "4 octaves",
+        "note": "E5"
+      }
+    ]
+  },
+  {
+    "fundamental": "F1",
+    "fundamental_hz": 43.65,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 43.65,
+        "interval": "unison",
+        "note": "F1"
+      },
+      {
+        "n": 2,
+        "hz": 87.3,
+        "interval": "octave",
+        "note": "F2"
+      },
+      {
+        "n": 3,
+        "hz": 130.95,
+        "interval": "perfect 5th above octave",
+        "note": "C3"
+      },
+      {
+        "n": 4,
+        "hz": 174.6,
+        "interval": "2 octaves",
+        "note": "F3"
+      },
+      {
+        "n": 5,
+        "hz": 218.25,
+        "interval": "major 3rd above 2 octaves",
+        "note": "A3"
+      },
+      {
+        "n": 6,
+        "hz": 261.9,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "C4"
+      },
+      {
+        "n": 7,
+        "hz": 305.55,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "D#4"
+      },
+      {
+        "n": 8,
+        "hz": 349.2,
+        "interval": "3 octaves",
+        "note": "F4"
+      },
+      {
+        "n": 9,
+        "hz": 392.85,
+        "interval": "major 2nd above 3 octaves",
+        "note": "G4"
+      },
+      {
+        "n": 10,
+        "hz": 436.5,
+        "interval": "major 3rd above 3 octaves",
+        "note": "A4"
+      },
+      {
+        "n": 11,
+        "hz": 480.15,
+        "interval": "tritone above 3 octaves",
+        "note": "B4"
+      },
+      {
+        "n": 12,
+        "hz": 523.8,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "C5"
+      },
+      {
+        "n": 13,
+        "hz": 567.45,
+        "interval": "major 6th above 3 octaves",
+        "note": "C#5"
+      },
+      {
+        "n": 14,
+        "hz": 611.1,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "D#5"
+      },
+      {
+        "n": 15,
+        "hz": 654.75,
+        "interval": "major 7th above 3 octaves",
+        "note": "E5"
+      },
+      {
+        "n": 16,
+        "hz": 698.4,
+        "interval": "4 octaves",
+        "note": "F5"
+      }
+    ]
+  },
+  {
+    "fundamental": "F#1",
+    "fundamental_hz": 46.25,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 46.25,
+        "interval": "unison",
+        "note": "F#1"
+      },
+      {
+        "n": 2,
+        "hz": 92.5,
+        "interval": "octave",
+        "note": "F#2"
+      },
+      {
+        "n": 3,
+        "hz": 138.75,
+        "interval": "perfect 5th above octave",
+        "note": "C#3"
+      },
+      {
+        "n": 4,
+        "hz": 185.0,
+        "interval": "2 octaves",
+        "note": "F#3"
+      },
+      {
+        "n": 5,
+        "hz": 231.25,
+        "interval": "major 3rd above 2 octaves",
+        "note": "A#3"
+      },
+      {
+        "n": 6,
+        "hz": 277.5,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "C#4"
+      },
+      {
+        "n": 7,
+        "hz": 323.75,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "E4"
+      },
+      {
+        "n": 8,
+        "hz": 370.0,
+        "interval": "3 octaves",
+        "note": "F#4"
+      },
+      {
+        "n": 9,
+        "hz": 416.25,
+        "interval": "major 2nd above 3 octaves",
+        "note": "G#4"
+      },
+      {
+        "n": 10,
+        "hz": 462.5,
+        "interval": "major 3rd above 3 octaves",
+        "note": "A#4"
+      },
+      {
+        "n": 11,
+        "hz": 508.75,
+        "interval": "tritone above 3 octaves",
+        "note": "C5"
+      },
+      {
+        "n": 12,
+        "hz": 555.0,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "C#5"
+      },
+      {
+        "n": 13,
+        "hz": 601.25,
+        "interval": "major 6th above 3 octaves",
+        "note": "D5"
+      },
+      {
+        "n": 14,
+        "hz": 647.5,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "E5"
+      },
+      {
+        "n": 15,
+        "hz": 693.75,
+        "interval": "major 7th above 3 octaves",
+        "note": "F5"
+      },
+      {
+        "n": 16,
+        "hz": 740.0,
+        "interval": "4 octaves",
+        "note": "F#5"
+      }
+    ]
+  },
+  {
+    "fundamental": "G1",
+    "fundamental_hz": 49.0,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 49.0,
+        "interval": "unison",
+        "note": "G1"
+      },
+      {
+        "n": 2,
+        "hz": 98.0,
+        "interval": "octave",
+        "note": "G2"
+      },
+      {
+        "n": 3,
+        "hz": 147.0,
+        "interval": "perfect 5th above octave",
+        "note": "D3"
+      },
+      {
+        "n": 4,
+        "hz": 196.0,
+        "interval": "2 octaves",
+        "note": "G3"
+      },
+      {
+        "n": 5,
+        "hz": 245.0,
+        "interval": "major 3rd above 2 octaves",
+        "note": "B3"
+      },
+      {
+        "n": 6,
+        "hz": 294.0,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "D4"
+      },
+      {
+        "n": 7,
+        "hz": 343.0,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "F4"
+      },
+      {
+        "n": 8,
+        "hz": 392.0,
+        "interval": "3 octaves",
+        "note": "G4"
+      },
+      {
+        "n": 9,
+        "hz": 441.0,
+        "interval": "major 2nd above 3 octaves",
+        "note": "A4"
+      },
+      {
+        "n": 10,
+        "hz": 490.0,
+        "interval": "major 3rd above 3 octaves",
+        "note": "B4"
+      },
+      {
+        "n": 11,
+        "hz": 539.0,
+        "interval": "tritone above 3 octaves",
+        "note": "C#5"
+      },
+      {
+        "n": 12,
+        "hz": 588.0,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "D5"
+      },
+      {
+        "n": 13,
+        "hz": 637.0,
+        "interval": "major 6th above 3 octaves",
+        "note": "D#5"
+      },
+      {
+        "n": 14,
+        "hz": 686.0,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "F5"
+      },
+      {
+        "n": 15,
+        "hz": 735.0,
+        "interval": "major 7th above 3 octaves",
+        "note": "F#5"
+      },
+      {
+        "n": 16,
+        "hz": 784.0,
+        "interval": "4 octaves",
+        "note": "G5"
+      }
+    ]
+  },
+  {
+    "fundamental": "G#1",
+    "fundamental_hz": 51.91,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 51.91,
+        "interval": "unison",
+        "note": "G#1"
+      },
+      {
+        "n": 2,
+        "hz": 103.82,
+        "interval": "octave",
+        "note": "G#2"
+      },
+      {
+        "n": 3,
+        "hz": 155.73,
+        "interval": "perfect 5th above octave",
+        "note": "D#3"
+      },
+      {
+        "n": 4,
+        "hz": 207.64,
+        "interval": "2 octaves",
+        "note": "G#3"
+      },
+      {
+        "n": 5,
+        "hz": 259.55,
+        "interval": "major 3rd above 2 octaves",
+        "note": "C4"
+      },
+      {
+        "n": 6,
+        "hz": 311.46,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "D#4"
+      },
+      {
+        "n": 7,
+        "hz": 363.37,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "F#4"
+      },
+      {
+        "n": 8,
+        "hz": 415.28,
+        "interval": "3 octaves",
+        "note": "G#4"
+      },
+      {
+        "n": 9,
+        "hz": 467.19,
+        "interval": "major 2nd above 3 octaves",
+        "note": "A#4"
+      },
+      {
+        "n": 10,
+        "hz": 519.1,
+        "interval": "major 3rd above 3 octaves",
+        "note": "C5"
+      },
+      {
+        "n": 11,
+        "hz": 571.01,
+        "interval": "tritone above 3 octaves",
+        "note": "D5"
+      },
+      {
+        "n": 12,
+        "hz": 622.92,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "D#5"
+      },
+      {
+        "n": 13,
+        "hz": 674.83,
+        "interval": "major 6th above 3 octaves",
+        "note": "E5"
+      },
+      {
+        "n": 14,
+        "hz": 726.74,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "F#5"
+      },
+      {
+        "n": 15,
+        "hz": 778.65,
+        "interval": "major 7th above 3 octaves",
+        "note": "G5"
+      },
+      {
+        "n": 16,
+        "hz": 830.56,
+        "interval": "4 octaves",
+        "note": "G#5"
+      }
+    ]
+  },
+  {
+    "fundamental": "A1",
+    "fundamental_hz": 55.0,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 55.0,
+        "interval": "unison",
+        "note": "A1"
+      },
+      {
+        "n": 2,
+        "hz": 110.0,
+        "interval": "octave",
+        "note": "A2"
+      },
+      {
+        "n": 3,
+        "hz": 165.0,
+        "interval": "perfect 5th above octave",
+        "note": "E3"
+      },
+      {
+        "n": 4,
+        "hz": 220.0,
+        "interval": "2 octaves",
+        "note": "A3"
+      },
+      {
+        "n": 5,
+        "hz": 275.0,
+        "interval": "major 3rd above 2 octaves",
+        "note": "C#4"
+      },
+      {
+        "n": 6,
+        "hz": 330.0,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "E4"
+      },
+      {
+        "n": 7,
+        "hz": 385.0,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "G4"
+      },
+      {
+        "n": 8,
+        "hz": 440.0,
+        "interval": "3 octaves",
+        "note": "A4"
+      },
+      {
+        "n": 9,
+        "hz": 495.0,
+        "interval": "major 2nd above 3 octaves",
+        "note": "B4"
+      },
+      {
+        "n": 10,
+        "hz": 550.0,
+        "interval": "major 3rd above 3 octaves",
+        "note": "C#5"
+      },
+      {
+        "n": 11,
+        "hz": 605.0,
+        "interval": "tritone above 3 octaves",
+        "note": "D#5"
+      },
+      {
+        "n": 12,
+        "hz": 660.0,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "E5"
+      },
+      {
+        "n": 13,
+        "hz": 715.0,
+        "interval": "major 6th above 3 octaves",
+        "note": "F5"
+      },
+      {
+        "n": 14,
+        "hz": 770.0,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "G5"
+      },
+      {
+        "n": 15,
+        "hz": 825.0,
+        "interval": "major 7th above 3 octaves",
+        "note": "G#5"
+      },
+      {
+        "n": 16,
+        "hz": 880.0,
+        "interval": "4 octaves",
+        "note": "A5"
+      }
+    ]
+  },
+  {
+    "fundamental": "A#1",
+    "fundamental_hz": 58.27,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 58.27,
+        "interval": "unison",
+        "note": "A#1"
+      },
+      {
+        "n": 2,
+        "hz": 116.54,
+        "interval": "octave",
+        "note": "A#2"
+      },
+      {
+        "n": 3,
+        "hz": 174.81,
+        "interval": "perfect 5th above octave",
+        "note": "F3"
+      },
+      {
+        "n": 4,
+        "hz": 233.08,
+        "interval": "2 octaves",
+        "note": "A#3"
+      },
+      {
+        "n": 5,
+        "hz": 291.35,
+        "interval": "major 3rd above 2 octaves",
+        "note": "D4"
+      },
+      {
+        "n": 6,
+        "hz": 349.62,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "F4"
+      },
+      {
+        "n": 7,
+        "hz": 407.89,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "G#4"
+      },
+      {
+        "n": 8,
+        "hz": 466.16,
+        "interval": "3 octaves",
+        "note": "A#4"
+      },
+      {
+        "n": 9,
+        "hz": 524.43,
+        "interval": "major 2nd above 3 octaves",
+        "note": "C5"
+      },
+      {
+        "n": 10,
+        "hz": 582.7,
+        "interval": "major 3rd above 3 octaves",
+        "note": "D5"
+      },
+      {
+        "n": 11,
+        "hz": 640.97,
+        "interval": "tritone above 3 octaves",
+        "note": "E5"
+      },
+      {
+        "n": 12,
+        "hz": 699.24,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "F5"
+      },
+      {
+        "n": 13,
+        "hz": 757.51,
+        "interval": "major 6th above 3 octaves",
+        "note": "F#5"
+      },
+      {
+        "n": 14,
+        "hz": 815.78,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "G#5"
+      },
+      {
+        "n": 15,
+        "hz": 874.05,
+        "interval": "major 7th above 3 octaves",
+        "note": "A5"
+      },
+      {
+        "n": 16,
+        "hz": 932.32,
+        "interval": "4 octaves",
+        "note": "A#5"
+      }
+    ]
+  },
+  {
+    "fundamental": "B1",
+    "fundamental_hz": 61.74,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 61.74,
+        "interval": "unison",
+        "note": "B1"
+      },
+      {
+        "n": 2,
+        "hz": 123.48,
+        "interval": "octave",
+        "note": "B2"
+      },
+      {
+        "n": 3,
+        "hz": 185.22,
+        "interval": "perfect 5th above octave",
+        "note": "F#3"
+      },
+      {
+        "n": 4,
+        "hz": 246.96,
+        "interval": "2 octaves",
+        "note": "B3"
+      },
+      {
+        "n": 5,
+        "hz": 308.7,
+        "interval": "major 3rd above 2 octaves",
+        "note": "D#4"
+      },
+      {
+        "n": 6,
+        "hz": 370.44,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "F#4"
+      },
+      {
+        "n": 7,
+        "hz": 432.18,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "A4"
+      },
+      {
+        "n": 8,
+        "hz": 493.92,
+        "interval": "3 octaves",
+        "note": "B4"
+      },
+      {
+        "n": 9,
+        "hz": 555.66,
+        "interval": "major 2nd above 3 octaves",
+        "note": "C#5"
+      },
+      {
+        "n": 10,
+        "hz": 617.4,
+        "interval": "major 3rd above 3 octaves",
+        "note": "D#5"
+      },
+      {
+        "n": 11,
+        "hz": 679.14,
+        "interval": "tritone above 3 octaves",
+        "note": "F5"
+      },
+      {
+        "n": 12,
+        "hz": 740.88,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "F#5"
+      },
+      {
+        "n": 13,
+        "hz": 802.62,
+        "interval": "major 6th above 3 octaves",
+        "note": "G5"
+      },
+      {
+        "n": 14,
+        "hz": 864.36,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "A5"
+      },
+      {
+        "n": 15,
+        "hz": 926.1,
+        "interval": "major 7th above 3 octaves",
+        "note": "A#5"
+      },
+      {
+        "n": 16,
+        "hz": 987.84,
+        "interval": "4 octaves",
+        "note": "B5"
+      }
+    ]
+  },
+  {
+    "fundamental": "C2",
+    "fundamental_hz": 65.41,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 65.41,
+        "interval": "unison",
+        "note": "C2"
+      },
+      {
+        "n": 2,
+        "hz": 130.82,
+        "interval": "octave",
+        "note": "C3"
+      },
+      {
+        "n": 3,
+        "hz": 196.23,
+        "interval": "perfect 5th above octave",
+        "note": "G3"
+      },
+      {
+        "n": 4,
+        "hz": 261.64,
+        "interval": "2 octaves",
+        "note": "C4"
+      },
+      {
+        "n": 5,
+        "hz": 327.05,
+        "interval": "major 3rd above 2 octaves",
+        "note": "E4"
+      },
+      {
+        "n": 6,
+        "hz": 392.46,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "G4"
+      },
+      {
+        "n": 7,
+        "hz": 457.87,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "A#4"
+      },
+      {
+        "n": 8,
+        "hz": 523.28,
+        "interval": "3 octaves",
+        "note": "C5"
+      },
+      {
+        "n": 9,
+        "hz": 588.69,
+        "interval": "major 2nd above 3 octaves",
+        "note": "D5"
+      },
+      {
+        "n": 10,
+        "hz": 654.1,
+        "interval": "major 3rd above 3 octaves",
+        "note": "E5"
+      },
+      {
+        "n": 11,
+        "hz": 719.51,
+        "interval": "tritone above 3 octaves",
+        "note": "F#5"
+      },
+      {
+        "n": 12,
+        "hz": 784.92,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "G5"
+      },
+      {
+        "n": 13,
+        "hz": 850.33,
+        "interval": "major 6th above 3 octaves",
+        "note": "G#5"
+      },
+      {
+        "n": 14,
+        "hz": 915.74,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "A#5"
+      },
+      {
+        "n": 15,
+        "hz": 981.15,
+        "interval": "major 7th above 3 octaves",
+        "note": "B5"
+      },
+      {
+        "n": 16,
+        "hz": 1046.56,
+        "interval": "4 octaves",
+        "note": "C6"
+      }
+    ]
+  },
+  {
+    "fundamental": "C#2",
+    "fundamental_hz": 69.3,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 69.3,
+        "interval": "unison",
+        "note": "C#2"
+      },
+      {
+        "n": 2,
+        "hz": 138.6,
+        "interval": "octave",
+        "note": "C#3"
+      },
+      {
+        "n": 3,
+        "hz": 207.9,
+        "interval": "perfect 5th above octave",
+        "note": "G#3"
+      },
+      {
+        "n": 4,
+        "hz": 277.2,
+        "interval": "2 octaves",
+        "note": "C#4"
+      },
+      {
+        "n": 5,
+        "hz": 346.5,
+        "interval": "major 3rd above 2 octaves",
+        "note": "F4"
+      },
+      {
+        "n": 6,
+        "hz": 415.8,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "G#4"
+      },
+      {
+        "n": 7,
+        "hz": 485.1,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "B4"
+      },
+      {
+        "n": 8,
+        "hz": 554.4,
+        "interval": "3 octaves",
+        "note": "C#5"
+      },
+      {
+        "n": 9,
+        "hz": 623.7,
+        "interval": "major 2nd above 3 octaves",
+        "note": "D#5"
+      },
+      {
+        "n": 10,
+        "hz": 693.0,
+        "interval": "major 3rd above 3 octaves",
+        "note": "F5"
+      },
+      {
+        "n": 11,
+        "hz": 762.3,
+        "interval": "tritone above 3 octaves",
+        "note": "G5"
+      },
+      {
+        "n": 12,
+        "hz": 831.6,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "G#5"
+      },
+      {
+        "n": 13,
+        "hz": 900.9,
+        "interval": "major 6th above 3 octaves",
+        "note": "A5"
+      },
+      {
+        "n": 14,
+        "hz": 970.2,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "B5"
+      },
+      {
+        "n": 15,
+        "hz": 1039.5,
+        "interval": "major 7th above 3 octaves",
+        "note": "C6"
+      },
+      {
+        "n": 16,
+        "hz": 1108.8,
+        "interval": "4 octaves",
+        "note": "C#6"
+      }
+    ]
+  },
+  {
+    "fundamental": "D2",
+    "fundamental_hz": 73.42,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 73.42,
+        "interval": "unison",
+        "note": "D2"
+      },
+      {
+        "n": 2,
+        "hz": 146.84,
+        "interval": "octave",
+        "note": "D3"
+      },
+      {
+        "n": 3,
+        "hz": 220.26,
+        "interval": "perfect 5th above octave",
+        "note": "A3"
+      },
+      {
+        "n": 4,
+        "hz": 293.68,
+        "interval": "2 octaves",
+        "note": "D4"
+      },
+      {
+        "n": 5,
+        "hz": 367.1,
+        "interval": "major 3rd above 2 octaves",
+        "note": "F#4"
+      },
+      {
+        "n": 6,
+        "hz": 440.52,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "A4"
+      },
+      {
+        "n": 7,
+        "hz": 513.94,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "C5"
+      },
+      {
+        "n": 8,
+        "hz": 587.36,
+        "interval": "3 octaves",
+        "note": "D5"
+      },
+      {
+        "n": 9,
+        "hz": 660.78,
+        "interval": "major 2nd above 3 octaves",
+        "note": "E5"
+      },
+      {
+        "n": 10,
+        "hz": 734.2,
+        "interval": "major 3rd above 3 octaves",
+        "note": "F#5"
+      },
+      {
+        "n": 11,
+        "hz": 807.62,
+        "interval": "tritone above 3 octaves",
+        "note": "G#5"
+      },
+      {
+        "n": 12,
+        "hz": 881.04,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "A5"
+      },
+      {
+        "n": 13,
+        "hz": 954.46,
+        "interval": "major 6th above 3 octaves",
+        "note": "A#5"
+      },
+      {
+        "n": 14,
+        "hz": 1027.88,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "C6"
+      },
+      {
+        "n": 15,
+        "hz": 1101.3,
+        "interval": "major 7th above 3 octaves",
+        "note": "C#6"
+      },
+      {
+        "n": 16,
+        "hz": 1174.72,
+        "interval": "4 octaves",
+        "note": "D6"
+      }
+    ]
+  },
+  {
+    "fundamental": "D#2",
+    "fundamental_hz": 77.78,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 77.78,
+        "interval": "unison",
+        "note": "D#2"
+      },
+      {
+        "n": 2,
+        "hz": 155.56,
+        "interval": "octave",
+        "note": "D#3"
+      },
+      {
+        "n": 3,
+        "hz": 233.34,
+        "interval": "perfect 5th above octave",
+        "note": "A#3"
+      },
+      {
+        "n": 4,
+        "hz": 311.12,
+        "interval": "2 octaves",
+        "note": "D#4"
+      },
+      {
+        "n": 5,
+        "hz": 388.9,
+        "interval": "major 3rd above 2 octaves",
+        "note": "G4"
+      },
+      {
+        "n": 6,
+        "hz": 466.68,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "A#4"
+      },
+      {
+        "n": 7,
+        "hz": 544.46,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "C#5"
+      },
+      {
+        "n": 8,
+        "hz": 622.24,
+        "interval": "3 octaves",
+        "note": "D#5"
+      },
+      {
+        "n": 9,
+        "hz": 700.02,
+        "interval": "major 2nd above 3 octaves",
+        "note": "F5"
+      },
+      {
+        "n": 10,
+        "hz": 777.8,
+        "interval": "major 3rd above 3 octaves",
+        "note": "G5"
+      },
+      {
+        "n": 11,
+        "hz": 855.58,
+        "interval": "tritone above 3 octaves",
+        "note": "A5"
+      },
+      {
+        "n": 12,
+        "hz": 933.36,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "A#5"
+      },
+      {
+        "n": 13,
+        "hz": 1011.14,
+        "interval": "major 6th above 3 octaves",
+        "note": "B5"
+      },
+      {
+        "n": 14,
+        "hz": 1088.92,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "C#6"
+      },
+      {
+        "n": 15,
+        "hz": 1166.7,
+        "interval": "major 7th above 3 octaves",
+        "note": "D6"
+      },
+      {
+        "n": 16,
+        "hz": 1244.48,
+        "interval": "4 octaves",
+        "note": "D#6"
+      }
+    ]
+  },
+  {
+    "fundamental": "E2",
+    "fundamental_hz": 82.41,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 82.41,
+        "interval": "unison",
+        "note": "E2"
+      },
+      {
+        "n": 2,
+        "hz": 164.82,
+        "interval": "octave",
+        "note": "E3"
+      },
+      {
+        "n": 3,
+        "hz": 247.23,
+        "interval": "perfect 5th above octave",
+        "note": "B3"
+      },
+      {
+        "n": 4,
+        "hz": 329.64,
+        "interval": "2 octaves",
+        "note": "E4"
+      },
+      {
+        "n": 5,
+        "hz": 412.05,
+        "interval": "major 3rd above 2 octaves",
+        "note": "G#4"
+      },
+      {
+        "n": 6,
+        "hz": 494.46,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "B4"
+      },
+      {
+        "n": 7,
+        "hz": 576.87,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "D5"
+      },
+      {
+        "n": 8,
+        "hz": 659.28,
+        "interval": "3 octaves",
+        "note": "E5"
+      },
+      {
+        "n": 9,
+        "hz": 741.69,
+        "interval": "major 2nd above 3 octaves",
+        "note": "F#5"
+      },
+      {
+        "n": 10,
+        "hz": 824.1,
+        "interval": "major 3rd above 3 octaves",
+        "note": "G#5"
+      },
+      {
+        "n": 11,
+        "hz": 906.51,
+        "interval": "tritone above 3 octaves",
+        "note": "A#5"
+      },
+      {
+        "n": 12,
+        "hz": 988.92,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "B5"
+      },
+      {
+        "n": 13,
+        "hz": 1071.33,
+        "interval": "major 6th above 3 octaves",
+        "note": "C6"
+      },
+      {
+        "n": 14,
+        "hz": 1153.74,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "D6"
+      },
+      {
+        "n": 15,
+        "hz": 1236.15,
+        "interval": "major 7th above 3 octaves",
+        "note": "D#6"
+      },
+      {
+        "n": 16,
+        "hz": 1318.56,
+        "interval": "4 octaves",
+        "note": "E6"
+      }
+    ]
+  },
+  {
+    "fundamental": "F2",
+    "fundamental_hz": 87.31,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 87.31,
+        "interval": "unison",
+        "note": "F2"
+      },
+      {
+        "n": 2,
+        "hz": 174.62,
+        "interval": "octave",
+        "note": "F3"
+      },
+      {
+        "n": 3,
+        "hz": 261.93,
+        "interval": "perfect 5th above octave",
+        "note": "C4"
+      },
+      {
+        "n": 4,
+        "hz": 349.24,
+        "interval": "2 octaves",
+        "note": "F4"
+      },
+      {
+        "n": 5,
+        "hz": 436.55,
+        "interval": "major 3rd above 2 octaves",
+        "note": "A4"
+      },
+      {
+        "n": 6,
+        "hz": 523.86,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "C5"
+      },
+      {
+        "n": 7,
+        "hz": 611.17,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "D#5"
+      },
+      {
+        "n": 8,
+        "hz": 698.48,
+        "interval": "3 octaves",
+        "note": "F5"
+      },
+      {
+        "n": 9,
+        "hz": 785.79,
+        "interval": "major 2nd above 3 octaves",
+        "note": "G5"
+      },
+      {
+        "n": 10,
+        "hz": 873.1,
+        "interval": "major 3rd above 3 octaves",
+        "note": "A5"
+      },
+      {
+        "n": 11,
+        "hz": 960.41,
+        "interval": "tritone above 3 octaves",
+        "note": "B5"
+      },
+      {
+        "n": 12,
+        "hz": 1047.72,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "C6"
+      },
+      {
+        "n": 13,
+        "hz": 1135.03,
+        "interval": "major 6th above 3 octaves",
+        "note": "C#6"
+      },
+      {
+        "n": 14,
+        "hz": 1222.34,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "D#6"
+      },
+      {
+        "n": 15,
+        "hz": 1309.65,
+        "interval": "major 7th above 3 octaves",
+        "note": "E6"
+      },
+      {
+        "n": 16,
+        "hz": 1396.96,
+        "interval": "4 octaves",
+        "note": "F6"
+      }
+    ]
+  },
+  {
+    "fundamental": "F#2",
+    "fundamental_hz": 92.5,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 92.5,
+        "interval": "unison",
+        "note": "F#2"
+      },
+      {
+        "n": 2,
+        "hz": 185.0,
+        "interval": "octave",
+        "note": "F#3"
+      },
+      {
+        "n": 3,
+        "hz": 277.5,
+        "interval": "perfect 5th above octave",
+        "note": "C#4"
+      },
+      {
+        "n": 4,
+        "hz": 370.0,
+        "interval": "2 octaves",
+        "note": "F#4"
+      },
+      {
+        "n": 5,
+        "hz": 462.5,
+        "interval": "major 3rd above 2 octaves",
+        "note": "A#4"
+      },
+      {
+        "n": 6,
+        "hz": 555.0,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "C#5"
+      },
+      {
+        "n": 7,
+        "hz": 647.5,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "E5"
+      },
+      {
+        "n": 8,
+        "hz": 740.0,
+        "interval": "3 octaves",
+        "note": "F#5"
+      },
+      {
+        "n": 9,
+        "hz": 832.5,
+        "interval": "major 2nd above 3 octaves",
+        "note": "G#5"
+      },
+      {
+        "n": 10,
+        "hz": 925.0,
+        "interval": "major 3rd above 3 octaves",
+        "note": "A#5"
+      },
+      {
+        "n": 11,
+        "hz": 1017.5,
+        "interval": "tritone above 3 octaves",
+        "note": "C6"
+      },
+      {
+        "n": 12,
+        "hz": 1110.0,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "C#6"
+      },
+      {
+        "n": 13,
+        "hz": 1202.5,
+        "interval": "major 6th above 3 octaves",
+        "note": "D6"
+      },
+      {
+        "n": 14,
+        "hz": 1295.0,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "E6"
+      },
+      {
+        "n": 15,
+        "hz": 1387.5,
+        "interval": "major 7th above 3 octaves",
+        "note": "F6"
+      },
+      {
+        "n": 16,
+        "hz": 1480.0,
+        "interval": "4 octaves",
+        "note": "F#6"
+      }
+    ]
+  },
+  {
+    "fundamental": "G2",
+    "fundamental_hz": 98.0,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 98.0,
+        "interval": "unison",
+        "note": "G2"
+      },
+      {
+        "n": 2,
+        "hz": 196.0,
+        "interval": "octave",
+        "note": "G3"
+      },
+      {
+        "n": 3,
+        "hz": 294.0,
+        "interval": "perfect 5th above octave",
+        "note": "D4"
+      },
+      {
+        "n": 4,
+        "hz": 392.0,
+        "interval": "2 octaves",
+        "note": "G4"
+      },
+      {
+        "n": 5,
+        "hz": 490.0,
+        "interval": "major 3rd above 2 octaves",
+        "note": "B4"
+      },
+      {
+        "n": 6,
+        "hz": 588.0,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "D5"
+      },
+      {
+        "n": 7,
+        "hz": 686.0,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "F5"
+      },
+      {
+        "n": 8,
+        "hz": 784.0,
+        "interval": "3 octaves",
+        "note": "G5"
+      },
+      {
+        "n": 9,
+        "hz": 882.0,
+        "interval": "major 2nd above 3 octaves",
+        "note": "A5"
+      },
+      {
+        "n": 10,
+        "hz": 980.0,
+        "interval": "major 3rd above 3 octaves",
+        "note": "B5"
+      },
+      {
+        "n": 11,
+        "hz": 1078.0,
+        "interval": "tritone above 3 octaves",
+        "note": "C#6"
+      },
+      {
+        "n": 12,
+        "hz": 1176.0,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "D6"
+      },
+      {
+        "n": 13,
+        "hz": 1274.0,
+        "interval": "major 6th above 3 octaves",
+        "note": "D#6"
+      },
+      {
+        "n": 14,
+        "hz": 1372.0,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "F6"
+      },
+      {
+        "n": 15,
+        "hz": 1470.0,
+        "interval": "major 7th above 3 octaves",
+        "note": "F#6"
+      },
+      {
+        "n": 16,
+        "hz": 1568.0,
+        "interval": "4 octaves",
+        "note": "G6"
+      }
+    ]
+  },
+  {
+    "fundamental": "G#2",
+    "fundamental_hz": 103.83,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 103.83,
+        "interval": "unison",
+        "note": "G#2"
+      },
+      {
+        "n": 2,
+        "hz": 207.66,
+        "interval": "octave",
+        "note": "G#3"
+      },
+      {
+        "n": 3,
+        "hz": 311.49,
+        "interval": "perfect 5th above octave",
+        "note": "D#4"
+      },
+      {
+        "n": 4,
+        "hz": 415.32,
+        "interval": "2 octaves",
+        "note": "G#4"
+      },
+      {
+        "n": 5,
+        "hz": 519.15,
+        "interval": "major 3rd above 2 octaves",
+        "note": "C5"
+      },
+      {
+        "n": 6,
+        "hz": 622.98,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "D#5"
+      },
+      {
+        "n": 7,
+        "hz": 726.81,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "F#5"
+      },
+      {
+        "n": 8,
+        "hz": 830.64,
+        "interval": "3 octaves",
+        "note": "G#5"
+      },
+      {
+        "n": 9,
+        "hz": 934.47,
+        "interval": "major 2nd above 3 octaves",
+        "note": "A#5"
+      },
+      {
+        "n": 10,
+        "hz": 1038.3,
+        "interval": "major 3rd above 3 octaves",
+        "note": "C6"
+      },
+      {
+        "n": 11,
+        "hz": 1142.13,
+        "interval": "tritone above 3 octaves",
+        "note": "D6"
+      },
+      {
+        "n": 12,
+        "hz": 1245.96,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "D#6"
+      },
+      {
+        "n": 13,
+        "hz": 1349.79,
+        "interval": "major 6th above 3 octaves",
+        "note": "E6"
+      },
+      {
+        "n": 14,
+        "hz": 1453.62,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "F#6"
+      },
+      {
+        "n": 15,
+        "hz": 1557.45,
+        "interval": "major 7th above 3 octaves",
+        "note": "G6"
+      },
+      {
+        "n": 16,
+        "hz": 1661.28,
+        "interval": "4 octaves",
+        "note": "G#6"
+      }
+    ]
+  },
+  {
+    "fundamental": "A2",
+    "fundamental_hz": 110.0,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 110.0,
+        "interval": "unison",
+        "note": "A2"
+      },
+      {
+        "n": 2,
+        "hz": 220.0,
+        "interval": "octave",
+        "note": "A3"
+      },
+      {
+        "n": 3,
+        "hz": 330.0,
+        "interval": "perfect 5th above octave",
+        "note": "E4"
+      },
+      {
+        "n": 4,
+        "hz": 440.0,
+        "interval": "2 octaves",
+        "note": "A4"
+      },
+      {
+        "n": 5,
+        "hz": 550.0,
+        "interval": "major 3rd above 2 octaves",
+        "note": "C#5"
+      },
+      {
+        "n": 6,
+        "hz": 660.0,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "E5"
+      },
+      {
+        "n": 7,
+        "hz": 770.0,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "G5"
+      },
+      {
+        "n": 8,
+        "hz": 880.0,
+        "interval": "3 octaves",
+        "note": "A5"
+      },
+      {
+        "n": 9,
+        "hz": 990.0,
+        "interval": "major 2nd above 3 octaves",
+        "note": "B5"
+      },
+      {
+        "n": 10,
+        "hz": 1100.0,
+        "interval": "major 3rd above 3 octaves",
+        "note": "C#6"
+      },
+      {
+        "n": 11,
+        "hz": 1210.0,
+        "interval": "tritone above 3 octaves",
+        "note": "D#6"
+      },
+      {
+        "n": 12,
+        "hz": 1320.0,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "E6"
+      },
+      {
+        "n": 13,
+        "hz": 1430.0,
+        "interval": "major 6th above 3 octaves",
+        "note": "F6"
+      },
+      {
+        "n": 14,
+        "hz": 1540.0,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "G6"
+      },
+      {
+        "n": 15,
+        "hz": 1650.0,
+        "interval": "major 7th above 3 octaves",
+        "note": "G#6"
+      },
+      {
+        "n": 16,
+        "hz": 1760.0,
+        "interval": "4 octaves",
+        "note": "A6"
+      }
+    ]
+  },
+  {
+    "fundamental": "A#2",
+    "fundamental_hz": 116.54,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 116.54,
+        "interval": "unison",
+        "note": "A#2"
+      },
+      {
+        "n": 2,
+        "hz": 233.08,
+        "interval": "octave",
+        "note": "A#3"
+      },
+      {
+        "n": 3,
+        "hz": 349.62,
+        "interval": "perfect 5th above octave",
+        "note": "F4"
+      },
+      {
+        "n": 4,
+        "hz": 466.16,
+        "interval": "2 octaves",
+        "note": "A#4"
+      },
+      {
+        "n": 5,
+        "hz": 582.7,
+        "interval": "major 3rd above 2 octaves",
+        "note": "D5"
+      },
+      {
+        "n": 6,
+        "hz": 699.24,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "F5"
+      },
+      {
+        "n": 7,
+        "hz": 815.78,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "G#5"
+      },
+      {
+        "n": 8,
+        "hz": 932.32,
+        "interval": "3 octaves",
+        "note": "A#5"
+      },
+      {
+        "n": 9,
+        "hz": 1048.86,
+        "interval": "major 2nd above 3 octaves",
+        "note": "C6"
+      },
+      {
+        "n": 10,
+        "hz": 1165.4,
+        "interval": "major 3rd above 3 octaves",
+        "note": "D6"
+      },
+      {
+        "n": 11,
+        "hz": 1281.94,
+        "interval": "tritone above 3 octaves",
+        "note": "E6"
+      },
+      {
+        "n": 12,
+        "hz": 1398.48,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "F6"
+      },
+      {
+        "n": 13,
+        "hz": 1515.02,
+        "interval": "major 6th above 3 octaves",
+        "note": "F#6"
+      },
+      {
+        "n": 14,
+        "hz": 1631.56,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "G#6"
+      },
+      {
+        "n": 15,
+        "hz": 1748.1,
+        "interval": "major 7th above 3 octaves",
+        "note": "A6"
+      },
+      {
+        "n": 16,
+        "hz": 1864.64,
+        "interval": "4 octaves",
+        "note": "A#6"
+      }
+    ]
+  },
+  {
+    "fundamental": "B2",
+    "fundamental_hz": 123.47,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 123.47,
+        "interval": "unison",
+        "note": "B2"
+      },
+      {
+        "n": 2,
+        "hz": 246.94,
+        "interval": "octave",
+        "note": "B3"
+      },
+      {
+        "n": 3,
+        "hz": 370.41,
+        "interval": "perfect 5th above octave",
+        "note": "F#4"
+      },
+      {
+        "n": 4,
+        "hz": 493.88,
+        "interval": "2 octaves",
+        "note": "B4"
+      },
+      {
+        "n": 5,
+        "hz": 617.35,
+        "interval": "major 3rd above 2 octaves",
+        "note": "D#5"
+      },
+      {
+        "n": 6,
+        "hz": 740.82,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "F#5"
+      },
+      {
+        "n": 7,
+        "hz": 864.29,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "A5"
+      },
+      {
+        "n": 8,
+        "hz": 987.76,
+        "interval": "3 octaves",
+        "note": "B5"
+      },
+      {
+        "n": 9,
+        "hz": 1111.23,
+        "interval": "major 2nd above 3 octaves",
+        "note": "C#6"
+      },
+      {
+        "n": 10,
+        "hz": 1234.7,
+        "interval": "major 3rd above 3 octaves",
+        "note": "D#6"
+      },
+      {
+        "n": 11,
+        "hz": 1358.17,
+        "interval": "tritone above 3 octaves",
+        "note": "F6"
+      },
+      {
+        "n": 12,
+        "hz": 1481.64,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "F#6"
+      },
+      {
+        "n": 13,
+        "hz": 1605.11,
+        "interval": "major 6th above 3 octaves",
+        "note": "G6"
+      },
+      {
+        "n": 14,
+        "hz": 1728.58,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "A6"
+      },
+      {
+        "n": 15,
+        "hz": 1852.05,
+        "interval": "major 7th above 3 octaves",
+        "note": "A#6"
+      },
+      {
+        "n": 16,
+        "hz": 1975.52,
+        "interval": "4 octaves",
+        "note": "B6"
+      }
+    ]
+  },
+  {
+    "fundamental": "C3",
+    "fundamental_hz": 130.81,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 130.81,
+        "interval": "unison",
+        "note": "C3"
+      },
+      {
+        "n": 2,
+        "hz": 261.62,
+        "interval": "octave",
+        "note": "C4"
+      },
+      {
+        "n": 3,
+        "hz": 392.43,
+        "interval": "perfect 5th above octave",
+        "note": "G4"
+      },
+      {
+        "n": 4,
+        "hz": 523.24,
+        "interval": "2 octaves",
+        "note": "C5"
+      },
+      {
+        "n": 5,
+        "hz": 654.05,
+        "interval": "major 3rd above 2 octaves",
+        "note": "E5"
+      },
+      {
+        "n": 6,
+        "hz": 784.86,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "G5"
+      },
+      {
+        "n": 7,
+        "hz": 915.67,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "A#5"
+      },
+      {
+        "n": 8,
+        "hz": 1046.48,
+        "interval": "3 octaves",
+        "note": "C6"
+      },
+      {
+        "n": 9,
+        "hz": 1177.29,
+        "interval": "major 2nd above 3 octaves",
+        "note": "D6"
+      },
+      {
+        "n": 10,
+        "hz": 1308.1,
+        "interval": "major 3rd above 3 octaves",
+        "note": "E6"
+      },
+      {
+        "n": 11,
+        "hz": 1438.91,
+        "interval": "tritone above 3 octaves",
+        "note": "F#6"
+      },
+      {
+        "n": 12,
+        "hz": 1569.72,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "G6"
+      },
+      {
+        "n": 13,
+        "hz": 1700.53,
+        "interval": "major 6th above 3 octaves",
+        "note": "G#6"
+      },
+      {
+        "n": 14,
+        "hz": 1831.34,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "A#6"
+      },
+      {
+        "n": 15,
+        "hz": 1962.15,
+        "interval": "major 7th above 3 octaves",
+        "note": "B6"
+      },
+      {
+        "n": 16,
+        "hz": 2092.96,
+        "interval": "4 octaves",
+        "note": "C7"
+      }
+    ]
+  },
+  {
+    "fundamental": "C#3",
+    "fundamental_hz": 138.59,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 138.59,
+        "interval": "unison",
+        "note": "C#3"
+      },
+      {
+        "n": 2,
+        "hz": 277.18,
+        "interval": "octave",
+        "note": "C#4"
+      },
+      {
+        "n": 3,
+        "hz": 415.77,
+        "interval": "perfect 5th above octave",
+        "note": "G#4"
+      },
+      {
+        "n": 4,
+        "hz": 554.36,
+        "interval": "2 octaves",
+        "note": "C#5"
+      },
+      {
+        "n": 5,
+        "hz": 692.95,
+        "interval": "major 3rd above 2 octaves",
+        "note": "F5"
+      },
+      {
+        "n": 6,
+        "hz": 831.54,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "G#5"
+      },
+      {
+        "n": 7,
+        "hz": 970.13,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "B5"
+      },
+      {
+        "n": 8,
+        "hz": 1108.72,
+        "interval": "3 octaves",
+        "note": "C#6"
+      },
+      {
+        "n": 9,
+        "hz": 1247.31,
+        "interval": "major 2nd above 3 octaves",
+        "note": "D#6"
+      },
+      {
+        "n": 10,
+        "hz": 1385.9,
+        "interval": "major 3rd above 3 octaves",
+        "note": "F6"
+      },
+      {
+        "n": 11,
+        "hz": 1524.49,
+        "interval": "tritone above 3 octaves",
+        "note": "G6"
+      },
+      {
+        "n": 12,
+        "hz": 1663.08,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "G#6"
+      },
+      {
+        "n": 13,
+        "hz": 1801.67,
+        "interval": "major 6th above 3 octaves",
+        "note": "A6"
+      },
+      {
+        "n": 14,
+        "hz": 1940.26,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "B6"
+      },
+      {
+        "n": 15,
+        "hz": 2078.85,
+        "interval": "major 7th above 3 octaves",
+        "note": "C7"
+      },
+      {
+        "n": 16,
+        "hz": 2217.44,
+        "interval": "4 octaves",
+        "note": "C#7"
+      }
+    ]
+  },
+  {
+    "fundamental": "D3",
+    "fundamental_hz": 146.83,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 146.83,
+        "interval": "unison",
+        "note": "D3"
+      },
+      {
+        "n": 2,
+        "hz": 293.66,
+        "interval": "octave",
+        "note": "D4"
+      },
+      {
+        "n": 3,
+        "hz": 440.49,
+        "interval": "perfect 5th above octave",
+        "note": "A4"
+      },
+      {
+        "n": 4,
+        "hz": 587.32,
+        "interval": "2 octaves",
+        "note": "D5"
+      },
+      {
+        "n": 5,
+        "hz": 734.15,
+        "interval": "major 3rd above 2 octaves",
+        "note": "F#5"
+      },
+      {
+        "n": 6,
+        "hz": 880.98,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "A5"
+      },
+      {
+        "n": 7,
+        "hz": 1027.81,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "C6"
+      },
+      {
+        "n": 8,
+        "hz": 1174.64,
+        "interval": "3 octaves",
+        "note": "D6"
+      },
+      {
+        "n": 9,
+        "hz": 1321.47,
+        "interval": "major 2nd above 3 octaves",
+        "note": "E6"
+      },
+      {
+        "n": 10,
+        "hz": 1468.3,
+        "interval": "major 3rd above 3 octaves",
+        "note": "F#6"
+      },
+      {
+        "n": 11,
+        "hz": 1615.13,
+        "interval": "tritone above 3 octaves",
+        "note": "G#6"
+      },
+      {
+        "n": 12,
+        "hz": 1761.96,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "A6"
+      },
+      {
+        "n": 13,
+        "hz": 1908.79,
+        "interval": "major 6th above 3 octaves",
+        "note": "A#6"
+      },
+      {
+        "n": 14,
+        "hz": 2055.62,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "C7"
+      },
+      {
+        "n": 15,
+        "hz": 2202.45,
+        "interval": "major 7th above 3 octaves",
+        "note": "C#7"
+      },
+      {
+        "n": 16,
+        "hz": 2349.28,
+        "interval": "4 octaves",
+        "note": "D7"
+      }
+    ]
+  },
+  {
+    "fundamental": "D#3",
+    "fundamental_hz": 155.56,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 155.56,
+        "interval": "unison",
+        "note": "D#3"
+      },
+      {
+        "n": 2,
+        "hz": 311.12,
+        "interval": "octave",
+        "note": "D#4"
+      },
+      {
+        "n": 3,
+        "hz": 466.68,
+        "interval": "perfect 5th above octave",
+        "note": "A#4"
+      },
+      {
+        "n": 4,
+        "hz": 622.24,
+        "interval": "2 octaves",
+        "note": "D#5"
+      },
+      {
+        "n": 5,
+        "hz": 777.8,
+        "interval": "major 3rd above 2 octaves",
+        "note": "G5"
+      },
+      {
+        "n": 6,
+        "hz": 933.36,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "A#5"
+      },
+      {
+        "n": 7,
+        "hz": 1088.92,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "C#6"
+      },
+      {
+        "n": 8,
+        "hz": 1244.48,
+        "interval": "3 octaves",
+        "note": "D#6"
+      },
+      {
+        "n": 9,
+        "hz": 1400.04,
+        "interval": "major 2nd above 3 octaves",
+        "note": "F6"
+      },
+      {
+        "n": 10,
+        "hz": 1555.6,
+        "interval": "major 3rd above 3 octaves",
+        "note": "G6"
+      },
+      {
+        "n": 11,
+        "hz": 1711.16,
+        "interval": "tritone above 3 octaves",
+        "note": "A6"
+      },
+      {
+        "n": 12,
+        "hz": 1866.72,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "A#6"
+      },
+      {
+        "n": 13,
+        "hz": 2022.28,
+        "interval": "major 6th above 3 octaves",
+        "note": "B6"
+      },
+      {
+        "n": 14,
+        "hz": 2177.84,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "C#7"
+      },
+      {
+        "n": 15,
+        "hz": 2333.4,
+        "interval": "major 7th above 3 octaves",
+        "note": "D7"
+      },
+      {
+        "n": 16,
+        "hz": 2488.96,
+        "interval": "4 octaves",
+        "note": "D#7"
+      }
+    ]
+  },
+  {
+    "fundamental": "E3",
+    "fundamental_hz": 164.81,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 164.81,
+        "interval": "unison",
+        "note": "E3"
+      },
+      {
+        "n": 2,
+        "hz": 329.62,
+        "interval": "octave",
+        "note": "E4"
+      },
+      {
+        "n": 3,
+        "hz": 494.43,
+        "interval": "perfect 5th above octave",
+        "note": "B4"
+      },
+      {
+        "n": 4,
+        "hz": 659.24,
+        "interval": "2 octaves",
+        "note": "E5"
+      },
+      {
+        "n": 5,
+        "hz": 824.05,
+        "interval": "major 3rd above 2 octaves",
+        "note": "G#5"
+      },
+      {
+        "n": 6,
+        "hz": 988.86,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "B5"
+      },
+      {
+        "n": 7,
+        "hz": 1153.67,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "D6"
+      },
+      {
+        "n": 8,
+        "hz": 1318.48,
+        "interval": "3 octaves",
+        "note": "E6"
+      },
+      {
+        "n": 9,
+        "hz": 1483.29,
+        "interval": "major 2nd above 3 octaves",
+        "note": "F#6"
+      },
+      {
+        "n": 10,
+        "hz": 1648.1,
+        "interval": "major 3rd above 3 octaves",
+        "note": "G#6"
+      },
+      {
+        "n": 11,
+        "hz": 1812.91,
+        "interval": "tritone above 3 octaves",
+        "note": "A#6"
+      },
+      {
+        "n": 12,
+        "hz": 1977.72,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "B6"
+      },
+      {
+        "n": 13,
+        "hz": 2142.53,
+        "interval": "major 6th above 3 octaves",
+        "note": "C7"
+      },
+      {
+        "n": 14,
+        "hz": 2307.34,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "D7"
+      },
+      {
+        "n": 15,
+        "hz": 2472.15,
+        "interval": "major 7th above 3 octaves",
+        "note": "D#7"
+      },
+      {
+        "n": 16,
+        "hz": 2636.96,
+        "interval": "4 octaves",
+        "note": "E7"
+      }
+    ]
+  },
+  {
+    "fundamental": "F3",
+    "fundamental_hz": 174.61,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 174.61,
+        "interval": "unison",
+        "note": "F3"
+      },
+      {
+        "n": 2,
+        "hz": 349.22,
+        "interval": "octave",
+        "note": "F4"
+      },
+      {
+        "n": 3,
+        "hz": 523.83,
+        "interval": "perfect 5th above octave",
+        "note": "C5"
+      },
+      {
+        "n": 4,
+        "hz": 698.44,
+        "interval": "2 octaves",
+        "note": "F5"
+      },
+      {
+        "n": 5,
+        "hz": 873.05,
+        "interval": "major 3rd above 2 octaves",
+        "note": "A5"
+      },
+      {
+        "n": 6,
+        "hz": 1047.66,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "C6"
+      },
+      {
+        "n": 7,
+        "hz": 1222.27,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "D#6"
+      },
+      {
+        "n": 8,
+        "hz": 1396.88,
+        "interval": "3 octaves",
+        "note": "F6"
+      },
+      {
+        "n": 9,
+        "hz": 1571.49,
+        "interval": "major 2nd above 3 octaves",
+        "note": "G6"
+      },
+      {
+        "n": 10,
+        "hz": 1746.1,
+        "interval": "major 3rd above 3 octaves",
+        "note": "A6"
+      },
+      {
+        "n": 11,
+        "hz": 1920.71,
+        "interval": "tritone above 3 octaves",
+        "note": "B6"
+      },
+      {
+        "n": 12,
+        "hz": 2095.32,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "C7"
+      },
+      {
+        "n": 13,
+        "hz": 2269.93,
+        "interval": "major 6th above 3 octaves",
+        "note": "C#7"
+      },
+      {
+        "n": 14,
+        "hz": 2444.54,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "D#7"
+      },
+      {
+        "n": 15,
+        "hz": 2619.15,
+        "interval": "major 7th above 3 octaves",
+        "note": "E7"
+      },
+      {
+        "n": 16,
+        "hz": 2793.76,
+        "interval": "4 octaves",
+        "note": "F7"
+      }
+    ]
+  },
+  {
+    "fundamental": "F#3",
+    "fundamental_hz": 185.0,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 185.0,
+        "interval": "unison",
+        "note": "F#3"
+      },
+      {
+        "n": 2,
+        "hz": 370.0,
+        "interval": "octave",
+        "note": "F#4"
+      },
+      {
+        "n": 3,
+        "hz": 555.0,
+        "interval": "perfect 5th above octave",
+        "note": "C#5"
+      },
+      {
+        "n": 4,
+        "hz": 740.0,
+        "interval": "2 octaves",
+        "note": "F#5"
+      },
+      {
+        "n": 5,
+        "hz": 925.0,
+        "interval": "major 3rd above 2 octaves",
+        "note": "A#5"
+      },
+      {
+        "n": 6,
+        "hz": 1110.0,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "C#6"
+      },
+      {
+        "n": 7,
+        "hz": 1295.0,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "E6"
+      },
+      {
+        "n": 8,
+        "hz": 1480.0,
+        "interval": "3 octaves",
+        "note": "F#6"
+      },
+      {
+        "n": 9,
+        "hz": 1665.0,
+        "interval": "major 2nd above 3 octaves",
+        "note": "G#6"
+      },
+      {
+        "n": 10,
+        "hz": 1850.0,
+        "interval": "major 3rd above 3 octaves",
+        "note": "A#6"
+      },
+      {
+        "n": 11,
+        "hz": 2035.0,
+        "interval": "tritone above 3 octaves",
+        "note": "C7"
+      },
+      {
+        "n": 12,
+        "hz": 2220.0,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "C#7"
+      },
+      {
+        "n": 13,
+        "hz": 2405.0,
+        "interval": "major 6th above 3 octaves",
+        "note": "D7"
+      },
+      {
+        "n": 14,
+        "hz": 2590.0,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "E7"
+      },
+      {
+        "n": 15,
+        "hz": 2775.0,
+        "interval": "major 7th above 3 octaves",
+        "note": "F7"
+      },
+      {
+        "n": 16,
+        "hz": 2960.0,
+        "interval": "4 octaves",
+        "note": "F#7"
+      }
+    ]
+  },
+  {
+    "fundamental": "G3",
+    "fundamental_hz": 196.0,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 196.0,
+        "interval": "unison",
+        "note": "G3"
+      },
+      {
+        "n": 2,
+        "hz": 392.0,
+        "interval": "octave",
+        "note": "G4"
+      },
+      {
+        "n": 3,
+        "hz": 588.0,
+        "interval": "perfect 5th above octave",
+        "note": "D5"
+      },
+      {
+        "n": 4,
+        "hz": 784.0,
+        "interval": "2 octaves",
+        "note": "G5"
+      },
+      {
+        "n": 5,
+        "hz": 980.0,
+        "interval": "major 3rd above 2 octaves",
+        "note": "B5"
+      },
+      {
+        "n": 6,
+        "hz": 1176.0,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "D6"
+      },
+      {
+        "n": 7,
+        "hz": 1372.0,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "F6"
+      },
+      {
+        "n": 8,
+        "hz": 1568.0,
+        "interval": "3 octaves",
+        "note": "G6"
+      },
+      {
+        "n": 9,
+        "hz": 1764.0,
+        "interval": "major 2nd above 3 octaves",
+        "note": "A6"
+      },
+      {
+        "n": 10,
+        "hz": 1960.0,
+        "interval": "major 3rd above 3 octaves",
+        "note": "B6"
+      },
+      {
+        "n": 11,
+        "hz": 2156.0,
+        "interval": "tritone above 3 octaves",
+        "note": "C#7"
+      },
+      {
+        "n": 12,
+        "hz": 2352.0,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "D7"
+      },
+      {
+        "n": 13,
+        "hz": 2548.0,
+        "interval": "major 6th above 3 octaves",
+        "note": "D#7"
+      },
+      {
+        "n": 14,
+        "hz": 2744.0,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "F7"
+      },
+      {
+        "n": 15,
+        "hz": 2940.0,
+        "interval": "major 7th above 3 octaves",
+        "note": "F#7"
+      },
+      {
+        "n": 16,
+        "hz": 3136.0,
+        "interval": "4 octaves",
+        "note": "G7"
+      }
+    ]
+  },
+  {
+    "fundamental": "G#3",
+    "fundamental_hz": 207.65,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 207.65,
+        "interval": "unison",
+        "note": "G#3"
+      },
+      {
+        "n": 2,
+        "hz": 415.3,
+        "interval": "octave",
+        "note": "G#4"
+      },
+      {
+        "n": 3,
+        "hz": 622.95,
+        "interval": "perfect 5th above octave",
+        "note": "D#5"
+      },
+      {
+        "n": 4,
+        "hz": 830.6,
+        "interval": "2 octaves",
+        "note": "G#5"
+      },
+      {
+        "n": 5,
+        "hz": 1038.25,
+        "interval": "major 3rd above 2 octaves",
+        "note": "C6"
+      },
+      {
+        "n": 6,
+        "hz": 1245.9,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "D#6"
+      },
+      {
+        "n": 7,
+        "hz": 1453.55,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "F#6"
+      },
+      {
+        "n": 8,
+        "hz": 1661.2,
+        "interval": "3 octaves",
+        "note": "G#6"
+      },
+      {
+        "n": 9,
+        "hz": 1868.85,
+        "interval": "major 2nd above 3 octaves",
+        "note": "A#6"
+      },
+      {
+        "n": 10,
+        "hz": 2076.5,
+        "interval": "major 3rd above 3 octaves",
+        "note": "C7"
+      },
+      {
+        "n": 11,
+        "hz": 2284.15,
+        "interval": "tritone above 3 octaves",
+        "note": "D7"
+      },
+      {
+        "n": 12,
+        "hz": 2491.8,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "D#7"
+      },
+      {
+        "n": 13,
+        "hz": 2699.45,
+        "interval": "major 6th above 3 octaves",
+        "note": "E7"
+      },
+      {
+        "n": 14,
+        "hz": 2907.1,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "F#7"
+      },
+      {
+        "n": 15,
+        "hz": 3114.75,
+        "interval": "major 7th above 3 octaves",
+        "note": "G7"
+      },
+      {
+        "n": 16,
+        "hz": 3322.4,
+        "interval": "4 octaves",
+        "note": "G#7"
+      }
+    ]
+  },
+  {
+    "fundamental": "A3",
+    "fundamental_hz": 220.0,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 220.0,
+        "interval": "unison",
+        "note": "A3"
+      },
+      {
+        "n": 2,
+        "hz": 440.0,
+        "interval": "octave",
+        "note": "A4"
+      },
+      {
+        "n": 3,
+        "hz": 660.0,
+        "interval": "perfect 5th above octave",
+        "note": "E5"
+      },
+      {
+        "n": 4,
+        "hz": 880.0,
+        "interval": "2 octaves",
+        "note": "A5"
+      },
+      {
+        "n": 5,
+        "hz": 1100.0,
+        "interval": "major 3rd above 2 octaves",
+        "note": "C#6"
+      },
+      {
+        "n": 6,
+        "hz": 1320.0,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "E6"
+      },
+      {
+        "n": 7,
+        "hz": 1540.0,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "G6"
+      },
+      {
+        "n": 8,
+        "hz": 1760.0,
+        "interval": "3 octaves",
+        "note": "A6"
+      },
+      {
+        "n": 9,
+        "hz": 1980.0,
+        "interval": "major 2nd above 3 octaves",
+        "note": "B6"
+      },
+      {
+        "n": 10,
+        "hz": 2200.0,
+        "interval": "major 3rd above 3 octaves",
+        "note": "C#7"
+      },
+      {
+        "n": 11,
+        "hz": 2420.0,
+        "interval": "tritone above 3 octaves",
+        "note": "D#7"
+      },
+      {
+        "n": 12,
+        "hz": 2640.0,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "E7"
+      },
+      {
+        "n": 13,
+        "hz": 2860.0,
+        "interval": "major 6th above 3 octaves",
+        "note": "F7"
+      },
+      {
+        "n": 14,
+        "hz": 3080.0,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "G7"
+      },
+      {
+        "n": 15,
+        "hz": 3300.0,
+        "interval": "major 7th above 3 octaves",
+        "note": "G#7"
+      },
+      {
+        "n": 16,
+        "hz": 3520.0,
+        "interval": "4 octaves",
+        "note": "A7"
+      }
+    ]
+  },
+  {
+    "fundamental": "A#3",
+    "fundamental_hz": 233.08,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 233.08,
+        "interval": "unison",
+        "note": "A#3"
+      },
+      {
+        "n": 2,
+        "hz": 466.16,
+        "interval": "octave",
+        "note": "A#4"
+      },
+      {
+        "n": 3,
+        "hz": 699.24,
+        "interval": "perfect 5th above octave",
+        "note": "F5"
+      },
+      {
+        "n": 4,
+        "hz": 932.32,
+        "interval": "2 octaves",
+        "note": "A#5"
+      },
+      {
+        "n": 5,
+        "hz": 1165.4,
+        "interval": "major 3rd above 2 octaves",
+        "note": "D6"
+      },
+      {
+        "n": 6,
+        "hz": 1398.48,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "F6"
+      },
+      {
+        "n": 7,
+        "hz": 1631.56,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "G#6"
+      },
+      {
+        "n": 8,
+        "hz": 1864.64,
+        "interval": "3 octaves",
+        "note": "A#6"
+      },
+      {
+        "n": 9,
+        "hz": 2097.72,
+        "interval": "major 2nd above 3 octaves",
+        "note": "C7"
+      },
+      {
+        "n": 10,
+        "hz": 2330.8,
+        "interval": "major 3rd above 3 octaves",
+        "note": "D7"
+      },
+      {
+        "n": 11,
+        "hz": 2563.88,
+        "interval": "tritone above 3 octaves",
+        "note": "E7"
+      },
+      {
+        "n": 12,
+        "hz": 2796.96,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "F7"
+      },
+      {
+        "n": 13,
+        "hz": 3030.04,
+        "interval": "major 6th above 3 octaves",
+        "note": "F#7"
+      },
+      {
+        "n": 14,
+        "hz": 3263.12,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "G#7"
+      },
+      {
+        "n": 15,
+        "hz": 3496.2,
+        "interval": "major 7th above 3 octaves",
+        "note": "A7"
+      },
+      {
+        "n": 16,
+        "hz": 3729.28,
+        "interval": "4 octaves",
+        "note": "A#7"
+      }
+    ]
+  },
+  {
+    "fundamental": "B3",
+    "fundamental_hz": 246.94,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 246.94,
+        "interval": "unison",
+        "note": "B3"
+      },
+      {
+        "n": 2,
+        "hz": 493.88,
+        "interval": "octave",
+        "note": "B4"
+      },
+      {
+        "n": 3,
+        "hz": 740.82,
+        "interval": "perfect 5th above octave",
+        "note": "F#5"
+      },
+      {
+        "n": 4,
+        "hz": 987.76,
+        "interval": "2 octaves",
+        "note": "B5"
+      },
+      {
+        "n": 5,
+        "hz": 1234.7,
+        "interval": "major 3rd above 2 octaves",
+        "note": "D#6"
+      },
+      {
+        "n": 6,
+        "hz": 1481.64,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "F#6"
+      },
+      {
+        "n": 7,
+        "hz": 1728.58,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "A6"
+      },
+      {
+        "n": 8,
+        "hz": 1975.52,
+        "interval": "3 octaves",
+        "note": "B6"
+      },
+      {
+        "n": 9,
+        "hz": 2222.46,
+        "interval": "major 2nd above 3 octaves",
+        "note": "C#7"
+      },
+      {
+        "n": 10,
+        "hz": 2469.4,
+        "interval": "major 3rd above 3 octaves",
+        "note": "D#7"
+      },
+      {
+        "n": 11,
+        "hz": 2716.34,
+        "interval": "tritone above 3 octaves",
+        "note": "F7"
+      },
+      {
+        "n": 12,
+        "hz": 2963.28,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "F#7"
+      },
+      {
+        "n": 13,
+        "hz": 3210.22,
+        "interval": "major 6th above 3 octaves",
+        "note": "G7"
+      },
+      {
+        "n": 14,
+        "hz": 3457.16,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "A7"
+      },
+      {
+        "n": 15,
+        "hz": 3704.1,
+        "interval": "major 7th above 3 octaves",
+        "note": "A#7"
+      },
+      {
+        "n": 16,
+        "hz": 3951.04,
+        "interval": "4 octaves",
+        "note": "B7"
+      }
+    ]
+  },
+  {
+    "fundamental": "C4",
+    "fundamental_hz": 261.63,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 261.63,
+        "interval": "unison",
+        "note": "C4"
+      },
+      {
+        "n": 2,
+        "hz": 523.26,
+        "interval": "octave",
+        "note": "C5"
+      },
+      {
+        "n": 3,
+        "hz": 784.89,
+        "interval": "perfect 5th above octave",
+        "note": "G5"
+      },
+      {
+        "n": 4,
+        "hz": 1046.52,
+        "interval": "2 octaves",
+        "note": "C6"
+      },
+      {
+        "n": 5,
+        "hz": 1308.15,
+        "interval": "major 3rd above 2 octaves",
+        "note": "E6"
+      },
+      {
+        "n": 6,
+        "hz": 1569.78,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "G6"
+      },
+      {
+        "n": 7,
+        "hz": 1831.41,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "A#6"
+      },
+      {
+        "n": 8,
+        "hz": 2093.04,
+        "interval": "3 octaves",
+        "note": "C7"
+      },
+      {
+        "n": 9,
+        "hz": 2354.67,
+        "interval": "major 2nd above 3 octaves",
+        "note": "D7"
+      },
+      {
+        "n": 10,
+        "hz": 2616.3,
+        "interval": "major 3rd above 3 octaves",
+        "note": "E7"
+      },
+      {
+        "n": 11,
+        "hz": 2877.93,
+        "interval": "tritone above 3 octaves",
+        "note": "F#7"
+      },
+      {
+        "n": 12,
+        "hz": 3139.56,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "G7"
+      },
+      {
+        "n": 13,
+        "hz": 3401.19,
+        "interval": "major 6th above 3 octaves",
+        "note": "G#7"
+      },
+      {
+        "n": 14,
+        "hz": 3662.82,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "A#7"
+      },
+      {
+        "n": 15,
+        "hz": 3924.45,
+        "interval": "major 7th above 3 octaves",
+        "note": "B7"
+      },
+      {
+        "n": 16,
+        "hz": 4186.08,
+        "interval": "4 octaves",
+        "note": "C8"
+      }
+    ]
+  },
+  {
+    "fundamental": "C#4",
+    "fundamental_hz": 277.18,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 277.18,
+        "interval": "unison",
+        "note": "C#4"
+      },
+      {
+        "n": 2,
+        "hz": 554.36,
+        "interval": "octave",
+        "note": "C#5"
+      },
+      {
+        "n": 3,
+        "hz": 831.54,
+        "interval": "perfect 5th above octave",
+        "note": "G#5"
+      },
+      {
+        "n": 4,
+        "hz": 1108.72,
+        "interval": "2 octaves",
+        "note": "C#6"
+      },
+      {
+        "n": 5,
+        "hz": 1385.9,
+        "interval": "major 3rd above 2 octaves",
+        "note": "F6"
+      },
+      {
+        "n": 6,
+        "hz": 1663.08,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "G#6"
+      },
+      {
+        "n": 7,
+        "hz": 1940.26,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "B6"
+      },
+      {
+        "n": 8,
+        "hz": 2217.44,
+        "interval": "3 octaves",
+        "note": "C#7"
+      },
+      {
+        "n": 9,
+        "hz": 2494.62,
+        "interval": "major 2nd above 3 octaves",
+        "note": "D#7"
+      },
+      {
+        "n": 10,
+        "hz": 2771.8,
+        "interval": "major 3rd above 3 octaves",
+        "note": "F7"
+      },
+      {
+        "n": 11,
+        "hz": 3048.98,
+        "interval": "tritone above 3 octaves",
+        "note": "G7"
+      },
+      {
+        "n": 12,
+        "hz": 3326.16,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "G#7"
+      },
+      {
+        "n": 13,
+        "hz": 3603.34,
+        "interval": "major 6th above 3 octaves",
+        "note": "A7"
+      },
+      {
+        "n": 14,
+        "hz": 3880.52,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "B7"
+      },
+      {
+        "n": 15,
+        "hz": 4157.7,
+        "interval": "major 7th above 3 octaves",
+        "note": "C8"
+      },
+      {
+        "n": 16,
+        "hz": 4434.88,
+        "interval": "4 octaves",
+        "note": "C#8"
+      }
+    ]
+  },
+  {
+    "fundamental": "D4",
+    "fundamental_hz": 293.66,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 293.66,
+        "interval": "unison",
+        "note": "D4"
+      },
+      {
+        "n": 2,
+        "hz": 587.32,
+        "interval": "octave",
+        "note": "D5"
+      },
+      {
+        "n": 3,
+        "hz": 880.98,
+        "interval": "perfect 5th above octave",
+        "note": "A5"
+      },
+      {
+        "n": 4,
+        "hz": 1174.64,
+        "interval": "2 octaves",
+        "note": "D6"
+      },
+      {
+        "n": 5,
+        "hz": 1468.3,
+        "interval": "major 3rd above 2 octaves",
+        "note": "F#6"
+      },
+      {
+        "n": 6,
+        "hz": 1761.96,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "A6"
+      },
+      {
+        "n": 7,
+        "hz": 2055.62,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "C7"
+      },
+      {
+        "n": 8,
+        "hz": 2349.28,
+        "interval": "3 octaves",
+        "note": "D7"
+      },
+      {
+        "n": 9,
+        "hz": 2642.94,
+        "interval": "major 2nd above 3 octaves",
+        "note": "E7"
+      },
+      {
+        "n": 10,
+        "hz": 2936.6,
+        "interval": "major 3rd above 3 octaves",
+        "note": "F#7"
+      },
+      {
+        "n": 11,
+        "hz": 3230.26,
+        "interval": "tritone above 3 octaves",
+        "note": "G#7"
+      },
+      {
+        "n": 12,
+        "hz": 3523.92,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "A7"
+      },
+      {
+        "n": 13,
+        "hz": 3817.58,
+        "interval": "major 6th above 3 octaves",
+        "note": "A#7"
+      },
+      {
+        "n": 14,
+        "hz": 4111.24,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "C8"
+      },
+      {
+        "n": 15,
+        "hz": 4404.9,
+        "interval": "major 7th above 3 octaves",
+        "note": "C#8"
+      },
+      {
+        "n": 16,
+        "hz": 4698.56,
+        "interval": "4 octaves",
+        "note": "D8"
+      }
+    ]
+  },
+  {
+    "fundamental": "D#4",
+    "fundamental_hz": 311.13,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 311.13,
+        "interval": "unison",
+        "note": "D#4"
+      },
+      {
+        "n": 2,
+        "hz": 622.26,
+        "interval": "octave",
+        "note": "D#5"
+      },
+      {
+        "n": 3,
+        "hz": 933.39,
+        "interval": "perfect 5th above octave",
+        "note": "A#5"
+      },
+      {
+        "n": 4,
+        "hz": 1244.52,
+        "interval": "2 octaves",
+        "note": "D#6"
+      },
+      {
+        "n": 5,
+        "hz": 1555.65,
+        "interval": "major 3rd above 2 octaves",
+        "note": "G6"
+      },
+      {
+        "n": 6,
+        "hz": 1866.78,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "A#6"
+      },
+      {
+        "n": 7,
+        "hz": 2177.91,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "C#7"
+      },
+      {
+        "n": 8,
+        "hz": 2489.04,
+        "interval": "3 octaves",
+        "note": "D#7"
+      },
+      {
+        "n": 9,
+        "hz": 2800.17,
+        "interval": "major 2nd above 3 octaves",
+        "note": "F7"
+      },
+      {
+        "n": 10,
+        "hz": 3111.3,
+        "interval": "major 3rd above 3 octaves",
+        "note": "G7"
+      },
+      {
+        "n": 11,
+        "hz": 3422.43,
+        "interval": "tritone above 3 octaves",
+        "note": "A7"
+      },
+      {
+        "n": 12,
+        "hz": 3733.56,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "A#7"
+      },
+      {
+        "n": 13,
+        "hz": 4044.69,
+        "interval": "major 6th above 3 octaves",
+        "note": "B7"
+      },
+      {
+        "n": 14,
+        "hz": 4355.82,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "C#8"
+      },
+      {
+        "n": 15,
+        "hz": 4666.95,
+        "interval": "major 7th above 3 octaves",
+        "note": "D8"
+      },
+      {
+        "n": 16,
+        "hz": 4978.08,
+        "interval": "4 octaves",
+        "note": "D#8"
+      }
+    ]
+  },
+  {
+    "fundamental": "E4",
+    "fundamental_hz": 329.63,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 329.63,
+        "interval": "unison",
+        "note": "E4"
+      },
+      {
+        "n": 2,
+        "hz": 659.26,
+        "interval": "octave",
+        "note": "E5"
+      },
+      {
+        "n": 3,
+        "hz": 988.89,
+        "interval": "perfect 5th above octave",
+        "note": "B5"
+      },
+      {
+        "n": 4,
+        "hz": 1318.52,
+        "interval": "2 octaves",
+        "note": "E6"
+      },
+      {
+        "n": 5,
+        "hz": 1648.15,
+        "interval": "major 3rd above 2 octaves",
+        "note": "G#6"
+      },
+      {
+        "n": 6,
+        "hz": 1977.78,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "B6"
+      },
+      {
+        "n": 7,
+        "hz": 2307.41,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "D7"
+      },
+      {
+        "n": 8,
+        "hz": 2637.04,
+        "interval": "3 octaves",
+        "note": "E7"
+      },
+      {
+        "n": 9,
+        "hz": 2966.67,
+        "interval": "major 2nd above 3 octaves",
+        "note": "F#7"
+      },
+      {
+        "n": 10,
+        "hz": 3296.3,
+        "interval": "major 3rd above 3 octaves",
+        "note": "G#7"
+      },
+      {
+        "n": 11,
+        "hz": 3625.93,
+        "interval": "tritone above 3 octaves",
+        "note": "A#7"
+      },
+      {
+        "n": 12,
+        "hz": 3955.56,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "B7"
+      },
+      {
+        "n": 13,
+        "hz": 4285.19,
+        "interval": "major 6th above 3 octaves",
+        "note": "C8"
+      },
+      {
+        "n": 14,
+        "hz": 4614.82,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "D8"
+      },
+      {
+        "n": 15,
+        "hz": 4944.45,
+        "interval": "major 7th above 3 octaves",
+        "note": "D#8"
+      },
+      {
+        "n": 16,
+        "hz": 5274.08,
+        "interval": "4 octaves",
+        "note": "E8"
+      }
+    ]
+  },
+  {
+    "fundamental": "F4",
+    "fundamental_hz": 349.23,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 349.23,
+        "interval": "unison",
+        "note": "F4"
+      },
+      {
+        "n": 2,
+        "hz": 698.46,
+        "interval": "octave",
+        "note": "F5"
+      },
+      {
+        "n": 3,
+        "hz": 1047.69,
+        "interval": "perfect 5th above octave",
+        "note": "C6"
+      },
+      {
+        "n": 4,
+        "hz": 1396.92,
+        "interval": "2 octaves",
+        "note": "F6"
+      },
+      {
+        "n": 5,
+        "hz": 1746.15,
+        "interval": "major 3rd above 2 octaves",
+        "note": "A6"
+      },
+      {
+        "n": 6,
+        "hz": 2095.38,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "C7"
+      },
+      {
+        "n": 7,
+        "hz": 2444.61,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "D#7"
+      },
+      {
+        "n": 8,
+        "hz": 2793.84,
+        "interval": "3 octaves",
+        "note": "F7"
+      },
+      {
+        "n": 9,
+        "hz": 3143.07,
+        "interval": "major 2nd above 3 octaves",
+        "note": "G7"
+      },
+      {
+        "n": 10,
+        "hz": 3492.3,
+        "interval": "major 3rd above 3 octaves",
+        "note": "A7"
+      },
+      {
+        "n": 11,
+        "hz": 3841.53,
+        "interval": "tritone above 3 octaves",
+        "note": "B7"
+      },
+      {
+        "n": 12,
+        "hz": 4190.76,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "C8"
+      },
+      {
+        "n": 13,
+        "hz": 4539.99,
+        "interval": "major 6th above 3 octaves",
+        "note": "C#8"
+      },
+      {
+        "n": 14,
+        "hz": 4889.22,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "D#8"
+      },
+      {
+        "n": 15,
+        "hz": 5238.45,
+        "interval": "major 7th above 3 octaves",
+        "note": "E8"
+      },
+      {
+        "n": 16,
+        "hz": 5587.68,
+        "interval": "4 octaves",
+        "note": "F8"
+      }
+    ]
+  },
+  {
+    "fundamental": "F#4",
+    "fundamental_hz": 369.99,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 369.99,
+        "interval": "unison",
+        "note": "F#4"
+      },
+      {
+        "n": 2,
+        "hz": 739.98,
+        "interval": "octave",
+        "note": "F#5"
+      },
+      {
+        "n": 3,
+        "hz": 1109.97,
+        "interval": "perfect 5th above octave",
+        "note": "C#6"
+      },
+      {
+        "n": 4,
+        "hz": 1479.96,
+        "interval": "2 octaves",
+        "note": "F#6"
+      },
+      {
+        "n": 5,
+        "hz": 1849.95,
+        "interval": "major 3rd above 2 octaves",
+        "note": "A#6"
+      },
+      {
+        "n": 6,
+        "hz": 2219.94,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "C#7"
+      },
+      {
+        "n": 7,
+        "hz": 2589.93,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "E7"
+      },
+      {
+        "n": 8,
+        "hz": 2959.92,
+        "interval": "3 octaves",
+        "note": "F#7"
+      },
+      {
+        "n": 9,
+        "hz": 3329.91,
+        "interval": "major 2nd above 3 octaves",
+        "note": "G#7"
+      },
+      {
+        "n": 10,
+        "hz": 3699.9,
+        "interval": "major 3rd above 3 octaves",
+        "note": "A#7"
+      },
+      {
+        "n": 11,
+        "hz": 4069.89,
+        "interval": "tritone above 3 octaves",
+        "note": "C8"
+      },
+      {
+        "n": 12,
+        "hz": 4439.88,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "C#8"
+      },
+      {
+        "n": 13,
+        "hz": 4809.87,
+        "interval": "major 6th above 3 octaves",
+        "note": "D8"
+      },
+      {
+        "n": 14,
+        "hz": 5179.86,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "E8"
+      },
+      {
+        "n": 15,
+        "hz": 5549.85,
+        "interval": "major 7th above 3 octaves",
+        "note": "F8"
+      },
+      {
+        "n": 16,
+        "hz": 5919.84,
+        "interval": "4 octaves",
+        "note": "F#8"
+      }
+    ]
+  },
+  {
+    "fundamental": "G4",
+    "fundamental_hz": 392.0,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 392.0,
+        "interval": "unison",
+        "note": "G4"
+      },
+      {
+        "n": 2,
+        "hz": 784.0,
+        "interval": "octave",
+        "note": "G5"
+      },
+      {
+        "n": 3,
+        "hz": 1176.0,
+        "interval": "perfect 5th above octave",
+        "note": "D6"
+      },
+      {
+        "n": 4,
+        "hz": 1568.0,
+        "interval": "2 octaves",
+        "note": "G6"
+      },
+      {
+        "n": 5,
+        "hz": 1960.0,
+        "interval": "major 3rd above 2 octaves",
+        "note": "B6"
+      },
+      {
+        "n": 6,
+        "hz": 2352.0,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "D7"
+      },
+      {
+        "n": 7,
+        "hz": 2744.0,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "F7"
+      },
+      {
+        "n": 8,
+        "hz": 3136.0,
+        "interval": "3 octaves",
+        "note": "G7"
+      },
+      {
+        "n": 9,
+        "hz": 3528.0,
+        "interval": "major 2nd above 3 octaves",
+        "note": "A7"
+      },
+      {
+        "n": 10,
+        "hz": 3920.0,
+        "interval": "major 3rd above 3 octaves",
+        "note": "B7"
+      },
+      {
+        "n": 11,
+        "hz": 4312.0,
+        "interval": "tritone above 3 octaves",
+        "note": "C#8"
+      },
+      {
+        "n": 12,
+        "hz": 4704.0,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "D8"
+      },
+      {
+        "n": 13,
+        "hz": 5096.0,
+        "interval": "major 6th above 3 octaves",
+        "note": "D#8"
+      },
+      {
+        "n": 14,
+        "hz": 5488.0,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "F8"
+      },
+      {
+        "n": 15,
+        "hz": 5880.0,
+        "interval": "major 7th above 3 octaves",
+        "note": "F#8"
+      },
+      {
+        "n": 16,
+        "hz": 6272.0,
+        "interval": "4 octaves",
+        "note": "G8"
+      }
+    ]
+  },
+  {
+    "fundamental": "G#4",
+    "fundamental_hz": 415.3,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 415.3,
+        "interval": "unison",
+        "note": "G#4"
+      },
+      {
+        "n": 2,
+        "hz": 830.6,
+        "interval": "octave",
+        "note": "G#5"
+      },
+      {
+        "n": 3,
+        "hz": 1245.9,
+        "interval": "perfect 5th above octave",
+        "note": "D#6"
+      },
+      {
+        "n": 4,
+        "hz": 1661.2,
+        "interval": "2 octaves",
+        "note": "G#6"
+      },
+      {
+        "n": 5,
+        "hz": 2076.5,
+        "interval": "major 3rd above 2 octaves",
+        "note": "C7"
+      },
+      {
+        "n": 6,
+        "hz": 2491.8,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "D#7"
+      },
+      {
+        "n": 7,
+        "hz": 2907.1,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "F#7"
+      },
+      {
+        "n": 8,
+        "hz": 3322.4,
+        "interval": "3 octaves",
+        "note": "G#7"
+      },
+      {
+        "n": 9,
+        "hz": 3737.7,
+        "interval": "major 2nd above 3 octaves",
+        "note": "A#7"
+      },
+      {
+        "n": 10,
+        "hz": 4153.0,
+        "interval": "major 3rd above 3 octaves",
+        "note": "C8"
+      },
+      {
+        "n": 11,
+        "hz": 4568.3,
+        "interval": "tritone above 3 octaves",
+        "note": "D8"
+      },
+      {
+        "n": 12,
+        "hz": 4983.6,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "D#8"
+      },
+      {
+        "n": 13,
+        "hz": 5398.9,
+        "interval": "major 6th above 3 octaves",
+        "note": "E8"
+      },
+      {
+        "n": 14,
+        "hz": 5814.2,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "F#8"
+      },
+      {
+        "n": 15,
+        "hz": 6229.5,
+        "interval": "major 7th above 3 octaves",
+        "note": "G8"
+      },
+      {
+        "n": 16,
+        "hz": 6644.8,
+        "interval": "4 octaves",
+        "note": "G#8"
+      }
+    ]
+  },
+  {
+    "fundamental": "A4",
+    "fundamental_hz": 440.0,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 440.0,
+        "interval": "unison",
+        "note": "A4"
+      },
+      {
+        "n": 2,
+        "hz": 880.0,
+        "interval": "octave",
+        "note": "A5"
+      },
+      {
+        "n": 3,
+        "hz": 1320.0,
+        "interval": "perfect 5th above octave",
+        "note": "E6"
+      },
+      {
+        "n": 4,
+        "hz": 1760.0,
+        "interval": "2 octaves",
+        "note": "A6"
+      },
+      {
+        "n": 5,
+        "hz": 2200.0,
+        "interval": "major 3rd above 2 octaves",
+        "note": "C#7"
+      },
+      {
+        "n": 6,
+        "hz": 2640.0,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "E7"
+      },
+      {
+        "n": 7,
+        "hz": 3080.0,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "G7"
+      },
+      {
+        "n": 8,
+        "hz": 3520.0,
+        "interval": "3 octaves",
+        "note": "A7"
+      },
+      {
+        "n": 9,
+        "hz": 3960.0,
+        "interval": "major 2nd above 3 octaves",
+        "note": "B7"
+      },
+      {
+        "n": 10,
+        "hz": 4400.0,
+        "interval": "major 3rd above 3 octaves",
+        "note": "C#8"
+      },
+      {
+        "n": 11,
+        "hz": 4840.0,
+        "interval": "tritone above 3 octaves",
+        "note": "D#8"
+      },
+      {
+        "n": 12,
+        "hz": 5280.0,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "E8"
+      },
+      {
+        "n": 13,
+        "hz": 5720.0,
+        "interval": "major 6th above 3 octaves",
+        "note": "F8"
+      },
+      {
+        "n": 14,
+        "hz": 6160.0,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "G8"
+      },
+      {
+        "n": 15,
+        "hz": 6600.0,
+        "interval": "major 7th above 3 octaves",
+        "note": "G#8"
+      },
+      {
+        "n": 16,
+        "hz": 7040.0,
+        "interval": "4 octaves",
+        "note": "A8"
+      }
+    ]
+  },
+  {
+    "fundamental": "A#4",
+    "fundamental_hz": 466.16,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 466.16,
+        "interval": "unison",
+        "note": "A#4"
+      },
+      {
+        "n": 2,
+        "hz": 932.32,
+        "interval": "octave",
+        "note": "A#5"
+      },
+      {
+        "n": 3,
+        "hz": 1398.48,
+        "interval": "perfect 5th above octave",
+        "note": "F6"
+      },
+      {
+        "n": 4,
+        "hz": 1864.64,
+        "interval": "2 octaves",
+        "note": "A#6"
+      },
+      {
+        "n": 5,
+        "hz": 2330.8,
+        "interval": "major 3rd above 2 octaves",
+        "note": "D7"
+      },
+      {
+        "n": 6,
+        "hz": 2796.96,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "F7"
+      },
+      {
+        "n": 7,
+        "hz": 3263.12,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "G#7"
+      },
+      {
+        "n": 8,
+        "hz": 3729.28,
+        "interval": "3 octaves",
+        "note": "A#7"
+      },
+      {
+        "n": 9,
+        "hz": 4195.44,
+        "interval": "major 2nd above 3 octaves",
+        "note": "C8"
+      },
+      {
+        "n": 10,
+        "hz": 4661.6,
+        "interval": "major 3rd above 3 octaves",
+        "note": "D8"
+      },
+      {
+        "n": 11,
+        "hz": 5127.76,
+        "interval": "tritone above 3 octaves",
+        "note": "E8"
+      },
+      {
+        "n": 12,
+        "hz": 5593.92,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "F8"
+      },
+      {
+        "n": 13,
+        "hz": 6060.08,
+        "interval": "major 6th above 3 octaves",
+        "note": "F#8"
+      },
+      {
+        "n": 14,
+        "hz": 6526.24,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "G#8"
+      },
+      {
+        "n": 15,
+        "hz": 6992.4,
+        "interval": "major 7th above 3 octaves",
+        "note": "A8"
+      },
+      {
+        "n": 16,
+        "hz": 7458.56,
+        "interval": "4 octaves",
+        "note": "A#8"
+      }
+    ]
+  },
+  {
+    "fundamental": "B4",
+    "fundamental_hz": 493.88,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 493.88,
+        "interval": "unison",
+        "note": "B4"
+      },
+      {
+        "n": 2,
+        "hz": 987.76,
+        "interval": "octave",
+        "note": "B5"
+      },
+      {
+        "n": 3,
+        "hz": 1481.64,
+        "interval": "perfect 5th above octave",
+        "note": "F#6"
+      },
+      {
+        "n": 4,
+        "hz": 1975.52,
+        "interval": "2 octaves",
+        "note": "B6"
+      },
+      {
+        "n": 5,
+        "hz": 2469.4,
+        "interval": "major 3rd above 2 octaves",
+        "note": "D#7"
+      },
+      {
+        "n": 6,
+        "hz": 2963.28,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "F#7"
+      },
+      {
+        "n": 7,
+        "hz": 3457.16,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "A7"
+      },
+      {
+        "n": 8,
+        "hz": 3951.04,
+        "interval": "3 octaves",
+        "note": "B7"
+      },
+      {
+        "n": 9,
+        "hz": 4444.92,
+        "interval": "major 2nd above 3 octaves",
+        "note": "C#8"
+      },
+      {
+        "n": 10,
+        "hz": 4938.8,
+        "interval": "major 3rd above 3 octaves",
+        "note": "D#8"
+      },
+      {
+        "n": 11,
+        "hz": 5432.68,
+        "interval": "tritone above 3 octaves",
+        "note": "F8"
+      },
+      {
+        "n": 12,
+        "hz": 5926.56,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "F#8"
+      },
+      {
+        "n": 13,
+        "hz": 6420.44,
+        "interval": "major 6th above 3 octaves",
+        "note": "G8"
+      },
+      {
+        "n": 14,
+        "hz": 6914.32,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "A8"
+      },
+      {
+        "n": 15,
+        "hz": 7408.2,
+        "interval": "major 7th above 3 octaves",
+        "note": "A#8"
+      },
+      {
+        "n": 16,
+        "hz": 7902.08,
+        "interval": "4 octaves",
+        "note": "B8"
+      }
+    ]
+  },
+  {
+    "fundamental": "C5",
+    "fundamental_hz": 523.25,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 523.25,
+        "interval": "unison",
+        "note": "C5"
+      },
+      {
+        "n": 2,
+        "hz": 1046.5,
+        "interval": "octave",
+        "note": "C6"
+      },
+      {
+        "n": 3,
+        "hz": 1569.75,
+        "interval": "perfect 5th above octave",
+        "note": "G6"
+      },
+      {
+        "n": 4,
+        "hz": 2093.0,
+        "interval": "2 octaves",
+        "note": "C7"
+      },
+      {
+        "n": 5,
+        "hz": 2616.25,
+        "interval": "major 3rd above 2 octaves",
+        "note": "E7"
+      },
+      {
+        "n": 6,
+        "hz": 3139.5,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "G7"
+      },
+      {
+        "n": 7,
+        "hz": 3662.75,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "A#7"
+      },
+      {
+        "n": 8,
+        "hz": 4186.0,
+        "interval": "3 octaves",
+        "note": "C8"
+      },
+      {
+        "n": 9,
+        "hz": 4709.25,
+        "interval": "major 2nd above 3 octaves",
+        "note": "D8"
+      },
+      {
+        "n": 10,
+        "hz": 5232.5,
+        "interval": "major 3rd above 3 octaves",
+        "note": "E8"
+      },
+      {
+        "n": 11,
+        "hz": 5755.75,
+        "interval": "tritone above 3 octaves",
+        "note": "F#8"
+      },
+      {
+        "n": 12,
+        "hz": 6279.0,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "G8"
+      },
+      {
+        "n": 13,
+        "hz": 6802.25,
+        "interval": "major 6th above 3 octaves",
+        "note": "G#8"
+      },
+      {
+        "n": 14,
+        "hz": 7325.5,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "A#8"
+      },
+      {
+        "n": 15,
+        "hz": 7848.75,
+        "interval": "major 7th above 3 octaves",
+        "note": "B8"
+      },
+      {
+        "n": 16,
+        "hz": 8372.0,
+        "interval": "4 octaves",
+        "note": "C9"
+      }
+    ]
+  },
+  {
+    "fundamental": "C#5",
+    "fundamental_hz": 554.37,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 554.37,
+        "interval": "unison",
+        "note": "C#5"
+      },
+      {
+        "n": 2,
+        "hz": 1108.74,
+        "interval": "octave",
+        "note": "C#6"
+      },
+      {
+        "n": 3,
+        "hz": 1663.11,
+        "interval": "perfect 5th above octave",
+        "note": "G#6"
+      },
+      {
+        "n": 4,
+        "hz": 2217.48,
+        "interval": "2 octaves",
+        "note": "C#7"
+      },
+      {
+        "n": 5,
+        "hz": 2771.85,
+        "interval": "major 3rd above 2 octaves",
+        "note": "F7"
+      },
+      {
+        "n": 6,
+        "hz": 3326.22,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "G#7"
+      },
+      {
+        "n": 7,
+        "hz": 3880.59,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "B7"
+      },
+      {
+        "n": 8,
+        "hz": 4434.96,
+        "interval": "3 octaves",
+        "note": "C#8"
+      },
+      {
+        "n": 9,
+        "hz": 4989.33,
+        "interval": "major 2nd above 3 octaves",
+        "note": "D#8"
+      },
+      {
+        "n": 10,
+        "hz": 5543.7,
+        "interval": "major 3rd above 3 octaves",
+        "note": "F8"
+      },
+      {
+        "n": 11,
+        "hz": 6098.07,
+        "interval": "tritone above 3 octaves",
+        "note": "G8"
+      },
+      {
+        "n": 12,
+        "hz": 6652.44,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "G#8"
+      },
+      {
+        "n": 13,
+        "hz": 7206.81,
+        "interval": "major 6th above 3 octaves",
+        "note": "A8"
+      },
+      {
+        "n": 14,
+        "hz": 7761.18,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "B8"
+      },
+      {
+        "n": 15,
+        "hz": 8315.55,
+        "interval": "major 7th above 3 octaves",
+        "note": "C9"
+      },
+      {
+        "n": 16,
+        "hz": 8869.92,
+        "interval": "4 octaves",
+        "note": "C#9"
+      }
+    ]
+  },
+  {
+    "fundamental": "D5",
+    "fundamental_hz": 587.33,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 587.33,
+        "interval": "unison",
+        "note": "D5"
+      },
+      {
+        "n": 2,
+        "hz": 1174.66,
+        "interval": "octave",
+        "note": "D6"
+      },
+      {
+        "n": 3,
+        "hz": 1761.99,
+        "interval": "perfect 5th above octave",
+        "note": "A6"
+      },
+      {
+        "n": 4,
+        "hz": 2349.32,
+        "interval": "2 octaves",
+        "note": "D7"
+      },
+      {
+        "n": 5,
+        "hz": 2936.65,
+        "interval": "major 3rd above 2 octaves",
+        "note": "F#7"
+      },
+      {
+        "n": 6,
+        "hz": 3523.98,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "A7"
+      },
+      {
+        "n": 7,
+        "hz": 4111.31,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "C8"
+      },
+      {
+        "n": 8,
+        "hz": 4698.64,
+        "interval": "3 octaves",
+        "note": "D8"
+      },
+      {
+        "n": 9,
+        "hz": 5285.97,
+        "interval": "major 2nd above 3 octaves",
+        "note": "E8"
+      },
+      {
+        "n": 10,
+        "hz": 5873.3,
+        "interval": "major 3rd above 3 octaves",
+        "note": "F#8"
+      },
+      {
+        "n": 11,
+        "hz": 6460.63,
+        "interval": "tritone above 3 octaves",
+        "note": "G#8"
+      },
+      {
+        "n": 12,
+        "hz": 7047.96,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "A8"
+      },
+      {
+        "n": 13,
+        "hz": 7635.29,
+        "interval": "major 6th above 3 octaves",
+        "note": "A#8"
+      },
+      {
+        "n": 14,
+        "hz": 8222.62,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "C9"
+      },
+      {
+        "n": 15,
+        "hz": 8809.95,
+        "interval": "major 7th above 3 octaves",
+        "note": "C#9"
+      },
+      {
+        "n": 16,
+        "hz": 9397.28,
+        "interval": "4 octaves",
+        "note": "D9"
+      }
+    ]
+  },
+  {
+    "fundamental": "D#5",
+    "fundamental_hz": 622.25,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 622.25,
+        "interval": "unison",
+        "note": "D#5"
+      },
+      {
+        "n": 2,
+        "hz": 1244.5,
+        "interval": "octave",
+        "note": "D#6"
+      },
+      {
+        "n": 3,
+        "hz": 1866.75,
+        "interval": "perfect 5th above octave",
+        "note": "A#6"
+      },
+      {
+        "n": 4,
+        "hz": 2489.0,
+        "interval": "2 octaves",
+        "note": "D#7"
+      },
+      {
+        "n": 5,
+        "hz": 3111.25,
+        "interval": "major 3rd above 2 octaves",
+        "note": "G7"
+      },
+      {
+        "n": 6,
+        "hz": 3733.5,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "A#7"
+      },
+      {
+        "n": 7,
+        "hz": 4355.75,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "C#8"
+      },
+      {
+        "n": 8,
+        "hz": 4978.0,
+        "interval": "3 octaves",
+        "note": "D#8"
+      },
+      {
+        "n": 9,
+        "hz": 5600.25,
+        "interval": "major 2nd above 3 octaves",
+        "note": "F8"
+      },
+      {
+        "n": 10,
+        "hz": 6222.5,
+        "interval": "major 3rd above 3 octaves",
+        "note": "G8"
+      },
+      {
+        "n": 11,
+        "hz": 6844.75,
+        "interval": "tritone above 3 octaves",
+        "note": "A8"
+      },
+      {
+        "n": 12,
+        "hz": 7467.0,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "A#8"
+      },
+      {
+        "n": 13,
+        "hz": 8089.25,
+        "interval": "major 6th above 3 octaves",
+        "note": "B8"
+      },
+      {
+        "n": 14,
+        "hz": 8711.5,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "C#9"
+      },
+      {
+        "n": 15,
+        "hz": 9333.75,
+        "interval": "major 7th above 3 octaves",
+        "note": "D9"
+      },
+      {
+        "n": 16,
+        "hz": 9956.0,
+        "interval": "4 octaves",
+        "note": "D#9"
+      }
+    ]
+  },
+  {
+    "fundamental": "E5",
+    "fundamental_hz": 659.26,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 659.26,
+        "interval": "unison",
+        "note": "E5"
+      },
+      {
+        "n": 2,
+        "hz": 1318.52,
+        "interval": "octave",
+        "note": "E6"
+      },
+      {
+        "n": 3,
+        "hz": 1977.78,
+        "interval": "perfect 5th above octave",
+        "note": "B6"
+      },
+      {
+        "n": 4,
+        "hz": 2637.04,
+        "interval": "2 octaves",
+        "note": "E7"
+      },
+      {
+        "n": 5,
+        "hz": 3296.3,
+        "interval": "major 3rd above 2 octaves",
+        "note": "G#7"
+      },
+      {
+        "n": 6,
+        "hz": 3955.56,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "B7"
+      },
+      {
+        "n": 7,
+        "hz": 4614.82,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "D8"
+      },
+      {
+        "n": 8,
+        "hz": 5274.08,
+        "interval": "3 octaves",
+        "note": "E8"
+      },
+      {
+        "n": 9,
+        "hz": 5933.34,
+        "interval": "major 2nd above 3 octaves",
+        "note": "F#8"
+      },
+      {
+        "n": 10,
+        "hz": 6592.6,
+        "interval": "major 3rd above 3 octaves",
+        "note": "G#8"
+      },
+      {
+        "n": 11,
+        "hz": 7251.86,
+        "interval": "tritone above 3 octaves",
+        "note": "A#8"
+      },
+      {
+        "n": 12,
+        "hz": 7911.12,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "B8"
+      },
+      {
+        "n": 13,
+        "hz": 8570.38,
+        "interval": "major 6th above 3 octaves",
+        "note": "C9"
+      },
+      {
+        "n": 14,
+        "hz": 9229.64,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "D9"
+      },
+      {
+        "n": 15,
+        "hz": 9888.9,
+        "interval": "major 7th above 3 octaves",
+        "note": "D#9"
+      },
+      {
+        "n": 16,
+        "hz": 10548.16,
+        "interval": "4 octaves",
+        "note": "E9"
+      }
+    ]
+  },
+  {
+    "fundamental": "F5",
+    "fundamental_hz": 698.46,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 698.46,
+        "interval": "unison",
+        "note": "F5"
+      },
+      {
+        "n": 2,
+        "hz": 1396.92,
+        "interval": "octave",
+        "note": "F6"
+      },
+      {
+        "n": 3,
+        "hz": 2095.38,
+        "interval": "perfect 5th above octave",
+        "note": "C7"
+      },
+      {
+        "n": 4,
+        "hz": 2793.84,
+        "interval": "2 octaves",
+        "note": "F7"
+      },
+      {
+        "n": 5,
+        "hz": 3492.3,
+        "interval": "major 3rd above 2 octaves",
+        "note": "A7"
+      },
+      {
+        "n": 6,
+        "hz": 4190.76,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "C8"
+      },
+      {
+        "n": 7,
+        "hz": 4889.22,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "D#8"
+      },
+      {
+        "n": 8,
+        "hz": 5587.68,
+        "interval": "3 octaves",
+        "note": "F8"
+      },
+      {
+        "n": 9,
+        "hz": 6286.14,
+        "interval": "major 2nd above 3 octaves",
+        "note": "G8"
+      },
+      {
+        "n": 10,
+        "hz": 6984.6,
+        "interval": "major 3rd above 3 octaves",
+        "note": "A8"
+      },
+      {
+        "n": 11,
+        "hz": 7683.06,
+        "interval": "tritone above 3 octaves",
+        "note": "B8"
+      },
+      {
+        "n": 12,
+        "hz": 8381.52,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "C9"
+      },
+      {
+        "n": 13,
+        "hz": 9079.98,
+        "interval": "major 6th above 3 octaves",
+        "note": "C#9"
+      },
+      {
+        "n": 14,
+        "hz": 9778.44,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "D#9"
+      },
+      {
+        "n": 15,
+        "hz": 10476.9,
+        "interval": "major 7th above 3 octaves",
+        "note": "E9"
+      },
+      {
+        "n": 16,
+        "hz": 11175.36,
+        "interval": "4 octaves",
+        "note": "F9"
+      }
+    ]
+  },
+  {
+    "fundamental": "F#5",
+    "fundamental_hz": 739.99,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 739.99,
+        "interval": "unison",
+        "note": "F#5"
+      },
+      {
+        "n": 2,
+        "hz": 1479.98,
+        "interval": "octave",
+        "note": "F#6"
+      },
+      {
+        "n": 3,
+        "hz": 2219.97,
+        "interval": "perfect 5th above octave",
+        "note": "C#7"
+      },
+      {
+        "n": 4,
+        "hz": 2959.96,
+        "interval": "2 octaves",
+        "note": "F#7"
+      },
+      {
+        "n": 5,
+        "hz": 3699.95,
+        "interval": "major 3rd above 2 octaves",
+        "note": "A#7"
+      },
+      {
+        "n": 6,
+        "hz": 4439.94,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "C#8"
+      },
+      {
+        "n": 7,
+        "hz": 5179.93,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "E8"
+      },
+      {
+        "n": 8,
+        "hz": 5919.92,
+        "interval": "3 octaves",
+        "note": "F#8"
+      },
+      {
+        "n": 9,
+        "hz": 6659.91,
+        "interval": "major 2nd above 3 octaves",
+        "note": "G#8"
+      },
+      {
+        "n": 10,
+        "hz": 7399.9,
+        "interval": "major 3rd above 3 octaves",
+        "note": "A#8"
+      },
+      {
+        "n": 11,
+        "hz": 8139.89,
+        "interval": "tritone above 3 octaves",
+        "note": "C9"
+      },
+      {
+        "n": 12,
+        "hz": 8879.88,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "C#9"
+      },
+      {
+        "n": 13,
+        "hz": 9619.87,
+        "interval": "major 6th above 3 octaves",
+        "note": "D9"
+      },
+      {
+        "n": 14,
+        "hz": 10359.86,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "E9"
+      },
+      {
+        "n": 15,
+        "hz": 11099.85,
+        "interval": "major 7th above 3 octaves",
+        "note": "F9"
+      },
+      {
+        "n": 16,
+        "hz": 11839.84,
+        "interval": "4 octaves",
+        "note": "F#9"
+      }
+    ]
+  },
+  {
+    "fundamental": "G5",
+    "fundamental_hz": 783.99,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 783.99,
+        "interval": "unison",
+        "note": "G5"
+      },
+      {
+        "n": 2,
+        "hz": 1567.98,
+        "interval": "octave",
+        "note": "G6"
+      },
+      {
+        "n": 3,
+        "hz": 2351.97,
+        "interval": "perfect 5th above octave",
+        "note": "D7"
+      },
+      {
+        "n": 4,
+        "hz": 3135.96,
+        "interval": "2 octaves",
+        "note": "G7"
+      },
+      {
+        "n": 5,
+        "hz": 3919.95,
+        "interval": "major 3rd above 2 octaves",
+        "note": "B7"
+      },
+      {
+        "n": 6,
+        "hz": 4703.94,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "D8"
+      },
+      {
+        "n": 7,
+        "hz": 5487.93,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "F8"
+      },
+      {
+        "n": 8,
+        "hz": 6271.92,
+        "interval": "3 octaves",
+        "note": "G8"
+      },
+      {
+        "n": 9,
+        "hz": 7055.91,
+        "interval": "major 2nd above 3 octaves",
+        "note": "A8"
+      },
+      {
+        "n": 10,
+        "hz": 7839.9,
+        "interval": "major 3rd above 3 octaves",
+        "note": "B8"
+      },
+      {
+        "n": 11,
+        "hz": 8623.89,
+        "interval": "tritone above 3 octaves",
+        "note": "C#9"
+      },
+      {
+        "n": 12,
+        "hz": 9407.88,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "D9"
+      },
+      {
+        "n": 13,
+        "hz": 10191.87,
+        "interval": "major 6th above 3 octaves",
+        "note": "D#9"
+      },
+      {
+        "n": 14,
+        "hz": 10975.86,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "F9"
+      },
+      {
+        "n": 15,
+        "hz": 11759.85,
+        "interval": "major 7th above 3 octaves",
+        "note": "F#9"
+      },
+      {
+        "n": 16,
+        "hz": 12543.84,
+        "interval": "4 octaves",
+        "note": "G9"
+      }
+    ]
+  },
+  {
+    "fundamental": "G#5",
+    "fundamental_hz": 830.61,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 830.61,
+        "interval": "unison",
+        "note": "G#5"
+      },
+      {
+        "n": 2,
+        "hz": 1661.22,
+        "interval": "octave",
+        "note": "G#6"
+      },
+      {
+        "n": 3,
+        "hz": 2491.83,
+        "interval": "perfect 5th above octave",
+        "note": "D#7"
+      },
+      {
+        "n": 4,
+        "hz": 3322.44,
+        "interval": "2 octaves",
+        "note": "G#7"
+      },
+      {
+        "n": 5,
+        "hz": 4153.05,
+        "interval": "major 3rd above 2 octaves",
+        "note": "C8"
+      },
+      {
+        "n": 6,
+        "hz": 4983.66,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "D#8"
+      },
+      {
+        "n": 7,
+        "hz": 5814.27,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "F#8"
+      },
+      {
+        "n": 8,
+        "hz": 6644.88,
+        "interval": "3 octaves",
+        "note": "G#8"
+      },
+      {
+        "n": 9,
+        "hz": 7475.49,
+        "interval": "major 2nd above 3 octaves",
+        "note": "A#8"
+      },
+      {
+        "n": 10,
+        "hz": 8306.1,
+        "interval": "major 3rd above 3 octaves",
+        "note": "C9"
+      },
+      {
+        "n": 11,
+        "hz": 9136.71,
+        "interval": "tritone above 3 octaves",
+        "note": "D9"
+      },
+      {
+        "n": 12,
+        "hz": 9967.32,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "D#9"
+      },
+      {
+        "n": 13,
+        "hz": 10797.93,
+        "interval": "major 6th above 3 octaves",
+        "note": "E9"
+      },
+      {
+        "n": 14,
+        "hz": 11628.54,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "F#9"
+      },
+      {
+        "n": 15,
+        "hz": 12459.15,
+        "interval": "major 7th above 3 octaves",
+        "note": "G9"
+      },
+      {
+        "n": 16,
+        "hz": 13289.76,
+        "interval": "4 octaves",
+        "note": "G9"
+      }
+    ]
+  },
+  {
+    "fundamental": "A5",
+    "fundamental_hz": 880.0,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 880.0,
+        "interval": "unison",
+        "note": "A5"
+      },
+      {
+        "n": 2,
+        "hz": 1760.0,
+        "interval": "octave",
+        "note": "A6"
+      },
+      {
+        "n": 3,
+        "hz": 2640.0,
+        "interval": "perfect 5th above octave",
+        "note": "E7"
+      },
+      {
+        "n": 4,
+        "hz": 3520.0,
+        "interval": "2 octaves",
+        "note": "A7"
+      },
+      {
+        "n": 5,
+        "hz": 4400.0,
+        "interval": "major 3rd above 2 octaves",
+        "note": "C#8"
+      },
+      {
+        "n": 6,
+        "hz": 5280.0,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "E8"
+      },
+      {
+        "n": 7,
+        "hz": 6160.0,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "G8"
+      },
+      {
+        "n": 8,
+        "hz": 7040.0,
+        "interval": "3 octaves",
+        "note": "A8"
+      },
+      {
+        "n": 9,
+        "hz": 7920.0,
+        "interval": "major 2nd above 3 octaves",
+        "note": "B8"
+      },
+      {
+        "n": 10,
+        "hz": 8800.0,
+        "interval": "major 3rd above 3 octaves",
+        "note": "C#9"
+      },
+      {
+        "n": 11,
+        "hz": 9680.0,
+        "interval": "tritone above 3 octaves",
+        "note": "D#9"
+      },
+      {
+        "n": 12,
+        "hz": 10560.0,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "E9"
+      },
+      {
+        "n": 13,
+        "hz": 11440.0,
+        "interval": "major 6th above 3 octaves",
+        "note": "F9"
+      },
+      {
+        "n": 14,
+        "hz": 12320.0,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "G9"
+      },
+      {
+        "n": 15,
+        "hz": 13200.0,
+        "interval": "major 7th above 3 octaves",
+        "note": "G9"
+      },
+      {
+        "n": 16,
+        "hz": 14080.0,
+        "interval": "4 octaves",
+        "note": "G9"
+      }
+    ]
+  },
+  {
+    "fundamental": "A#5",
+    "fundamental_hz": 932.33,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 932.33,
+        "interval": "unison",
+        "note": "A#5"
+      },
+      {
+        "n": 2,
+        "hz": 1864.66,
+        "interval": "octave",
+        "note": "A#6"
+      },
+      {
+        "n": 3,
+        "hz": 2796.99,
+        "interval": "perfect 5th above octave",
+        "note": "F7"
+      },
+      {
+        "n": 4,
+        "hz": 3729.32,
+        "interval": "2 octaves",
+        "note": "A#7"
+      },
+      {
+        "n": 5,
+        "hz": 4661.65,
+        "interval": "major 3rd above 2 octaves",
+        "note": "D8"
+      },
+      {
+        "n": 6,
+        "hz": 5593.98,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "F8"
+      },
+      {
+        "n": 7,
+        "hz": 6526.31,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "G#8"
+      },
+      {
+        "n": 8,
+        "hz": 7458.64,
+        "interval": "3 octaves",
+        "note": "A#8"
+      },
+      {
+        "n": 9,
+        "hz": 8390.97,
+        "interval": "major 2nd above 3 octaves",
+        "note": "C9"
+      },
+      {
+        "n": 10,
+        "hz": 9323.3,
+        "interval": "major 3rd above 3 octaves",
+        "note": "D9"
+      },
+      {
+        "n": 11,
+        "hz": 10255.63,
+        "interval": "tritone above 3 octaves",
+        "note": "E9"
+      },
+      {
+        "n": 12,
+        "hz": 11187.96,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "F9"
+      },
+      {
+        "n": 13,
+        "hz": 12120.29,
+        "interval": "major 6th above 3 octaves",
+        "note": "F#9"
+      },
+      {
+        "n": 14,
+        "hz": 13052.62,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "G9"
+      },
+      {
+        "n": 15,
+        "hz": 13984.95,
+        "interval": "major 7th above 3 octaves",
+        "note": "G9"
+      },
+      {
+        "n": 16,
+        "hz": 14917.28,
+        "interval": "4 octaves",
+        "note": "G9"
+      }
+    ]
+  },
+  {
+    "fundamental": "B5",
+    "fundamental_hz": 987.77,
+    "harmonics": [
+      {
+        "n": 1,
+        "hz": 987.77,
+        "interval": "unison",
+        "note": "B5"
+      },
+      {
+        "n": 2,
+        "hz": 1975.54,
+        "interval": "octave",
+        "note": "B6"
+      },
+      {
+        "n": 3,
+        "hz": 2963.31,
+        "interval": "perfect 5th above octave",
+        "note": "F#7"
+      },
+      {
+        "n": 4,
+        "hz": 3951.08,
+        "interval": "2 octaves",
+        "note": "B7"
+      },
+      {
+        "n": 5,
+        "hz": 4938.85,
+        "interval": "major 3rd above 2 octaves",
+        "note": "D#8"
+      },
+      {
+        "n": 6,
+        "hz": 5926.62,
+        "interval": "perfect 5th above 2 octaves",
+        "note": "F#8"
+      },
+      {
+        "n": 7,
+        "hz": 6914.39,
+        "interval": "flat minor 7th above 2 octaves",
+        "note": "A8"
+      },
+      {
+        "n": 8,
+        "hz": 7902.16,
+        "interval": "3 octaves",
+        "note": "B8"
+      },
+      {
+        "n": 9,
+        "hz": 8889.93,
+        "interval": "major 2nd above 3 octaves",
+        "note": "C#9"
+      },
+      {
+        "n": 10,
+        "hz": 9877.7,
+        "interval": "major 3rd above 3 octaves",
+        "note": "D#9"
+      },
+      {
+        "n": 11,
+        "hz": 10865.47,
+        "interval": "tritone above 3 octaves",
+        "note": "F9"
+      },
+      {
+        "n": 12,
+        "hz": 11853.24,
+        "interval": "perfect 5th above 3 octaves",
+        "note": "F#9"
+      },
+      {
+        "n": 13,
+        "hz": 12841.01,
+        "interval": "major 6th above 3 octaves",
+        "note": "G9"
+      },
+      {
+        "n": 14,
+        "hz": 13828.78,
+        "interval": "flat minor 7th above 3 octaves",
+        "note": "G9"
+      },
+      {
+        "n": 15,
+        "hz": 14816.55,
+        "interval": "major 7th above 3 octaves",
+        "note": "G9"
+      },
+      {
+        "n": 16,
+        "hz": 15804.32,
+        "interval": "4 octaves",
+        "note": "G9"
+      }
+    ]
+  }
+]

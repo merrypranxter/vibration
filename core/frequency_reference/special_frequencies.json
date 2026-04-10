@@ -1,0 +1,595 @@
+[
+  {
+    "id": "FREQ-SCHUMANN-1",
+    "name": "Schumann Resonance 1st",
+    "frequency_hz": 7.83,
+    "category": "Earth Resonance",
+    "description": "Primary Schumann resonance \u2014 global electromagnetic resonance in the cavity between Earth's surface and ionosphere. Driven by lightning discharges worldwide (~100 strikes/second).",
+    "harmonics_hz": [
+      7.83,
+      14.3,
+      20.8,
+      27.3,
+      33.8
+    ],
+    "discovery": "W.O. Schumann, 1952",
+    "effects": "Syncs with human alpha/theta brainwaves; implicated in circadian rhythms",
+    "tags": [
+      "earth",
+      "electromagnetic",
+      "healing",
+      "theta",
+      "alpha"
+    ]
+  },
+  {
+    "id": "FREQ-SCHUMANN-2",
+    "name": "Schumann Resonance 2nd Harmonic",
+    "frequency_hz": 14.3,
+    "category": "Earth Resonance",
+    "description": "Second harmonic of the Schumann resonance.",
+    "harmonics_hz": [
+      14.3,
+      28.6,
+      42.9
+    ],
+    "tags": [
+      "earth",
+      "electromagnetic"
+    ]
+  },
+  {
+    "id": "FREQ-SCHUMANN-3",
+    "name": "Schumann Resonance 3rd Harmonic",
+    "frequency_hz": 20.8,
+    "category": "Earth Resonance",
+    "description": "Third harmonic of the Schumann resonance.",
+    "harmonics_hz": [
+      20.8,
+      41.6,
+      62.4
+    ],
+    "tags": [
+      "earth",
+      "electromagnetic"
+    ]
+  },
+  {
+    "id": "FREQ-SCHUMANN-4",
+    "name": "Schumann Resonance 4th Harmonic",
+    "frequency_hz": 27.3,
+    "category": "Earth Resonance",
+    "description": "Fourth harmonic of the Schumann resonance.",
+    "harmonics_hz": [
+      27.3,
+      54.6
+    ],
+    "tags": [
+      "earth",
+      "electromagnetic"
+    ]
+  },
+  {
+    "id": "FREQ-SCHUMANN-5",
+    "name": "Schumann Resonance 5th Harmonic",
+    "frequency_hz": 33.8,
+    "category": "Earth Resonance",
+    "description": "Fifth harmonic of the Schumann resonance.",
+    "harmonics_hz": [
+      33.8,
+      67.6
+    ],
+    "tags": [
+      "earth",
+      "electromagnetic"
+    ]
+  },
+  {
+    "id": "FREQ-SOLFEGGIO-174",
+    "name": "Solfeggio 174 Hz",
+    "frequency_hz": 174,
+    "category": "Solfeggio",
+    "description": "Lowest Solfeggio frequency. Associated with pain relief and sense of security. Foundation tone of the body.",
+    "harmonics_hz": [
+      174,
+      348,
+      522,
+      696,
+      870
+    ],
+    "solfeggio_number": 1,
+    "solfeggio_intent": "Foundation / Pain Relief",
+    "digital_root": 3,
+    "tags": [
+      "solfeggio",
+      "healing",
+      "foundation"
+    ]
+  },
+  {
+    "id": "FREQ-SOLFEGGIO-285",
+    "name": "Solfeggio 285 Hz",
+    "frequency_hz": 285,
+    "category": "Solfeggio",
+    "description": "Associated with tissue healing and regeneration. Influences energy fields around body.",
+    "harmonics_hz": [
+      285,
+      570,
+      855,
+      1140,
+      1425
+    ],
+    "solfeggio_number": 2,
+    "solfeggio_intent": "Tissue Regeneration",
+    "digital_root": 6,
+    "tags": [
+      "solfeggio",
+      "healing",
+      "regeneration"
+    ]
+  },
+  {
+    "id": "FREQ-SOLFEGGIO-396",
+    "name": "Solfeggio 396 Hz",
+    "frequency_hz": 396,
+    "category": "Solfeggio",
+    "description": "Liberating guilt and fear. Transforms grief into joy, turns negative energy into positive.",
+    "harmonics_hz": [
+      396,
+      792,
+      1188,
+      1584,
+      1980
+    ],
+    "solfeggio_number": 3,
+    "solfeggio_intent": "Liberating Guilt and Fear",
+    "digital_root": 9,
+    "tags": [
+      "solfeggio",
+      "liberation",
+      "healing"
+    ]
+  },
+  {
+    "id": "FREQ-SOLFEGGIO-417",
+    "name": "Solfeggio 417 Hz",
+    "frequency_hz": 417,
+    "category": "Solfeggio",
+    "description": "Facilitating change, undoing situations and facilitating change. Connects with solar plexus energy.",
+    "harmonics_hz": [
+      417,
+      834,
+      1251,
+      1668,
+      2085
+    ],
+    "solfeggio_number": 4,
+    "solfeggio_intent": "Facilitating Change",
+    "digital_root": 3,
+    "tags": [
+      "solfeggio",
+      "change",
+      "transformation"
+    ]
+  },
+  {
+    "id": "FREQ-SOLFEGGIO-528",
+    "name": "Solfeggio 528 Hz \u2014 Miracle Tone",
+    "frequency_hz": 528,
+    "category": "Solfeggio",
+    "description": "The 'love frequency' or 'miracle tone'. Claimed to repair DNA and bring transformation. Middle frequency of the original 6 Solfeggio tones. Used by geneticists to repair broken DNA.",
+    "harmonics_hz": [
+      528,
+      1056,
+      1584,
+      2112,
+      2640
+    ],
+    "solfeggio_number": 5,
+    "solfeggio_intent": "DNA Repair / Love / Miracles",
+    "digital_root": 6,
+    "tags": [
+      "solfeggio",
+      "dna",
+      "healing",
+      "love",
+      "528Hz"
+    ]
+  },
+  {
+    "id": "FREQ-SOLFEGGIO-639",
+    "name": "Solfeggio 639 Hz",
+    "frequency_hz": 639,
+    "category": "Solfeggio",
+    "description": "Connecting/relationships. Enhances communication, understanding, tolerance, and love. Reconnects with relationships.",
+    "harmonics_hz": [
+      639,
+      1278,
+      1917,
+      2556,
+      3195
+    ],
+    "solfeggio_number": 6,
+    "solfeggio_intent": "Connecting / Relationships",
+    "digital_root": 9,
+    "tags": [
+      "solfeggio",
+      "relationships",
+      "communication"
+    ]
+  },
+  {
+    "id": "FREQ-SOLFEGGIO-741",
+    "name": "Solfeggio 741 Hz",
+    "frequency_hz": 741,
+    "category": "Solfeggio",
+    "description": "Awakening intuition, solving problems. Cleanses cells from electromagnetic radiations. Expresses and communicates.",
+    "harmonics_hz": [
+      741,
+      1482,
+      2223,
+      2964,
+      3705
+    ],
+    "solfeggio_number": 7,
+    "solfeggio_intent": "Awakening Intuition",
+    "digital_root": 3,
+    "tags": [
+      "solfeggio",
+      "intuition",
+      "awakening"
+    ]
+  },
+  {
+    "id": "FREQ-SOLFEGGIO-852",
+    "name": "Solfeggio 852 Hz",
+    "frequency_hz": 852,
+    "category": "Solfeggio",
+    "description": "Returning to spiritual order. Enables cell to transform itself into a higher energy system.",
+    "harmonics_hz": [
+      852,
+      1704,
+      2556,
+      3408,
+      4260
+    ],
+    "solfeggio_number": 8,
+    "solfeggio_intent": "Spiritual Order",
+    "digital_root": 6,
+    "tags": [
+      "solfeggio",
+      "spiritual",
+      "order"
+    ]
+  },
+  {
+    "id": "FREQ-SOLFEGGIO-963",
+    "name": "Solfeggio 963 Hz",
+    "frequency_hz": 963,
+    "category": "Solfeggio",
+    "description": "Divine consciousness and enlightenment. The frequency of the pineal gland. Re-connects with the spirit and awakens system to perfect state.",
+    "harmonics_hz": [
+      963,
+      1926,
+      2889,
+      3852,
+      4815
+    ],
+    "solfeggio_number": 9,
+    "solfeggio_intent": "Divine Consciousness",
+    "digital_root": 9,
+    "tags": [
+      "solfeggio",
+      "pineal",
+      "divine",
+      "consciousness"
+    ]
+  },
+  {
+    "id": "FREQ-432HZ",
+    "name": "432 Hz \u2014 Universal Tuning",
+    "frequency_hz": 432,
+    "category": "Alternative Tuning",
+    "description": "Alternative concert pitch where A4=432 Hz instead of standard 440 Hz. Claimed to be more harmonically aligned with the universe and Pythagorean mathematics. Mathematically related to 8 Hz (432 = 8 \u00d7 54) and appears in many ancient architectural measurements.",
+    "harmonics_hz": [
+      432,
+      864,
+      1296,
+      1728,
+      2160
+    ],
+    "standard_equivalent": "A4 at -31.8 cents below 440 Hz",
+    "tags": [
+      "tuning",
+      "alternative",
+      "harmonic",
+      "pythagorean"
+    ]
+  },
+  {
+    "id": "FREQ-EARTH-YEAR",
+    "name": "Earth Year Frequency (Om)",
+    "frequency_hz": 136.1,
+    "category": "Cosmic Resonance",
+    "description": "The frequency of Earth's year translated to audible range by raising 32 octaves. Calculated as 1/365.25 days \u00d7 86400 sec \u00d7 2^32 \u2248 136.1 Hz. Known as 'Om' in Hindu tradition. Close to C#3/Db3 at 138.59 Hz in equal temperament.",
+    "harmonics_hz": [
+      136.1,
+      272.2,
+      408.3,
+      544.4,
+      680.5
+    ],
+    "cosmic_source": "Earth orbital period",
+    "tags": [
+      "earth",
+      "cosmic",
+      "om",
+      "136hz",
+      "vedic"
+    ]
+  },
+  {
+    "id": "FREQ-EARTH-DAY",
+    "name": "Earth Day Frequency",
+    "frequency_hz": 194.18,
+    "category": "Cosmic Resonance",
+    "description": "Frequency of Earth's 24-hour rotation translated to audible range. 1/86400 seconds \u00d7 2^24 \u2248 194.18 Hz. Close to G3 at 196 Hz.",
+    "harmonics_hz": [
+      194.18,
+      388.36,
+      582.54,
+      776.72,
+      970.9
+    ],
+    "cosmic_source": "Earth rotation period",
+    "tags": [
+      "earth",
+      "cosmic",
+      "rotation"
+    ]
+  },
+  {
+    "id": "FREQ-CHAKRA-ROOT",
+    "name": "Root Chakra \u2014 Muladhara",
+    "frequency_hz": 256,
+    "category": "Chakra",
+    "description": "Root chakra frequency. Associated with grounding, survival, security, physical existence. Related to C note in scientific pitch notation (C4=256 Hz, not 261.63 Hz equal temperament). Color: Red.",
+    "harmonics_hz": [
+      256,
+      512,
+      768,
+      1024,
+      1280
+    ],
+    "chakra_name": "Muladhara",
+    "chakra_color": "Red",
+    "chakra_element": "Earth",
+    "body_location": "Base of spine",
+    "tags": [
+      "chakra",
+      "root",
+      "grounding",
+      "red"
+    ]
+  },
+  {
+    "id": "FREQ-CHAKRA-SACRAL",
+    "name": "Sacral Chakra \u2014 Svadhisthana",
+    "frequency_hz": 288,
+    "category": "Chakra",
+    "description": "Sacral chakra frequency. Associated with creativity, sexuality, emotion, pleasure. Color: Orange.",
+    "harmonics_hz": [
+      288,
+      576,
+      864,
+      1152,
+      1440
+    ],
+    "chakra_name": "Svadhisthana",
+    "chakra_color": "Orange",
+    "chakra_element": "Water",
+    "body_location": "Lower abdomen",
+    "tags": [
+      "chakra",
+      "sacral",
+      "creativity",
+      "orange"
+    ]
+  },
+  {
+    "id": "FREQ-CHAKRA-SOLAR",
+    "name": "Solar Plexus Chakra \u2014 Manipura",
+    "frequency_hz": 320,
+    "category": "Chakra",
+    "description": "Solar plexus chakra frequency. Associated with personal power, will, confidence, transformation. Color: Yellow.",
+    "harmonics_hz": [
+      320,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "chakra_name": "Manipura",
+    "chakra_color": "Yellow",
+    "chakra_element": "Fire",
+    "body_location": "Upper abdomen",
+    "tags": [
+      "chakra",
+      "solar_plexus",
+      "power",
+      "yellow"
+    ]
+  },
+  {
+    "id": "FREQ-CHAKRA-HEART",
+    "name": "Heart Chakra \u2014 Anahata",
+    "frequency_hz": 341.3,
+    "category": "Chakra",
+    "description": "Heart chakra frequency. Associated with love, compassion, healing, integration. Bridges lower and upper chakras. Color: Green.",
+    "harmonics_hz": [
+      341.3,
+      682.6,
+      1023.9,
+      1365.2,
+      1706.5
+    ],
+    "chakra_name": "Anahata",
+    "chakra_color": "Green",
+    "chakra_element": "Air",
+    "body_location": "Center of chest",
+    "tags": [
+      "chakra",
+      "heart",
+      "love",
+      "green"
+    ]
+  },
+  {
+    "id": "FREQ-CHAKRA-THROAT",
+    "name": "Throat Chakra \u2014 Vishuddha",
+    "frequency_hz": 384,
+    "category": "Chakra",
+    "description": "Throat chakra frequency. Associated with communication, expression, truth, creativity. Color: Blue.",
+    "harmonics_hz": [
+      384,
+      768,
+      1152,
+      1536,
+      1920
+    ],
+    "chakra_name": "Vishuddha",
+    "chakra_color": "Blue",
+    "chakra_element": "Ether/Space",
+    "body_location": "Throat",
+    "tags": [
+      "chakra",
+      "throat",
+      "communication",
+      "blue"
+    ]
+  },
+  {
+    "id": "FREQ-CHAKRA-THIRDEYE",
+    "name": "Third Eye Chakra \u2014 Ajna",
+    "frequency_hz": 426.7,
+    "category": "Chakra",
+    "description": "Third eye chakra frequency. Associated with intuition, wisdom, insight, psychic ability. Color: Indigo.",
+    "harmonics_hz": [
+      426.7,
+      853.4,
+      1280.1,
+      1706.8,
+      2133.5
+    ],
+    "chakra_name": "Ajna",
+    "chakra_color": "Indigo",
+    "chakra_element": "Light",
+    "body_location": "Forehead between eyes",
+    "tags": [
+      "chakra",
+      "third_eye",
+      "intuition",
+      "indigo"
+    ]
+  },
+  {
+    "id": "FREQ-CHAKRA-CROWN",
+    "name": "Crown Chakra \u2014 Sahasrara",
+    "frequency_hz": 480,
+    "category": "Chakra",
+    "description": "Crown chakra frequency. Associated with divine connection, enlightenment, unity consciousness. Color: Violet/White.",
+    "harmonics_hz": [
+      480,
+      960,
+      1440,
+      1920,
+      2400
+    ],
+    "chakra_name": "Sahasrara",
+    "chakra_color": "Violet",
+    "chakra_element": "Cosmic Energy",
+    "body_location": "Top of skull",
+    "tags": [
+      "chakra",
+      "crown",
+      "enlightenment",
+      "violet"
+    ]
+  },
+  {
+    "id": "FREQ-GAMMA-40HZ",
+    "name": "Gamma Brainwave \u2014 40 Hz",
+    "frequency_hz": 40,
+    "category": "Brainwave",
+    "description": "40 Hz gamma oscillation. Associated with peak cognition, consciousness binding, and working memory. Deficient in Alzheimer's patients. Used in therapeutic light/sound stimulation research (MIT/Tsai lab studies show 40 Hz reduces amyloid plaques).",
+    "harmonics_hz": [
+      40,
+      80,
+      120,
+      160,
+      200
+    ],
+    "brainwave_band": "Gamma",
+    "cognitive_state": "Peak cognition, neural binding",
+    "therapeutic_use": "Alzheimer's research, focus enhancement",
+    "tags": [
+      "gamma",
+      "brainwave",
+      "40hz",
+      "cognition",
+      "alzheimers"
+    ]
+  },
+  {
+    "id": "FREQ-MAINS-60HZ",
+    "name": "AC Mains Hum \u2014 60 Hz (North America)",
+    "frequency_hz": 60,
+    "category": "Industrial/Electrical",
+    "description": "North American electrical grid frequency. Audible as 60 Hz hum in poorly shielded equipment. Harmonics at 120, 180, 240 Hz. The fundamental tone of virtually all American electrical infrastructure.",
+    "harmonics_hz": [
+      60,
+      120,
+      180,
+      240,
+      300
+    ],
+    "regions": [
+      "North America",
+      "Japan (eastern)"
+    ],
+    "tags": [
+      "mains",
+      "electrical",
+      "hum",
+      "60hz",
+      "industrial"
+    ]
+  },
+  {
+    "id": "FREQ-MAINS-50HZ",
+    "name": "AC Mains Hum \u2014 50 Hz (Europe/Asia)",
+    "frequency_hz": 50,
+    "category": "Industrial/Electrical",
+    "description": "European/Asian electrical grid frequency. Slightly lower and 'heavier' than 60 Hz hum. All electronics in these regions reference this fundamental.",
+    "harmonics_hz": [
+      50,
+      100,
+      150,
+      200,
+      250
+    ],
+    "regions": [
+      "Europe",
+      "Asia",
+      "Africa",
+      "Australia"
+    ],
+    "tags": [
+      "mains",
+      "electrical",
+      "hum",
+      "50hz",
+      "industrial"
+    ]
+  }
+]

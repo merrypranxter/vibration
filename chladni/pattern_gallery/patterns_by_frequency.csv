@@ -1,0 +1,61 @@
+id,frequency_hz,note,plate_type,m_index,n_index,symmetry,node_count,antinode_count,complexity,visual_description,color_hex
+CHLAD-CSV-001,20.0,E0,Square,1,1,C4v,2,4,Low,Infrasonic X-pattern — theoretical lowest Chladni mode on very large plate,#191970
+CHLAD-CSV-002,28.0,A0,Square,1,1,C4v,2,4,Low,Diagonal X on extra-large 50cm plate — very low bass mode,#1C3A6B
+CHLAD-CSV-003,45.0,F#1,Square,1,1,C4v,2,4,Low,Simple X pattern on 40cm steel plate — two diagonal nodal lines,#4169E1
+CHLAD-CSV-004,55.0,A1,Circular,0,1,C_inf_v,1,2,Low,Single concentric ring on 30cm plate — breathing mode,#4682B4
+CHLAD-CSV-005,65.0,C2,Square,1,2,C2v,3,4,Low,Asymmetric T-bar nodal pattern — one line plus stub,#2E8B57
+CHLAD-CSV-006,73.0,D2,Circular,1,0,C2v,1,2,Low,Single diameter line bisecting circular plate,#8B4513
+CHLAD-CSV-007,82.0,E2,Square,1,2,C2v,3,4,Low,Modified T-shape with slight diagonal lean on mid-size plate,#556B2F
+CHLAD-CSV-008,87.0,F2,Hexagonal,1,1,C6v,6,7,Low,Six-lobe ring — lowest hexagonal plate mode,#228B22
+CHLAD-CSV-009,98.0,G2,Square,1,1,C4v,2,4,Low,Classic diagonal X on 30cm aluminum plate,#C0C0C0
+CHLAD-CSV-010,110.0,A2,Square,2,2,C4v,4,9,Medium,Central diamond hash-mark pattern on 40cm steel plate,#8B4513
+CHLAD-CSV-011,123.0,B2,Square,1,2,C2v,3,4,Low,Three-line T-pattern producing two unequal lobes,#6B8E23
+CHLAD-CSV-012,131.0,C3,Square,2,3,C2v,7,8,Medium,Five-line irregular lattice with elongated rectangular cells,#228B22
+CHLAD-CSV-013,131.0,C3,Hexagonal,2,1,C6v,12,13,Medium,Stunning snowflake with six radial arms and connecting ring,#87CEEB
+CHLAD-CSV-014,146.0,D3,Circular,2,0,C4v,2,4,Low,Two perpendicular diameters forming a cross on 30cm plate,#228B22
+CHLAD-CSV-015,165.0,E3,Square,1,1,C4v,2,4,Low,Compact X on small 20cm steel plate,#4682B4
+CHLAD-CSV-016,164.0,E3,Circular,0,2,C_inf_v,2,3,Medium,Two nested concentric rings — three alternating zones,#9370DB
+CHLAD-CSV-017,175.0,F3,Square,2,3,C2v,7,8,Medium,Six-lobe rectangular lattice on 30cm plate,#FF6347
+CHLAD-CSV-018,196.0,G3,Square,2,2,C4v,4,9,Medium,Hash-mark four-line pattern with nine antinodal cells,#8B0000
+CHLAD-CSV-019,196.0,G3,Hexagonal,2,2,C3v,9,10,Medium,Broken-symmetry six-petal flower with alternating petal sizes,#FF8C00
+CHLAD-CSV-020,220.0,A3,Square,2,3,C2v,7,8,Medium,2x3 rectangular lattice — six lobes in two rows on large plate,#FF8C00
+CHLAD-CSV-021,220.0,A3,Circular,1,0,C2v,1,2,Low,Single diameter on 20cm circular plate,#FF4500
+CHLAD-CSV-022,247.0,B3,Square,1,3,C2v,4,6,Low,Three parallel horizontal bars on 30cm aluminum plate,#9400D3
+CHLAD-CSV-023,261.0,C4,Square,1,2,C2v,3,4,Low,Middle-C bisecting pattern on 20cm steel plate,#DAA520
+CHLAD-CSV-024,262.0,C4,Hexagonal,3,1,C6v,18,18,High,Double-ring hexagonal mandala — six inner and twelve outer lobes,#8B0000
+CHLAD-CSV-025,294.0,D4,Square,3,3,C4v,8,16,High,4x4 checkerboard lattice with 16 cells on large aluminum plate,#1E90FF
+CHLAD-CSV-026,294.0,D4,Circular,2,0,C4v,2,4,Low,Sharp compact cross on 20cm aluminum circular plate,#20B2AA
+CHLAD-CSV-027,330.0,E4,Square,2,3,C2v,7,8,Medium,2x3 lattice on 30cm steel plate — six oval cells,#32CD32
+CHLAD-CSV-028,349.0,F4,Square,3,4,C2v,11,16,High,Complex 3x4 pattern on large steel plate — twelve fine cells,#4B0082
+CHLAD-CSV-029,392.0,G4,Square,2,2,C4v,4,9,Medium,Compact plus-sign 3x3 grid on small 20cm plate,#FF6347
+CHLAD-CSV-030,392.0,G4,Hexagonal,3,2,C6v,20,24,High,24-cell web in three concentric hexagonal rings,#2E8B57
+CHLAD-CSV-031,440.0,A4,Square,1,3,C2v,4,6,Medium,Three parallel stripes at concert A on 20cm steel plate,#FFD700
+CHLAD-CSV-032,440.0,A4,Circular,3,0,C6v,3,6,Medium,Six-armed asterisk — star pattern at concert A on 20cm plate,#FFD700
+CHLAD-CSV-033,494.0,B4,Square,3,3,C4v,8,16,High,16-cell symmetric lattice on 30cm aluminum plate,#7B68EE
+CHLAD-CSV-034,523.0,C5,Square,2,3,C2v,7,8,Medium,Six cells in 2x3 arrangement on compact 20cm plate,#00CED1
+CHLAD-CSV-035,523.0,C5,Hexagonal,4,1,C6v,24,36,Very High,Dense honeycomb 36-cell tessellation on 20cm hex plate,#DAA520
+CHLAD-CSV-036,587.0,D5,Square,3,4,C2v,11,16,High,Twelve-cell 3x4 matrix on 20cm steel plate,#FF69B4
+CHLAD-CSV-037,659.0,E5,Square,1,4,C2v,5,8,Medium,Fine five-band stripes on 20cm plate with lycopodium,#DC143C
+CHLAD-CSV-038,659.0,E5,Hexagonal,4,2,C3v,22,30,Very High,30-cell pinwheel with C3v symmetry suggesting rotation,#DC143C
+CHLAD-CSV-039,698.0,F5,Square,4,4,C4v,12,25,High,Dense 5x5 symmetric lattice — 25 cells on 20cm plate,#8B008B
+CHLAD-CSV-040,784.0,G5,Square,3,3,C4v,8,16,High,Dense woven-fabric 4x4 lattice on small plate,#483D8B
+CHLAD-CSV-041,784.0,G5,Circular,4,0,C8v,4,8,High,Eight-spoke wheel pattern — eight triangular sectors,#B22222
+CHLAD-CSV-042,880.0,A5,Square,2,4,C2v,7,12,High,Eight rectangular cells in 2x4 arrangement on glass plate,#B0E0E6
+CHLAD-CSV-043,880.0,A5,Hexagonal,5,1,C6v,30,48,Very High,48 micro-cells in concentric hexagonal rings,#800080
+CHLAD-CSV-044,988.0,B5,Square,4,5,C2v,15,20,Very High,Complex 4x5 lattice — 20 rectangular cells on 20cm plate,#FF1493
+CHLAD-CSV-045,1047.0,C6,Square,3,4,C2v,11,12,High,12-cell matrix on 20cm steel plate — lycopodium only,#556B2F
+CHLAD-CSV-046,1047.0,C6,Circular,2,1,C4v,5,8,High,Cross overlaid with ring — eight-zone mixed mode,#3CB371
+CHLAD-CSV-047,1047.0,C6,Hexagonal,5,2,C2v,32,52,Very High,Bilaterally symmetric 52-cell pattern — broken C6v symmetry,#5F9EA0
+CHLAD-CSV-048,1174.0,D6,Square,5,5,C4v,16,36,Very High,36-cell 6x6 symmetric lattice — extremely fine lycopodium,#FF8C00
+CHLAD-CSV-049,1319.0,E6,Square,3,5,C2v,13,20,Very High,15-cell 3x5 rectangular lattice — high frequency mode,#9932CC
+CHLAD-CSV-050,1397.0,F6,Circular,3,1,C6v,7,12,Very High,Three diameters plus ring — 12-zone mixed circular mode,#D2691E
+CHLAD-CSV-051,1568.0,G6,Square,6,6,C4v,20,49,Very High,49-cell dense square lattice — near acoustic microscopy range,#008080
+CHLAD-CSV-052,1760.0,A6,Circular,5,0,C10v,5,10,Very High,Ten-spoked wheel on 20cm plate — fine lycopodium essential,#FF69B4
+CHLAD-CSV-053,2093.0,C7,Hexagonal,6,3,C6v,42,72,Very High,72 micro-cells in dense hex lattice on 15cm plate,#F0E68C
+CHLAD-CSV-054,2349.0,D7,Square,7,7,C4v,24,64,Very High,64-cell ultrafine lattice — ultrasonic visualization boundary,#708090
+CHLAD-CSV-055,3136.0,G7,Square,8,8,C4v,28,81,Very High,81-cell dense square lattice on 10cm plate,#2F4F4F
+CHLAD-CSV-056,3520.0,A7,Circular,4,1,C8v,9,16,Very High,Four diameters plus ring — 16 micro-cells on 10cm plate,#00FF7F
+CHLAD-CSV-057,4186.0,C8,Square,5,8,C2v,21,40,Very High,Complex 5x8 mode on 10cm plate — theoretical visualization,#B8860B
+CHLAD-CSV-058,6272.0,G8,Square,9,9,C4v,32,100,Very High,100-cell ultrafine lattice — requires specialized setup,#696969
+CHLAD-CSV-059,8372.0,C9,Square,12,12,C4v,44,196,Very High,196-cell near-fractal pattern — ultrasonic frequency range,#404040
+CHLAD-CSV-060,16744.0,C10,Square,17,17,C4v,64,576,Very High,Theoretical extreme-high-frequency mode — near limit of audibility,#202020

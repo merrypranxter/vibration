@@ -1,0 +1,336 @@
+{
+  "plate_types": [
+    {
+      "type": "Square",
+      "description": "Rectangular plates with equal side lengths. The most commonly used geometry for Chladni demonstrations. Produces modes with integer-pair (m,n) modal indices where m and n are the number of nodal lines parallel to each pair of edges.",
+      "eigenfrequency_formula": "f_mn = (π/2) × √(D/ρh) × (m² + n²) / a²",
+      "formula_parameters": {
+        "D": "Flexural rigidity: D = Eh³ / [12(1−ν²)]  (N·m)",
+        "rho": "Material density (kg/m³)",
+        "h": "Plate thickness (m)",
+        "a": "Side length (m)",
+        "m_n": "Modal indices (positive integers, m ≥ 1, n ≥ 1)"
+      },
+      "nodal_line_count_formula": "(m−1) + (n−1) = m + n − 2",
+      "antinode_count_formula": "m × n",
+      "symmetry_rule": "Mode (m,m): C4v symmetry; Mode (m,n) with m≠n: C2v symmetry",
+      "degeneracy_note": "Modes (m,n) and (n,m) with m≠n are degenerate — same eigenfrequency, different orientations",
+      "typical_sizes": [
+        {
+          "size_cm": 10,
+          "size_m": 0.10,
+          "description": "Small plate — high frequency range",
+          "typical_frequency_range_hz": [800, 20000],
+          "common_use": "High-frequency demonstrations, compact displays"
+        },
+        {
+          "size_cm": 20,
+          "size_m": 0.20,
+          "description": "Standard plate — broad frequency range",
+          "typical_frequency_range_hz": [150, 5000],
+          "common_use": "Most common size for demonstrations and photographs"
+        },
+        {
+          "size_cm": 30,
+          "size_m": 0.30,
+          "description": "Large plate — mid frequency range",
+          "typical_frequency_range_hz": [60, 2000],
+          "common_use": "Stage demonstrations, detailed pattern photography"
+        },
+        {
+          "size_cm": 40,
+          "size_m": 0.40,
+          "description": "Extra large plate — low frequency range",
+          "typical_frequency_range_hz": [25, 800],
+          "common_use": "Low-frequency bass range demonstrations"
+        }
+      ],
+      "materials": [
+        {
+          "material": "Steel (mild)",
+          "density_kg_m3": 7850,
+          "youngs_modulus_gpa": 200,
+          "poisson_ratio": 0.30,
+          "typical_thickness_mm": [0.5, 1.0, 1.5, 2.0],
+          "Q_factor_range": [80, 250],
+          "color": "Silvery-gray",
+          "notes": "Most common material. High density means lower frequencies for same size. Magnetic — iron filings stick to plate.",
+          "flexural_rigidity_N_m_per_mm_thickness": {
+            "0.5mm": 0.23,
+            "1.0mm": 1.83,
+            "1.5mm": 6.18,
+            "2.0mm": 14.6
+          }
+        },
+        {
+          "material": "Aluminum (6061)",
+          "density_kg_m3": 2700,
+          "youngs_modulus_gpa": 69,
+          "poisson_ratio": 0.33,
+          "typical_thickness_mm": [0.5, 1.0, 1.5, 2.0, 3.0],
+          "Q_factor_range": [100, 400],
+          "color": "Bright silver",
+          "notes": "Higher Q than steel, produces sharper patterns. Lower density gives higher frequencies for equivalent size and thickness. Non-magnetic.",
+          "flexural_rigidity_N_m_per_mm_thickness": {
+            "0.5mm": 0.082,
+            "1.0mm": 0.655,
+            "1.5mm": 2.21,
+            "2.0mm": 5.24
+          }
+        },
+        {
+          "material": "Glass (borosilicate)",
+          "density_kg_m3": 2230,
+          "youngs_modulus_gpa": 64,
+          "poisson_ratio": 0.20,
+          "typical_thickness_mm": [1.0, 2.0, 3.0, 4.0, 5.0],
+          "Q_factor_range": [150, 600],
+          "color": "Transparent/clear",
+          "notes": "Highest Q factor of common materials. Allows backlit photography showing patterns brilliantly. Fragile — handle carefully. Typical picture-frame glass or borosilicate lab glass.",
+          "flexural_rigidity_N_m_per_mm_thickness": {
+            "1.0mm": 0.590,
+            "2.0mm": 4.72,
+            "3.0mm": 15.9,
+            "5.0mm": 73.8
+          }
+        },
+        {
+          "material": "Acrylic (PMMA)",
+          "density_kg_m3": 1190,
+          "youngs_modulus_gpa": 3.2,
+          "poisson_ratio": 0.37,
+          "typical_thickness_mm": [2.0, 3.0, 5.0, 6.0],
+          "Q_factor_range": [20, 80],
+          "color": "Transparent/colored",
+          "notes": "Lowest Q factor — broad resonances. Transparent for backlit work. Low stiffness requires thicker plates. Cuts easily with laser or saw.",
+          "flexural_rigidity_N_m_per_mm_thickness": {
+            "2.0mm": 0.026,
+            "3.0mm": 0.088,
+            "5.0mm": 0.408,
+            "6.0mm": 0.710
+          }
+        }
+      ],
+      "modal_index_frequency_mapping": {
+        "note": "Frequencies computed for 20cm × 20cm steel plate, 1mm thick (f_base ≈ 60 Hz per unit)",
+        "modes": [
+          {"m": 1, "n": 1, "m2_plus_n2": 2, "f_approx_hz": 120},
+          {"m": 1, "n": 2, "m2_plus_n2": 5, "f_approx_hz": 300},
+          {"m": 2, "n": 1, "m2_plus_n2": 5, "f_approx_hz": 300},
+          {"m": 2, "n": 2, "m2_plus_n2": 8, "f_approx_hz": 480},
+          {"m": 1, "n": 3, "m2_plus_n2": 10, "f_approx_hz": 600},
+          {"m": 3, "n": 1, "m2_plus_n2": 10, "f_approx_hz": 600},
+          {"m": 2, "n": 3, "m2_plus_n2": 13, "f_approx_hz": 780},
+          {"m": 3, "n": 2, "m2_plus_n2": 13, "f_approx_hz": 780},
+          {"m": 1, "n": 4, "m2_plus_n2": 17, "f_approx_hz": 1020},
+          {"m": 4, "n": 1, "m2_plus_n2": 17, "f_approx_hz": 1020},
+          {"m": 3, "n": 3, "m2_plus_n2": 18, "f_approx_hz": 1080},
+          {"m": 2, "n": 4, "m2_plus_n2": 20, "f_approx_hz": 1200},
+          {"m": 4, "n": 2, "m2_plus_n2": 20, "f_approx_hz": 1200},
+          {"m": 3, "n": 4, "m2_plus_n2": 25, "f_approx_hz": 1500},
+          {"m": 4, "n": 3, "m2_plus_n2": 25, "f_approx_hz": 1500},
+          {"m": 4, "n": 4, "m2_plus_n2": 32, "f_approx_hz": 1920},
+          {"m": 5, "n": 5, "m2_plus_n2": 50, "f_approx_hz": 3000},
+          {"m": 6, "n": 6, "m2_plus_n2": 72, "f_approx_hz": 4320}
+        ]
+      }
+    },
+    {
+      "type": "Circular",
+      "description": "Circular plates of radius R. Eigenmodes are described by (d, c) — the number of nodal diameters and nodal circles respectively. The mode shapes involve Bessel functions. Free-edge circular plates produce the classic concentric-ring and asterisk Chladni patterns.",
+      "eigenfrequency_formula": "f_dc = (k_dc)² / (2π) × √(D/ρh)  where k_dc satisfies the free-edge Bessel characteristic equation",
+      "boundary_condition_equations": {
+        "free_edge_bending_moment": "W''(R) + ν(W'(R)/R) = 0",
+        "free_edge_shear": "W'''(R) + W''(R)/R − (2d²−1−ν)W'(R)/R² + ... = 0"
+      },
+      "mode_shape_function": "W_dc(r,θ) = [J_d(k_dc·r) + α_dc·I_d(k_dc·r)] × {cos(dθ) or sin(dθ)}",
+      "mode_shape_parameters": {
+        "J_d": "Bessel function of the first kind, order d",
+        "I_d": "Modified Bessel function of the first kind, order d",
+        "alpha_dc": "Coefficient from boundary condition matching",
+        "d": "Number of nodal diameters (0, 1, 2, 3, ...)",
+        "c": "Number of nodal circles (0, 1, 2, 3, ...)"
+      },
+      "eigenfrequency_parameters_kdcR": {
+        "note": "Values of k_dc × R satisfying free-edge boundary conditions",
+        "table": [
+          {"d": 0, "c": 1, "kR": 3.011},
+          {"d": 0, "c": 2, "kR": 6.200},
+          {"d": 0, "c": 3, "kR": 9.369},
+          {"d": 1, "c": 0, "kR": 1.893},
+          {"d": 1, "c": 1, "kR": 4.842},
+          {"d": 1, "c": 2, "kR": 7.959},
+          {"d": 2, "c": 0, "kR": 2.988},
+          {"d": 2, "c": 1, "kR": 5.937},
+          {"d": 2, "c": 2, "kR": 9.075},
+          {"d": 3, "c": 0, "kR": 4.539},
+          {"d": 3, "c": 1, "kR": 7.473},
+          {"d": 4, "c": 0, "kR": 5.896},
+          {"d": 4, "c": 1, "kR": 9.316},
+          {"d": 5, "c": 0, "kR": 7.298}
+        ]
+      },
+      "clamped_vs_free_comparison": {
+        "free_edge": {
+          "description": "Most common for Chladni demonstrations. Plate held only at center or at edge nodes.",
+          "typical_Q_factor": "High (80-300)",
+          "lowest_mode": "(1,0) — single diametral line",
+          "nodal_geometry": "Diameters can be oriented in any direction"
+        },
+        "clamped_edge": {
+          "description": "Plate clamped rigidly at all edges (uncommon for Chladni, common in engineering)",
+          "typical_Q_factor": "Lower due to edge damping",
+          "lowest_mode": "(0,1) — circular ring near center",
+          "nodal_geometry": "Fixed by the clamping arrangement"
+        }
+      },
+      "typical_sizes": [
+        {
+          "diameter_cm": 10,
+          "radius_m": 0.05,
+          "typical_frequency_range_hz": [1000, 15000],
+          "common_use": "High-frequency demonstrations"
+        },
+        {
+          "diameter_cm": 20,
+          "radius_m": 0.10,
+          "typical_frequency_range_hz": [200, 5000],
+          "common_use": "Standard size for photography"
+        },
+        {
+          "diameter_cm": 30,
+          "radius_m": 0.15,
+          "typical_frequency_range_hz": [50, 2000],
+          "common_use": "Stage demonstrations"
+        }
+      ],
+      "materials": [
+        {
+          "material": "Steel",
+          "density_kg_m3": 7850,
+          "youngs_modulus_gpa": 200,
+          "poisson_ratio": 0.30,
+          "typical_thickness_mm": [0.5, 1.0, 1.5],
+          "Q_factor_range": [75, 220],
+          "notes": "Most common. Circular steel plates often cut from larger sheet with waterjet or laser."
+        },
+        {
+          "material": "Aluminum",
+          "density_kg_m3": 2700,
+          "youngs_modulus_gpa": 69,
+          "poisson_ratio": 0.33,
+          "typical_thickness_mm": [1.0, 2.0, 3.0],
+          "Q_factor_range": [100, 380],
+          "notes": "Light weight, easily machined to precision circular form. Preferred for high-Q demonstrations."
+        },
+        {
+          "material": "Brass",
+          "density_kg_m3": 8500,
+          "youngs_modulus_gpa": 105,
+          "poisson_ratio": 0.34,
+          "typical_thickness_mm": [0.5, 1.0, 1.5],
+          "Q_factor_range": [90, 280],
+          "notes": "Attractive gold color for photographic work. Higher density than steel at same E gives slightly lower frequencies."
+        }
+      ]
+    },
+    {
+      "type": "Hexagonal",
+      "description": "Regular hexagonal plates with six equal sides. Possess full D6h symmetry, enabling modes not possible on square or circular plates. Many modes exhibit C6v, C3v, or C2v symmetry, producing snowflake patterns, three-fold flowers, and pinwheels. Less common but produces the most visually spectacular Chladni figures.",
+      "eigenfrequency_method": "No closed-form analytical solution available. Frequencies determined by FEM (Finite Element Method) or measured experimentally.",
+      "fem_approach": "Plate domain meshed with ~2000-8000 triangular elements. Global stiffness [K] and mass [M] matrices assembled. Eigenvalue problem [K]{U} = ω²[M]{U} solved numerically.",
+      "symmetry_modes": [
+        {
+          "symmetry_group": "C6v",
+          "description": "Six-fold rotation + six mirror planes. Full hexagonal symmetry. Produces snowflake, asterisk, and honeycomb patterns. Most striking visually.",
+          "examples": "Lowest mode, some even-index modes"
+        },
+        {
+          "symmetry_group": "C3v",
+          "description": "Three-fold rotation + three mirror planes. Broken six-fold symmetry. Produces three-armed stars, asymmetric flowers, pinwheels.",
+          "examples": "Some degenerate modes, mixed-index patterns"
+        },
+        {
+          "symmetry_group": "C2v",
+          "description": "Two-fold rotation + two mirror planes. Bilateral symmetry only. Appears at higher frequencies as mode complexity increases beyond hex symmetry.",
+          "examples": "Higher-order modes, transitional patterns"
+        }
+      ],
+      "six_fold_symmetry_modes": {
+        "description": "Unique to hexagonal plates: modes with exactly C6v symmetry show six-fold patterns resembling snowflakes, honeycombs, and molecular structures. These do not appear on square plates (max C4v) or circular plates (can be Cinfv but not C6v specifically).",
+        "characteristic_patterns": [
+          "Six-petalled flowers",
+          "Snowflake arms (six radial lines)",
+          "Hexagonal honeycomb tessellation",
+          "Six-spoke asterisks",
+          "Nested hexagonal rings"
+        ]
+      },
+      "typical_sizes": [
+        {
+          "side_length_cm": 10,
+          "inscribed_circle_radius_cm": 8.66,
+          "typical_frequency_range_hz": [500, 12000],
+          "common_use": "High-frequency small demonstrations"
+        },
+        {
+          "side_length_cm": 15,
+          "inscribed_circle_radius_cm": 13.0,
+          "typical_frequency_range_hz": [200, 5000],
+          "common_use": "Medium display pieces"
+        },
+        {
+          "side_length_cm": 20,
+          "inscribed_circle_radius_cm": 17.3,
+          "typical_frequency_range_hz": [80, 2500],
+          "common_use": "Standard hexagonal plate size"
+        },
+        {
+          "side_length_cm": 30,
+          "inscribed_circle_radius_cm": 26.0,
+          "typical_frequency_range_hz": [30, 1000],
+          "common_use": "Large demonstration plates, low frequencies"
+        }
+      ],
+      "materials": [
+        {
+          "material": "Steel",
+          "density_kg_m3": 7850,
+          "youngs_modulus_gpa": 200,
+          "poisson_ratio": 0.30,
+          "typical_thickness_mm": [0.8, 1.0, 1.5, 2.0],
+          "Q_factor_range": [80, 230],
+          "notes": "Most practical for cutting hex shapes. Use waterjet or laser cutting for precise geometry — critical for six-fold symmetry."
+        },
+        {
+          "material": "Aluminum",
+          "density_kg_m3": 2700,
+          "youngs_modulus_gpa": 69,
+          "poisson_ratio": 0.33,
+          "typical_thickness_mm": [1.0, 1.5, 2.0, 3.0],
+          "Q_factor_range": [110, 420],
+          "notes": "Preferred material. Higher Q gives sharper patterns. CNC milling provides excellent hex precision."
+        },
+        {
+          "material": "Brass",
+          "density_kg_m3": 8500,
+          "youngs_modulus_gpa": 105,
+          "poisson_ratio": 0.34,
+          "typical_thickness_mm": [0.5, 1.0, 1.5],
+          "Q_factor_range": [88, 260],
+          "notes": "Attractive gold color shows sand patterns vividly. Heavier than aluminum."
+        },
+        {
+          "material": "Glass (borosilicate)",
+          "density_kg_m3": 2230,
+          "youngs_modulus_gpa": 64,
+          "poisson_ratio": 0.20,
+          "typical_thickness_mm": [2.0, 3.0, 4.0],
+          "Q_factor_range": [145, 550],
+          "notes": "Highest Q factor. Hexagonal glass tiles available commercially (used in architecture). Allows backlit photography. Fragile — careful handling required."
+        }
+      ],
+      "rare_patterns_note": "Hexagonal plates are the only common Chladni plate geometry that produces genuine six-fold symmetric patterns (C6v). Square plates max out at C4v (four-fold), and circular plates while capable of infinite symmetry do not constrain patterns to exactly six-fold. This makes hexagonal plates uniquely suited for producing snowflake and honeycomb imagery."
+    }
+  ]
+}

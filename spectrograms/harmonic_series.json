@@ -1,0 +1,181 @@
+[
+  {
+    "id": "HARM-PIANO-C4",
+    "source": "Piano C4 (Middle C)",
+    "fundamental_hz": 261.63,
+    "partials": [
+      {"partial": 1, "hz": 261.63, "ratio": "1:1", "relative_amplitude": 1.0, "cents_from_tempered": 0, "interval": "fundamental"},
+      {"partial": 2, "hz": 523.25, "ratio": "2:1", "relative_amplitude": 0.7, "cents_from_tempered": 0, "interval": "octave"},
+      {"partial": 3, "hz": 784.88, "ratio": "3:1", "relative_amplitude": 0.5, "cents_from_tempered": 2, "interval": "perfect 5th"},
+      {"partial": 4, "hz": 1046.50, "ratio": "4:1", "relative_amplitude": 0.35, "cents_from_tempered": 0, "interval": "2nd octave"},
+      {"partial": 5, "hz": 1308.13, "ratio": "5:1", "relative_amplitude": 0.25, "cents_from_tempered": -14, "interval": "major 3rd"},
+      {"partial": 6, "hz": 1569.75, "ratio": "6:1", "relative_amplitude": 0.18, "cents_from_tempered": 2, "interval": "perfect 5th"},
+      {"partial": 7, "hz": 1831.38, "ratio": "7:1", "relative_amplitude": 0.12, "cents_from_tempered": -31, "interval": "harmonic 7th"},
+      {"partial": 8, "hz": 2093.00, "ratio": "8:1", "relative_amplitude": 0.09, "cents_from_tempered": 0, "interval": "3rd octave"}
+    ],
+    "inharmonicity_factor": 0.00015,
+    "timbre_description": "Rich, warm, complex — warm attack transitioning to singing sustain",
+    "decay_profile": "Exponential with varying rates per partial; higher partials decay faster",
+    "register": "tenor/soprano overlap",
+    "ai_art_prompt": "Piano harmonic series visualization, fundamental C4 at 261.63Hz, rich warm harmonics radiating outward, amber and golden spectral lines on dark background"
+  },
+  {
+    "id": "HARM-VIOLIN-A4",
+    "source": "Violin A4 (Open A string)",
+    "fundamental_hz": 440.0,
+    "partials": [
+      {"partial": 1, "hz": 440.0, "ratio": "1:1", "relative_amplitude": 1.0, "cents_from_tempered": 0, "interval": "fundamental"},
+      {"partial": 2, "hz": 880.0, "ratio": "2:1", "relative_amplitude": 0.9, "cents_from_tempered": 0, "interval": "octave"},
+      {"partial": 3, "hz": 1320.0, "ratio": "3:1", "relative_amplitude": 0.6, "cents_from_tempered": 2, "interval": "perfect 5th"},
+      {"partial": 4, "hz": 1760.0, "ratio": "4:1", "relative_amplitude": 0.5, "cents_from_tempered": 0, "interval": "2nd octave"},
+      {"partial": 5, "hz": 2200.0, "ratio": "5:1", "relative_amplitude": 0.4, "cents_from_tempered": -14, "interval": "major 3rd"},
+      {"partial": 6, "hz": 2640.0, "ratio": "6:1", "relative_amplitude": 0.3, "cents_from_tempered": 2, "interval": "perfect 5th"},
+      {"partial": 7, "hz": 3080.0, "ratio": "7:1", "relative_amplitude": 0.2, "cents_from_tempered": -31, "interval": "harmonic 7th"},
+      {"partial": 8, "hz": 3520.0, "ratio": "8:1", "relative_amplitude": 0.15, "cents_from_tempered": 0, "interval": "3rd octave"}
+    ],
+    "inharmonicity_factor": 0.00002,
+    "timbre_description": "Bright, singing, rich with strong upper partials — bowing creates sawtooth-like excitation",
+    "decay_profile": "Sustained while bowing; all partials maintain relative balance during bow contact",
+    "register": "soprano",
+    "ai_art_prompt": "Violin harmonic series at A4 440Hz, glowing golden-amber spectral lines on velvet black, sawtooth wave pattern suggesting bowing motion, ethereal strings"
+  },
+  {
+    "id": "HARM-TRUMPET-C4",
+    "source": "Trumpet C4",
+    "fundamental_hz": 261.63,
+    "partials": [
+      {"partial": 1, "hz": 261.63, "ratio": "1:1", "relative_amplitude": 0.3, "cents_from_tempered": 0, "interval": "fundamental"},
+      {"partial": 2, "hz": 523.25, "ratio": "2:1", "relative_amplitude": 0.8, "cents_from_tempered": 0, "interval": "octave"},
+      {"partial": 3, "hz": 784.88, "ratio": "3:1", "relative_amplitude": 1.0, "cents_from_tempered": 2, "interval": "perfect 5th"},
+      {"partial": 4, "hz": 1046.50, "ratio": "4:1", "relative_amplitude": 0.9, "cents_from_tempered": 0, "interval": "2nd octave"},
+      {"partial": 5, "hz": 1308.13, "ratio": "5:1", "relative_amplitude": 0.7, "cents_from_tempered": -14, "interval": "major 3rd"},
+      {"partial": 6, "hz": 1569.75, "ratio": "6:1", "relative_amplitude": 0.5, "cents_from_tempered": 2, "interval": "perfect 5th"},
+      {"partial": 7, "hz": 1831.38, "ratio": "7:1", "relative_amplitude": 0.3, "cents_from_tempered": -31, "interval": "harmonic 7th"},
+      {"partial": 8, "hz": 2093.00, "ratio": "8:1", "relative_amplitude": 0.2, "cents_from_tempered": 0, "interval": "3rd octave"}
+    ],
+    "inharmonicity_factor": 0.00001,
+    "timbre_description": "Bright, brassy, penetrating — weak fundamental with strong mid-range harmonics gives characteristic brilliance",
+    "decay_profile": "Sustained; slight formant shaping by bell resonances",
+    "register": "soprano/alto",
+    "ai_art_prompt": "Trumpet harmonic spectrum at C4, bright brass spectral lines, copper and gold tones, strong 2nd-5th harmonics dominating, fanfare energy"
+  },
+  {
+    "id": "HARM-FLUTE-C5",
+    "source": "Flute C5",
+    "fundamental_hz": 523.25,
+    "partials": [
+      {"partial": 1, "hz": 523.25, "ratio": "1:1", "relative_amplitude": 1.0, "cents_from_tempered": 0, "interval": "fundamental"},
+      {"partial": 2, "hz": 1046.50, "ratio": "2:1", "relative_amplitude": 0.3, "cents_from_tempered": 0, "interval": "octave"},
+      {"partial": 3, "hz": 1569.75, "ratio": "3:1", "relative_amplitude": 0.1, "cents_from_tempered": 2, "interval": "perfect 5th"},
+      {"partial": 4, "hz": 2093.00, "ratio": "4:1", "relative_amplitude": 0.05, "cents_from_tempered": 0, "interval": "2nd octave"},
+      {"partial": 5, "hz": 2616.25, "ratio": "5:1", "relative_amplitude": 0.02, "cents_from_tempered": -14, "interval": "major 3rd"},
+      {"partial": 6, "hz": 3139.50, "ratio": "6:1", "relative_amplitude": 0.01, "cents_from_tempered": 2, "interval": "perfect 5th"}
+    ],
+    "inharmonicity_factor": 0.00001,
+    "timbre_description": "Pure, breathy, clear — dominant fundamental with very few harmonics",
+    "decay_profile": "Sustained; noise component from breath visible in very high frequencies",
+    "register": "soprano/treble",
+    "ai_art_prompt": "Flute harmonic spectrum C5, pure clear blue-white fundamental line, minimal harmonics, airy crystalline visualization, breath noise wisps"
+  },
+  {
+    "id": "HARM-BASS-GUITAR-E2",
+    "source": "Bass Guitar E2 (open low E string)",
+    "fundamental_hz": 82.41,
+    "partials": [
+      {"partial": 1, "hz": 82.41, "ratio": "1:1", "relative_amplitude": 0.8, "cents_from_tempered": 0, "interval": "fundamental"},
+      {"partial": 2, "hz": 164.81, "ratio": "2:1", "relative_amplitude": 1.0, "cents_from_tempered": 0, "interval": "octave"},
+      {"partial": 3, "hz": 247.22, "ratio": "3:1", "relative_amplitude": 0.7, "cents_from_tempered": 2, "interval": "perfect 5th"},
+      {"partial": 4, "hz": 329.63, "ratio": "4:1", "relative_amplitude": 0.5, "cents_from_tempered": 0, "interval": "2nd octave"},
+      {"partial": 5, "hz": 412.03, "ratio": "5:1", "relative_amplitude": 0.35, "cents_from_tempered": -14, "interval": "major 3rd"},
+      {"partial": 6, "hz": 494.44, "ratio": "6:1", "relative_amplitude": 0.25, "cents_from_tempered": 2, "interval": "perfect 5th"},
+      {"partial": 7, "hz": 576.84, "ratio": "7:1", "relative_amplitude": 0.15, "cents_from_tempered": -31, "interval": "harmonic 7th"},
+      {"partial": 8, "hz": 659.26, "ratio": "8:1", "relative_amplitude": 0.1, "cents_from_tempered": 0, "interval": "3rd octave"}
+    ],
+    "inharmonicity_factor": 0.0003,
+    "timbre_description": "Deep, warm, rich — plucked string with strong 2nd harmonic, some inharmonicity",
+    "decay_profile": "Decaying pluck; higher harmonics decay faster creating darkening timbre",
+    "register": "bass",
+    "ai_art_prompt": "Bass guitar harmonic series E2 at 82.41Hz, deep dark purple tones, low warm harmonics glowing, subterranean resonance visualization"
+  },
+  {
+    "id": "HARM-SINGING-BOWL-432",
+    "source": "Tibetan Singing Bowl A=432Hz",
+    "fundamental_hz": 432.0,
+    "partials": [
+      {"partial": 1, "hz": 432.0, "ratio": "1:1", "relative_amplitude": 1.0, "cents_from_tempered": -31.77, "interval": "fundamental"},
+      {"partial": 2.756, "hz": 1190.8, "ratio": "2.756:1", "relative_amplitude": 0.4, "cents_from_tempered": null, "interval": "non-harmonic partial 1 (inharmonic)"},
+      {"partial": 5.404, "hz": 2334.5, "ratio": "5.404:1", "relative_amplitude": 0.15, "cents_from_tempered": null, "interval": "non-harmonic partial 2 (inharmonic)"},
+      {"partial": 8.934, "hz": 3859.5, "ratio": "8.934:1", "relative_amplitude": 0.05, "cents_from_tempered": null, "interval": "non-harmonic partial 3 (inharmonic)"}
+    ],
+    "inharmonicity_factor": 0.8,
+    "timbre_description": "Ethereal, shimmering, bell-like — highly inharmonic partials create beatings and shimmer",
+    "decay_profile": "Very long sustained decay (up to 60 seconds); inharmonic partials beat against each other",
+    "register": "alto/soprano",
+    "ai_art_prompt": "Tibetan singing bowl 432Hz spectral visualization, golden glowing fundamental, inharmonic spectral overtones shimmering like aurora, meditative and cosmic"
+  },
+  {
+    "id": "HARM-GUITAR-E2",
+    "source": "Acoustic Guitar E2 (open low E string)",
+    "fundamental_hz": 82.41,
+    "partials": [
+      {"partial": 1, "hz": 82.41, "ratio": "1:1", "relative_amplitude": 0.6, "cents_from_tempered": 0, "interval": "fundamental"},
+      {"partial": 2, "hz": 164.81, "ratio": "2:1", "relative_amplitude": 1.0, "cents_from_tempered": 0, "interval": "octave"},
+      {"partial": 3, "hz": 247.22, "ratio": "3:1", "relative_amplitude": 0.8, "cents_from_tempered": 2, "interval": "perfect 5th"},
+      {"partial": 4, "hz": 329.63, "ratio": "4:1", "relative_amplitude": 0.6, "cents_from_tempered": 0, "interval": "2nd octave"},
+      {"partial": 5, "hz": 412.03, "ratio": "5:1", "relative_amplitude": 0.45, "cents_from_tempered": -14, "interval": "major 3rd"},
+      {"partial": 6, "hz": 494.44, "ratio": "6:1", "relative_amplitude": 0.3, "cents_from_tempered": 2, "interval": "perfect 5th"},
+      {"partial": 7, "hz": 576.84, "ratio": "7:1", "relative_amplitude": 0.2, "cents_from_tempered": -31, "interval": "harmonic 7th"},
+      {"partial": 8, "hz": 659.26, "ratio": "8:1", "relative_amplitude": 0.12, "cents_from_tempered": 0, "interval": "3rd octave"}
+    ],
+    "inharmonicity_factor": 0.0002,
+    "timbre_description": "Warm, woody, complex — acoustic body resonances shape formant regions",
+    "decay_profile": "Plucked decay; resonant body amplifies certain partials via guitar body modes",
+    "register": "bass",
+    "ai_art_prompt": "Acoustic guitar harmonic series E2, warm wood-toned spectral lines, earthy amber glow, natural resonance visualization"
+  },
+  {
+    "id": "HARM-VOICE-AH-A4",
+    "source": "Human Singing Voice 'Ah' vowel, A4",
+    "fundamental_hz": 440.0,
+    "partials": [
+      {"partial": 1, "hz": 440.0, "ratio": "1:1", "relative_amplitude": 0.7, "cents_from_tempered": 0, "interval": "fundamental"},
+      {"partial": 2, "hz": 880.0, "ratio": "2:1", "relative_amplitude": 1.0, "cents_from_tempered": 0, "interval": "octave"},
+      {"partial": 3, "hz": 1320.0, "ratio": "3:1", "relative_amplitude": 0.6, "cents_from_tempered": 2, "interval": "perfect 5th"},
+      {"partial": 4, "hz": 1760.0, "ratio": "4:1", "relative_amplitude": 0.8, "cents_from_tempered": 0, "interval": "2nd octave — Formant F1 region"},
+      {"partial": 5, "hz": 2200.0, "ratio": "5:1", "relative_amplitude": 0.5, "cents_from_tempered": -14, "interval": "major 3rd — Formant F2 region"},
+      {"partial": 6, "hz": 2640.0, "ratio": "6:1", "relative_amplitude": 0.4, "cents_from_tempered": 2, "interval": "perfect 5th"},
+      {"partial": 7, "hz": 3080.0, "ratio": "7:1", "relative_amplitude": 0.2, "cents_from_tempered": -31, "interval": "harmonic 7th"},
+      {"partial": 8, "hz": 3520.0, "ratio": "8:1", "relative_amplitude": 0.15, "cents_from_tempered": 0, "interval": "3rd octave"}
+    ],
+    "formants": [
+      {"formant": "F1", "hz": 800, "description": "First vocal tract resonance — jaw opening"},
+      {"formant": "F2", "hz": 1200, "description": "Second vocal tract resonance — tongue position"},
+      {"formant": "F3", "hz": 2800, "description": "Third formant — vocal tract individuality"}
+    ],
+    "inharmonicity_factor": 0.0,
+    "timbre_description": "Warm, human, emotional — shaped by vocal tract formants at F1 and F2",
+    "decay_profile": "Sustained while singing; vibrato causes slight frequency modulation ±50 cents at ~5-6 Hz",
+    "register": "soprano/alto",
+    "ai_art_prompt": "Human voice harmonic spectrum 'Ah' vowel at A4 440Hz, warm amber formant bands visible, vocal tract resonance visualization, golden singing light"
+  },
+  {
+    "id": "HARM-ORGAN-C2",
+    "source": "Pipe Organ C2 (Principal 8' pipe)",
+    "fundamental_hz": 65.41,
+    "partials": [
+      {"partial": 1, "hz": 65.41, "ratio": "1:1", "relative_amplitude": 1.0, "cents_from_tempered": 0, "interval": "fundamental"},
+      {"partial": 2, "hz": 130.81, "ratio": "2:1", "relative_amplitude": 0.6, "cents_from_tempered": 0, "interval": "octave"},
+      {"partial": 3, "hz": 196.22, "ratio": "3:1", "relative_amplitude": 0.4, "cents_from_tempered": 2, "interval": "perfect 5th"},
+      {"partial": 4, "hz": 261.63, "ratio": "4:1", "relative_amplitude": 0.3, "cents_from_tempered": 0, "interval": "2nd octave"},
+      {"partial": 5, "hz": 327.03, "ratio": "5:1", "relative_amplitude": 0.2, "cents_from_tempered": -14, "interval": "major 3rd"},
+      {"partial": 6, "hz": 392.44, "ratio": "6:1", "relative_amplitude": 0.15, "cents_from_tempered": 2, "interval": "perfect 5th"},
+      {"partial": 7, "hz": 457.84, "ratio": "7:1", "relative_amplitude": 0.1, "cents_from_tempered": -31, "interval": "harmonic 7th"},
+      {"partial": 8, "hz": 523.25, "ratio": "8:1", "relative_amplitude": 0.08, "cents_from_tempered": 0, "interval": "3rd octave"}
+    ],
+    "inharmonicity_factor": 0.00003,
+    "timbre_description": "Full, majestic, pure — sustained air column produces steady, nearly exact harmonics",
+    "decay_profile": "Perfectly sustained while key held; immediate cutoff on release (organ characteristic)",
+    "register": "bass-tenor",
+    "ai_art_prompt": "Pipe organ C2 harmonic series at 65.41Hz, cathedral grandeur, deep resonant spectral lines, dark blue and violet hues, massive architecture of sound"
+  }
+]

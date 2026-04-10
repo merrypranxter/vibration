@@ -1,0 +1,1375 @@
+{
+  "version": "1.0",
+  "entry_count": 35,
+  "entries": [
+    {
+      "id": "FREQ-7.83-SCHUMANN",
+      "note": "\u2014",
+      "frequency_hz": 7.83,
+      "octave": -7,
+      "wavelength_m": 43.8059,
+      "period_ms": 127.7139,
+      "harmonics_hz": [
+        7.83,
+        15.66,
+        23.49,
+        31.32,
+        39.15
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Inaudible; felt as a subtle pulse. Earth's electromagnetic heartbeat. Syncs with alpha/theta brain rhythms. May influence mood and circadian biology.",
+      "chakra_association": "Root Chakra (Earth connection)",
+      "brainwave_effect": "Theta/Alpha boundary",
+      "color_hex": "#1A4A1A",
+      "hearing_range_position": "Infrasound (Earth)",
+      "visual_personality": "Pulsing emerald grid, slow breathing earth, quantum field lattice",
+      "chladni_pattern_reference": "CHLAD-7.83-SCHUMANN",
+      "cymatics_reference": "CYMAT-7.83-SCHUMANN-SAND",
+      "ai_art_tags": [
+        "earth",
+        "pulse",
+        "electromagnetic",
+        "deep-green",
+        "slow-wave",
+        "cosmic"
+      ]
+    },
+    {
+      "id": "FREQ-40-GAMMA",
+      "note": "\u2014",
+      "frequency_hz": 40,
+      "octave": 1,
+      "wavelength_m": 8.575,
+      "period_ms": 25.0,
+      "harmonics_hz": [
+        40,
+        80,
+        120,
+        160,
+        200
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Felt but barely heard. At the threshold of infrasound/bass. 40 Hz is the canonical gamma brainwave frequency \u2014 used in Alzheimer's research with light/sound stimulation (MIT).",
+      "chakra_association": "Root Chakra",
+      "brainwave_effect": "Gamma",
+      "color_hex": "#FF6600",
+      "hearing_range_position": "Sub-bass boundary",
+      "visual_personality": "Rapid orange strobe, neural lattice, crystalline neural network",
+      "chladni_pattern_reference": "CHLAD-40-GAMMA",
+      "cymatics_reference": "CYMAT-40-GAMMA-SAND",
+      "ai_art_tags": [
+        "gamma",
+        "neural",
+        "40hz",
+        "alzheimers",
+        "strobe",
+        "orange",
+        "crystalline"
+      ],
+      "research_note": "MIT Tsai Lab: 40 Hz flicker reduces amyloid-beta plaques in Alzheimer's mouse models (2016, Nature)"
+    },
+    {
+      "id": "FREQ-50-MAINS",
+      "note": "\u2014",
+      "frequency_hz": 50,
+      "octave": 1,
+      "wavelength_m": 6.86,
+      "period_ms": 20.0,
+      "harmonics_hz": [
+        50,
+        100,
+        150,
+        200,
+        250
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "AC mains hum (Europe/Asia). Felt as a low drone in poorly grounded equipment. The background electromagnetic drone of modern civilization.",
+      "chakra_association": null,
+      "brainwave_effect": "Beta (low)",
+      "color_hex": "#556B2F",
+      "hearing_range_position": "Sub-bass",
+      "visual_personality": "Industrial grey grid, electrical hum, power line geometry",
+      "chladni_pattern_reference": "CHLAD-50-MAINS",
+      "cymatics_reference": "CYMAT-50-MAINS-SAND",
+      "ai_art_tags": [
+        "industrial",
+        "hum",
+        "electrical",
+        "grey",
+        "grid",
+        "50hz"
+      ]
+    },
+    {
+      "id": "FREQ-60-MAINS",
+      "note": "\u2014",
+      "frequency_hz": 60,
+      "octave": 1,
+      "wavelength_m": 5.7167,
+      "period_ms": 16.6667,
+      "harmonics_hz": [
+        60,
+        120,
+        180,
+        240,
+        300
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "AC mains hum (North America/Japan). The 60 Hz electrical hum permeates buildings, motors, and amplifiers. Distinctly heavier than 50 Hz.",
+      "chakra_association": null,
+      "brainwave_effect": "Beta (low)",
+      "color_hex": "#6B8E23",
+      "hearing_range_position": "Sub-bass",
+      "visual_personality": "Electric bronze grid, power hum geometry, circuit-board texture",
+      "chladni_pattern_reference": "CHLAD-60-MAINS",
+      "cymatics_reference": "CYMAT-60-MAINS-SAND",
+      "ai_art_tags": [
+        "industrial",
+        "hum",
+        "60hz",
+        "north-america",
+        "bronze",
+        "grid"
+      ]
+    },
+    {
+      "id": "FREQ-80-SUBBASS",
+      "note": "\u2014",
+      "frequency_hz": 80,
+      "octave": 2,
+      "wavelength_m": 4.2875,
+      "period_ms": 12.5,
+      "harmonics_hz": [
+        80,
+        160,
+        240,
+        320,
+        400
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Strong sub-bass. Felt physically in the chest. Bass guitar low F, kick drum fundamental. Provides visceral weight in music and sound design.",
+      "chakra_association": "Root Chakra",
+      "brainwave_effect": "Alpha (low)",
+      "color_hex": "#8B0000",
+      "hearing_range_position": "Sub-bass",
+      "visual_personality": "Deep crimson rumble, tectonic plates, dark earth vibration",
+      "chladni_pattern_reference": "CHLAD-80-SUBBASS",
+      "cymatics_reference": "CYMAT-80-SUBBASS-SAND",
+      "ai_art_tags": [
+        "sub-bass",
+        "deep",
+        "crimson",
+        "weight",
+        "physical",
+        "tectonic"
+      ]
+    },
+    {
+      "id": "FREQ-100-BASS",
+      "note": "\u2014",
+      "frequency_hz": 100,
+      "octave": 3,
+      "wavelength_m": 3.43,
+      "period_ms": 10.0,
+      "harmonics_hz": [
+        100,
+        200,
+        300,
+        400,
+        500
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Clean bass tone. E2+ territory. Provides body and warmth. The fundamental of a low male voice. Church organ pedal territory.",
+      "chakra_association": "Root Chakra",
+      "brainwave_effect": "Alpha",
+      "color_hex": "#A52A2A",
+      "hearing_range_position": "Bass",
+      "visual_personality": "Warm dark-red pulse, ancient drum, deep earth resonance",
+      "chladni_pattern_reference": "CHLAD-100-BASS",
+      "cymatics_reference": "CYMAT-100-BASS-SAND",
+      "ai_art_tags": [
+        "bass",
+        "warm",
+        "dark-red",
+        "drum",
+        "ancient",
+        "100hz"
+      ]
+    },
+    {
+      "id": "FREQ-110-A2",
+      "note": "A2",
+      "frequency_hz": 110,
+      "octave": 2,
+      "wavelength_m": 3.1182,
+      "period_ms": 9.0909,
+      "harmonics_hz": [
+        110,
+        220,
+        330,
+        440,
+        550
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Open A string of cello and contrabass. A2 \u2014 two octaves below concert A4. Deep, resonant, bowed string quality. Fender bass E1 is just below.",
+      "chakra_association": "Root Chakra",
+      "brainwave_effect": "Alpha",
+      "color_hex": "#CC2200",
+      "hearing_range_position": "Bass",
+      "visual_personality": "Cello warmth, burgundy resonance, bowed string depth",
+      "chladni_pattern_reference": "CHLAD-110-A2",
+      "cymatics_reference": "CYMAT-110-A2-SAND",
+      "ai_art_tags": [
+        "cello",
+        "bass",
+        "A2",
+        "110hz",
+        "warm",
+        "burgundy",
+        "bowed-string"
+      ]
+    },
+    {
+      "id": "FREQ-128-C3",
+      "note": "C3 (approx)",
+      "frequency_hz": 128,
+      "octave": 3,
+      "wavelength_m": 2.6797,
+      "period_ms": 7.8125,
+      "harmonics_hz": [
+        128,
+        256,
+        384,
+        512,
+        640
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Approximately C3 in scientific pitch (C=256 Hz convention). Bass register. Low tenor voice, tuba, bass clarinet range. Deep, full, resonant.",
+      "chakra_association": "Root Chakra",
+      "brainwave_effect": "Alpha",
+      "color_hex": "#CC4400",
+      "hearing_range_position": "Bass",
+      "visual_personality": "Dark amber bass, round and warm, bass clarinet timbre",
+      "chladni_pattern_reference": "CHLAD-128-C3",
+      "cymatics_reference": "CYMAT-128-C3-SAND",
+      "ai_art_tags": [
+        "bass",
+        "128hz",
+        "C3",
+        "amber",
+        "warm",
+        "round"
+      ]
+    },
+    {
+      "id": "FREQ-136.1-OM",
+      "note": "C#3 (approx)",
+      "frequency_hz": 136.1,
+      "octave": 3,
+      "wavelength_m": 2.5202,
+      "period_ms": 7.3475,
+      "harmonics_hz": [
+        136.1,
+        272.2,
+        408.3,
+        544.4,
+        680.5
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Om \u2014 the frequency of Earth's year orbit translated up 32 octaves. Sacred in Vedic tradition as the primordial cosmic sound. Near C#3/Db3 in equal temperament. Deep, centering, universal.",
+      "chakra_association": "Root Chakra / All Chakras",
+      "brainwave_effect": "Theta/Alpha",
+      "color_hex": "#4B0082",
+      "hearing_range_position": "Bass",
+      "visual_personality": "Deep violet pulse, cosmic spiral, primordial OM geometry",
+      "chladni_pattern_reference": "CHLAD-136.1-OM",
+      "cymatics_reference": "CYMAT-136.1-OM-SAND",
+      "ai_art_tags": [
+        "om",
+        "earth",
+        "cosmic",
+        "136hz",
+        "vedic",
+        "violet",
+        "sacred",
+        "primordial"
+      ],
+      "cosmic_source": "Earth orbital period (365.25 days) raised 32 octaves",
+      "alternative_name": "OM frequency",
+      "vedic_significance": "The primordial sound AUM in Hindu cosmology"
+    },
+    {
+      "id": "FREQ-174-SOLFEGGIO",
+      "note": "F3 (approx)",
+      "frequency_hz": 174,
+      "octave": 3,
+      "wavelength_m": 1.9713,
+      "period_ms": 5.7471,
+      "harmonics_hz": [
+        174,
+        348,
+        522,
+        696,
+        870
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "First Solfeggio frequency. Associated with pain relief, security, and the physical body foundation. Warm, anchoring, therapeutic.",
+      "chakra_association": "Root Chakra",
+      "brainwave_effect": "Alpha",
+      "color_hex": "#8B4513",
+      "hearing_range_position": "Bass/Low-Mid",
+      "visual_personality": "Earthy brown resonance, ancient stone, grounding foundation",
+      "chladni_pattern_reference": "CHLAD-174-SOLFEGGIO",
+      "cymatics_reference": "CYMAT-174-SOLFEGGIO-SAND",
+      "ai_art_tags": [
+        "solfeggio",
+        "174hz",
+        "healing",
+        "foundation",
+        "earthy",
+        "pain-relief"
+      ]
+    },
+    {
+      "id": "FREQ-196-G3",
+      "note": "G3",
+      "frequency_hz": 196,
+      "octave": 3,
+      "wavelength_m": 1.75,
+      "period_ms": 5.102,
+      "harmonics_hz": [
+        196,
+        392,
+        588,
+        784,
+        980
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "G3 \u2014 open G string of guitar and violin. Fifth above middle C. Clean, resonant bass-mid crossover. Open, harmonious quality.",
+      "chakra_association": "Root/Sacral",
+      "brainwave_effect": "Alpha",
+      "color_hex": "#228B22",
+      "hearing_range_position": "Bass/Low-Mid",
+      "visual_personality": "Forest green resonance, open string ring, natural harmony",
+      "chladni_pattern_reference": "CHLAD-196-G3",
+      "cymatics_reference": "CYMAT-196-G3-SAND",
+      "ai_art_tags": [
+        "G3",
+        "196hz",
+        "guitar",
+        "violin",
+        "open-string",
+        "green",
+        "harmonious"
+      ]
+    },
+    {
+      "id": "FREQ-220-A3",
+      "note": "A3",
+      "frequency_hz": 220,
+      "octave": 3,
+      "wavelength_m": 1.5591,
+      "period_ms": 4.5455,
+      "harmonics_hz": [
+        220,
+        440,
+        660,
+        880,
+        1100
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "A3 \u2014 one octave below concert pitch A4. Open A string of violin. Deep, warm, singing quality. Half the reference pitch.",
+      "chakra_association": "Sacral Chakra",
+      "brainwave_effect": "Alpha/Beta",
+      "color_hex": "#2244CC",
+      "hearing_range_position": "Low-Mid",
+      "visual_personality": "Deep blue resonance, violin warmth, singing clarity",
+      "chladni_pattern_reference": "CHLAD-220-A3",
+      "cymatics_reference": "CYMAT-220-A3-SAND",
+      "ai_art_tags": [
+        "A3",
+        "220hz",
+        "violin",
+        "warm",
+        "blue",
+        "resonant"
+      ]
+    },
+    {
+      "id": "FREQ-256-ROOT-CHAKRA",
+      "note": "C4 (Sci.Pitch)",
+      "frequency_hz": 256,
+      "octave": 4,
+      "wavelength_m": 1.3398,
+      "period_ms": 3.9062,
+      "harmonics_hz": [
+        256,
+        512,
+        768,
+        1024,
+        1280
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Scientific/philosophical C4 = 256 Hz (2^8). Root chakra frequency in chakra healing systems. Slightly flat of equal-temperament C4 (261.63 Hz). Pure, grounding, mathematically elegant (power of 2).",
+      "chakra_association": "Root Chakra",
+      "brainwave_effect": "Alpha/Beta",
+      "color_hex": "#FF0000",
+      "hearing_range_position": "Midrange",
+      "visual_personality": "Pure red circle, geometric grounding, mathematical purity",
+      "chladni_pattern_reference": "CHLAD-256-ROOT-CHAKRA",
+      "cymatics_reference": "CYMAT-256-ROOT-CHAKRA-SAND",
+      "ai_art_tags": [
+        "root-chakra",
+        "256hz",
+        "grounding",
+        "red",
+        "C4",
+        "scientific-pitch",
+        "power-of-2"
+      ],
+      "mathematical_note": "256 = 2^8; exact power of 2 makes it computationally elegant"
+    },
+    {
+      "id": "FREQ-261.63-C4",
+      "note": "C4 (Middle C)",
+      "frequency_hz": 261.63,
+      "octave": 4,
+      "wavelength_m": 1.311,
+      "period_ms": 3.8222,
+      "harmonics_hz": [
+        261.63,
+        523.26,
+        784.89,
+        1046.52,
+        1308.15
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Middle C \u2014 the most universally recognized musical reference pitch. Centre of the piano keyboard (key 40). Foundation of Western music theory. Bright yet centered.",
+      "chakra_association": "Root Chakra",
+      "brainwave_effect": "Alpha/Beta",
+      "color_hex": "#FF2200",
+      "hearing_range_position": "Midrange",
+      "visual_personality": "Classic red-orange clarity, centered warmth, piano fundamental",
+      "chladni_pattern_reference": "CHLAD-261.63-C4",
+      "cymatics_reference": "CYMAT-261.63-C4-SAND",
+      "ai_art_tags": [
+        "middle-C",
+        "C4",
+        "261hz",
+        "piano",
+        "reference",
+        "orange-red",
+        "centered"
+      ]
+    },
+    {
+      "id": "FREQ-285-SOLFEGGIO",
+      "note": "D4 (approx)",
+      "frequency_hz": 285,
+      "octave": 4,
+      "wavelength_m": 1.2035,
+      "period_ms": 3.5088,
+      "harmonics_hz": [
+        285,
+        570,
+        855,
+        1140,
+        1425
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Second Solfeggio frequency. Associated with cellular regeneration and tissue repair. Energizing, regenerative quality.",
+      "chakra_association": "Sacral Chakra",
+      "brainwave_effect": "Beta",
+      "color_hex": "#FF6600",
+      "hearing_range_position": "Midrange",
+      "visual_personality": "Orange cellular energy, regenerative warmth, tissue-renewal geometry",
+      "chladni_pattern_reference": "CHLAD-285-SOLFEGGIO",
+      "cymatics_reference": "CYMAT-285-SOLFEGGIO-SAND",
+      "ai_art_tags": [
+        "solfeggio",
+        "285hz",
+        "healing",
+        "regeneration",
+        "orange",
+        "cellular"
+      ]
+    },
+    {
+      "id": "FREQ-288-SACRAL",
+      "note": "D4 (approx)",
+      "frequency_hz": 288,
+      "octave": 4,
+      "wavelength_m": 1.191,
+      "period_ms": 3.4722,
+      "harmonics_hz": [
+        288,
+        576,
+        864,
+        1152,
+        1440
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Sacral chakra frequency. Associated with creativity, sexuality, emotion, and pleasure. Warm, flowing, creative energy.",
+      "chakra_association": "Sacral Chakra",
+      "brainwave_effect": "Beta",
+      "color_hex": "#FF8000",
+      "hearing_range_position": "Midrange",
+      "visual_personality": "Warm orange flow, creative fluid, water-like motion",
+      "chladni_pattern_reference": "CHLAD-288-SACRAL",
+      "cymatics_reference": "CYMAT-288-SACRAL-SAND",
+      "ai_art_tags": [
+        "sacral-chakra",
+        "288hz",
+        "creativity",
+        "orange",
+        "flowing",
+        "emotion"
+      ]
+    },
+    {
+      "id": "FREQ-320-SOLAR",
+      "note": "E4 (approx)",
+      "frequency_hz": 320,
+      "octave": 4,
+      "wavelength_m": 1.0719,
+      "period_ms": 3.125,
+      "harmonics_hz": [
+        320,
+        640,
+        960,
+        1280,
+        1600
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Solar plexus chakra frequency. Personal power, will, confidence, transformation. Bright, assertive, energizing.",
+      "chakra_association": "Solar Plexus Chakra",
+      "brainwave_effect": "Beta",
+      "color_hex": "#FFCC00",
+      "hearing_range_position": "Midrange",
+      "visual_personality": "Solar yellow radiance, power vortex, golden fire spiral",
+      "chladni_pattern_reference": "CHLAD-320-SOLAR",
+      "cymatics_reference": "CYMAT-320-SOLAR-SAND",
+      "ai_art_tags": [
+        "solar-plexus",
+        "320hz",
+        "power",
+        "yellow",
+        "fire",
+        "radiance",
+        "assertive"
+      ]
+    },
+    {
+      "id": "FREQ-341.3-HEART",
+      "note": "F4 (approx)",
+      "frequency_hz": 341.3,
+      "octave": 4,
+      "wavelength_m": 1.005,
+      "period_ms": 2.93,
+      "harmonics_hz": [
+        341.3,
+        682.6,
+        1023.9,
+        1365.2,
+        1706.5
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Heart chakra frequency. Love, compassion, healing, integration. Bridges lower and upper chakras. Soft, expansive, loving quality.",
+      "chakra_association": "Heart Chakra",
+      "brainwave_effect": "Beta",
+      "color_hex": "#00CC44",
+      "hearing_range_position": "Midrange",
+      "visual_personality": "Emerald green expansion, heart-shaped waves, compassion geometry",
+      "chladni_pattern_reference": "CHLAD-341.3-HEART",
+      "cymatics_reference": "CYMAT-341.3-HEART-SAND",
+      "ai_art_tags": [
+        "heart-chakra",
+        "341hz",
+        "love",
+        "green",
+        "compassion",
+        "healing",
+        "bridge"
+      ]
+    },
+    {
+      "id": "FREQ-384-THROAT",
+      "note": "G4 (approx)",
+      "frequency_hz": 384,
+      "octave": 4,
+      "wavelength_m": 0.8932,
+      "period_ms": 2.6042,
+      "harmonics_hz": [
+        384,
+        768,
+        1152,
+        1536,
+        1920
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Throat chakra frequency. Communication, expression, truth, creativity. Clear, resonant, articulate quality.",
+      "chakra_association": "Throat Chakra",
+      "brainwave_effect": "Beta",
+      "color_hex": "#0088FF",
+      "hearing_range_position": "Midrange",
+      "visual_personality": "Sky blue clarity, vocal waves, truth geometry, crystal resonance",
+      "chladni_pattern_reference": "CHLAD-384-THROAT",
+      "cymatics_reference": "CYMAT-384-THROAT-SAND",
+      "ai_art_tags": [
+        "throat-chakra",
+        "384hz",
+        "communication",
+        "blue",
+        "expression",
+        "truth",
+        "clear"
+      ]
+    },
+    {
+      "id": "FREQ-396-SOLFEGGIO",
+      "note": "G4 (approx)",
+      "frequency_hz": 396,
+      "octave": 4,
+      "wavelength_m": 0.8662,
+      "period_ms": 2.5253,
+      "harmonics_hz": [
+        396,
+        792,
+        1188,
+        1584,
+        1980
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Third Solfeggio frequency. Liberating guilt and fear, transforming grief into joy. Bright, liberating, uplifting.",
+      "chakra_association": "Root/Solar Plexus",
+      "brainwave_effect": "Beta",
+      "color_hex": "#00AA66",
+      "hearing_range_position": "Midrange",
+      "visual_personality": "Teal liberation geometry, fear-dissolving spirals, green-blue clarity",
+      "chladni_pattern_reference": "CHLAD-396-SOLFEGGIO",
+      "cymatics_reference": "CYMAT-396-SOLFEGGIO-SAND",
+      "ai_art_tags": [
+        "solfeggio",
+        "396hz",
+        "liberation",
+        "guilt",
+        "fear",
+        "teal",
+        "transformation"
+      ]
+    },
+    {
+      "id": "FREQ-417-SOLFEGGIO",
+      "note": "G#4/Ab4 (approx)",
+      "frequency_hz": 417,
+      "octave": 4,
+      "wavelength_m": 0.8225,
+      "period_ms": 2.3981,
+      "harmonics_hz": [
+        417,
+        834,
+        1251,
+        1668,
+        2085
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Fourth Solfeggio frequency. Facilitating change, clearing past trauma. Transmutes negative energy. Dynamic, shifting quality.",
+      "chakra_association": "Solar Plexus/Sacral",
+      "brainwave_effect": "Beta",
+      "color_hex": "#AA6600",
+      "hearing_range_position": "Midrange",
+      "visual_personality": "Amber transformation spiral, changing geometry, amber-gold shift",
+      "chladni_pattern_reference": "CHLAD-417-SOLFEGGIO",
+      "cymatics_reference": "CYMAT-417-SOLFEGGIO-SAND",
+      "ai_art_tags": [
+        "solfeggio",
+        "417hz",
+        "change",
+        "transformation",
+        "amber",
+        "trauma",
+        "clearing"
+      ]
+    },
+    {
+      "id": "FREQ-426.7-THIRDEYE",
+      "note": "Ab4 (approx)",
+      "frequency_hz": 426.7,
+      "octave": 4,
+      "wavelength_m": 0.8038,
+      "period_ms": 2.3436,
+      "harmonics_hz": [
+        426.7,
+        853.4,
+        1280.1,
+        1706.8,
+        2133.5
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Third eye chakra frequency. Intuition, wisdom, insight, psychic perception. Mysterious, penetrating, visionary quality.",
+      "chakra_association": "Third Eye Chakra",
+      "brainwave_effect": "Beta/Gamma",
+      "color_hex": "#4400AA",
+      "hearing_range_position": "Midrange",
+      "visual_personality": "Indigo vortex, third-eye geometry, pineal mandala, deep violet fractals",
+      "chladni_pattern_reference": "CHLAD-426.7-THIRDEYE",
+      "cymatics_reference": "CYMAT-426.7-THIRDEYE-SAND",
+      "ai_art_tags": [
+        "third-eye",
+        "426hz",
+        "intuition",
+        "indigo",
+        "pineal",
+        "psychic",
+        "wisdom",
+        "visionary"
+      ]
+    },
+    {
+      "id": "FREQ-432-VERDI",
+      "note": "A4 (432 tuning)",
+      "frequency_hz": 432,
+      "octave": 4,
+      "wavelength_m": 0.794,
+      "period_ms": 2.3148,
+      "harmonics_hz": [
+        432,
+        864,
+        1296,
+        1728,
+        2160
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Alternative concert pitch (A4=432 Hz). Claimed to be more harmonically natural \u2014 aligns with Pythagorean tuning, 8 Hz Schumann resonance (432 = 8\u00d754). Used by some orchestras historically (Verdi tuning). -32 cents vs standard 440 Hz.",
+      "chakra_association": "Throat Chakra",
+      "brainwave_effect": "Beta",
+      "color_hex": "#8833FF",
+      "hearing_range_position": "Midrange",
+      "visual_personality": "Violet-gold harmony, Pythagorean geometry, spiral mathematics",
+      "chladni_pattern_reference": "CHLAD-432-VERDI",
+      "cymatics_reference": "CYMAT-432-VERDI-SAND",
+      "ai_art_tags": [
+        "432hz",
+        "verdi",
+        "alternative-tuning",
+        "violet",
+        "pythagorean",
+        "harmony"
+      ],
+      "vs_440hz_cents": -31.8,
+      "mathematical_note": "432 = 2^4 \u00d7 3^3 = 16\u00d727; harmonic of 8 Hz (\u00d754)"
+    },
+    {
+      "id": "FREQ-440-A4",
+      "note": "A4",
+      "frequency_hz": 440,
+      "octave": 4,
+      "wavelength_m": 0.7795,
+      "period_ms": 2.2727,
+      "harmonics_hz": [
+        440,
+        880,
+        1320,
+        1760,
+        2200
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Concert pitch standard since 1939 ISO 16. Reference for all instrument tuning globally. Bright, clear, penetrating. The universal musical anchor.",
+      "chakra_association": "Throat Chakra",
+      "brainwave_effect": "Beta",
+      "color_hex": "#FFD700",
+      "hearing_range_position": "Upper Midrange",
+      "visual_personality": "Sharp golden crystalline geometry, concert hall resonance, universal anchor",
+      "chladni_pattern_reference": "CHLAD-440-A4",
+      "cymatics_reference": "CYMAT-440-A4-SAND",
+      "ai_art_tags": [
+        "A4",
+        "440hz",
+        "concert-pitch",
+        "golden",
+        "crystalline",
+        "reference",
+        "bright"
+      ],
+      "iso_standard": "ISO 16:1975 \u2014 Concert pitch A4=440 Hz"
+    },
+    {
+      "id": "FREQ-480-CROWN",
+      "note": "B4 (approx)",
+      "frequency_hz": 480,
+      "octave": 4,
+      "wavelength_m": 0.7146,
+      "period_ms": 2.0833,
+      "harmonics_hz": [
+        480,
+        960,
+        1440,
+        1920,
+        2400
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Crown chakra frequency. Divine connection, enlightenment, unity consciousness. Ethereal, transcendent, luminous quality.",
+      "chakra_association": "Crown Chakra",
+      "brainwave_effect": "Beta/Gamma",
+      "color_hex": "#CC00FF",
+      "hearing_range_position": "Upper Midrange",
+      "visual_personality": "Violet-white radiance, crown lotus, divine light geometry, luminous spiral",
+      "chladni_pattern_reference": "CHLAD-480-CROWN",
+      "cymatics_reference": "CYMAT-480-CROWN-SAND",
+      "ai_art_tags": [
+        "crown-chakra",
+        "480hz",
+        "enlightenment",
+        "violet",
+        "divine",
+        "transcendent",
+        "luminous"
+      ]
+    },
+    {
+      "id": "FREQ-528-MIRACLE",
+      "note": "C5 (approx)",
+      "frequency_hz": 528,
+      "octave": 5,
+      "wavelength_m": 0.6496,
+      "period_ms": 1.8939,
+      "harmonics_hz": [
+        528,
+        1056,
+        1584,
+        2112,
+        2640
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "The 'Miracle Tone' \u2014 fifth and central Solfeggio frequency. Associated with DNA repair, transformation, and love. Used by geneticists in some cell studies. Most popular of the Solfeggio set. 528 Hz is found in chlorophyll and some researchers relate it to sunlight frequency.",
+      "chakra_association": "Heart/Crown",
+      "brainwave_effect": "Gamma",
+      "color_hex": "#00FF88",
+      "hearing_range_position": "Upper Midrange",
+      "visual_personality": "Golden-green DNA helix, love geometry, cellular renewal mandala",
+      "chladni_pattern_reference": "CHLAD-528-MIRACLE",
+      "cymatics_reference": "CYMAT-528-MIRACLE-SAND",
+      "ai_art_tags": [
+        "528hz",
+        "dna",
+        "love",
+        "miracle",
+        "solfeggio",
+        "green-gold",
+        "healing",
+        "transformation"
+      ],
+      "research_note": "Rein (1988) studied effects of Solfeggio frequencies on DNA. Horowitz (1999) popularized 528 Hz as 'love frequency'."
+    },
+    {
+      "id": "FREQ-639-SOLFEGGIO",
+      "note": "D#5/Eb5 (approx)",
+      "frequency_hz": 639,
+      "octave": 5,
+      "wavelength_m": 0.5368,
+      "period_ms": 1.5649,
+      "harmonics_hz": [
+        639,
+        1278,
+        1917,
+        2556,
+        3195
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Sixth Solfeggio frequency. Connecting/relationships, communication, enhancing tolerance and love. Warm, social, harmonizing.",
+      "chakra_association": "Heart Chakra",
+      "brainwave_effect": "Gamma",
+      "color_hex": "#FF3366",
+      "hearing_range_position": "Upper Midrange",
+      "visual_personality": "Rose-pink connection waves, relationship geometry, heart-link spirals",
+      "chladni_pattern_reference": "CHLAD-639-SOLFEGGIO",
+      "cymatics_reference": "CYMAT-639-SOLFEGGIO-SAND",
+      "ai_art_tags": [
+        "solfeggio",
+        "639hz",
+        "relationships",
+        "pink",
+        "connection",
+        "love",
+        "communication"
+      ]
+    },
+    {
+      "id": "FREQ-741-SOLFEGGIO",
+      "note": "F#5 (approx)",
+      "frequency_hz": 741,
+      "octave": 5,
+      "wavelength_m": 0.4629,
+      "period_ms": 1.3495,
+      "harmonics_hz": [
+        741,
+        1482,
+        2223,
+        2964,
+        3705
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Seventh Solfeggio frequency. Awakening intuition, solving problems, cleansing. Sharp, penetrating, problem-solving clarity.",
+      "chakra_association": "Throat/Third Eye",
+      "brainwave_effect": "Gamma",
+      "color_hex": "#00BBFF",
+      "hearing_range_position": "Presence/Upper-mid",
+      "visual_personality": "Ice-blue clarity, problem-solving geometry, sharp crystalline fractals",
+      "chladni_pattern_reference": "CHLAD-741-SOLFEGGIO",
+      "cymatics_reference": "CYMAT-741-SOLFEGGIO-SAND",
+      "ai_art_tags": [
+        "solfeggio",
+        "741hz",
+        "intuition",
+        "awakening",
+        "ice-blue",
+        "clarity",
+        "cleansing"
+      ]
+    },
+    {
+      "id": "FREQ-852-SOLFEGGIO",
+      "note": "G#5/Ab5 (approx)",
+      "frequency_hz": 852,
+      "octave": 5,
+      "wavelength_m": 0.4026,
+      "period_ms": 1.1737,
+      "harmonics_hz": [
+        852,
+        1704,
+        2556,
+        3408,
+        4260
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Eighth Solfeggio frequency. Returning to spiritual order, enabling cellular transformation. Ethereal, uplifting, ordering quality.",
+      "chakra_association": "Third Eye/Crown",
+      "brainwave_effect": "Gamma",
+      "color_hex": "#FF9900",
+      "hearing_range_position": "Brilliance",
+      "visual_personality": "Amber-white spiritual geometry, order patterns, ascending spiral mandala",
+      "chladni_pattern_reference": "CHLAD-852-SOLFEGGIO",
+      "cymatics_reference": "CYMAT-852-SOLFEGGIO-SAND",
+      "ai_art_tags": [
+        "solfeggio",
+        "852hz",
+        "spiritual",
+        "order",
+        "amber",
+        "transformation",
+        "ascending"
+      ]
+    },
+    {
+      "id": "FREQ-963-SOLFEGGIO",
+      "note": "963 is 3^2 \u00d7 107; digital root = 9, the highest single digit",
+      "frequency_hz": 963,
+      "octave": 5,
+      "wavelength_m": 0.3562,
+      "period_ms": 1.0384,
+      "harmonics_hz": [
+        963,
+        1926,
+        2889,
+        3852,
+        4815
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "Ninth and highest Solfeggio frequency. Divine consciousness, pineal activation, awakening to perfection. Crystalline, transcendent, divine.",
+      "chakra_association": "Crown Chakra",
+      "brainwave_effect": "Gamma",
+      "color_hex": "#FFFFFF",
+      "hearing_range_position": "Brilliance",
+      "visual_personality": "White light pure geometry, crown activation, diamond clarity, sacred fractal",
+      "chladni_pattern_reference": "CHLAD-963-SOLFEGGIO",
+      "cymatics_reference": "CYMAT-963-SOLFEGGIO-SAND",
+      "ai_art_tags": [
+        "solfeggio",
+        "963hz",
+        "divine",
+        "consciousness",
+        "white",
+        "pineal",
+        "transcendent",
+        "crystal"
+      ]
+    },
+    {
+      "id": "FREQ-1000-1KHZ",
+      "note": "\u2014",
+      "frequency_hz": 1000,
+      "octave": 5,
+      "wavelength_m": 0.343,
+      "period_ms": 1.0,
+      "harmonics_hz": [
+        1000,
+        2000,
+        3000,
+        4000,
+        5000
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "1 kHz \u2014 standard audio reference frequency. Used in audio engineering for level calibration, hearing tests, and as the midpoint of the audibility range. Clear, present, bright.",
+      "chakra_association": null,
+      "brainwave_effect": "Gamma",
+      "color_hex": "#EEEE00",
+      "hearing_range_position": "Upper Midrange",
+      "visual_personality": "Bright yellow reference tone, audio engineer's anchor, clean precision geometry",
+      "chladni_pattern_reference": "CHLAD-1000-1KHZ",
+      "cymatics_reference": "CYMAT-1000-1KHZ-SAND",
+      "ai_art_tags": [
+        "1khz",
+        "reference",
+        "audio",
+        "engineering",
+        "yellow",
+        "bright",
+        "calibration"
+      ],
+      "audio_engineering_note": "0 dBu = 0.775 VRMS at 1 kHz; industry standard test tone"
+    },
+    {
+      "id": "FREQ-2000-2KHZ",
+      "note": "\u2014",
+      "frequency_hz": 2000,
+      "octave": 6,
+      "wavelength_m": 0.1715,
+      "period_ms": 0.5,
+      "harmonics_hz": [
+        2000,
+        4000,
+        6000,
+        8000,
+        10000
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "2 kHz \u2014 high midrange. Adds bite and intelligibility to voice and instruments. Critical for speech clarity and consonant recognition. Boosting here adds 'presence' to a mix.",
+      "chakra_association": null,
+      "brainwave_effect": "Gamma",
+      "color_hex": "#FFAA00",
+      "hearing_range_position": "Upper Midrange/Presence",
+      "visual_personality": "Sharp amber presence, bite and edge geometry, speech clarity crystals",
+      "chladni_pattern_reference": "CHLAD-2000-2KHZ",
+      "cymatics_reference": "CYMAT-2000-2KHZ-SAND",
+      "ai_art_tags": [
+        "2khz",
+        "presence",
+        "speech",
+        "clarity",
+        "amber",
+        "bite",
+        "midrange"
+      ]
+    },
+    {
+      "id": "FREQ-4000-4KHZ",
+      "note": "\u2014",
+      "frequency_hz": 4000,
+      "octave": 6,
+      "wavelength_m": 0.0858,
+      "period_ms": 0.25,
+      "harmonics_hz": [
+        4000,
+        8000,
+        12000,
+        16000,
+        20000
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "4 kHz \u2014 the most sensitive range of human hearing (Fletcher-Munson minimum). Maximum ear sensitivity here means small EQ changes are very audible. Adds definition, sharpness, edge. Over-boosting causes ear fatigue.",
+      "chakra_association": null,
+      "brainwave_effect": "Gamma",
+      "color_hex": "#FF6600",
+      "hearing_range_position": "Presence",
+      "visual_personality": "Sharp orange definition rays, peak hearing sensitivity, attack crystals",
+      "chladni_pattern_reference": "CHLAD-4000-4KHZ",
+      "cymatics_reference": "CYMAT-4000-4KHZ-SAND",
+      "ai_art_tags": [
+        "4khz",
+        "definition",
+        "sensitivity",
+        "orange",
+        "presence",
+        "attack",
+        "sharp"
+      ],
+      "fletcher_munson_note": "Human ear most sensitive 2-5 kHz; Fletcher-Munson curve minimum ~3-4 kHz"
+    },
+    {
+      "id": "FREQ-8000-8KHZ",
+      "note": "\u2014",
+      "frequency_hz": 8000,
+      "octave": 7,
+      "wavelength_m": 0.0429,
+      "period_ms": 0.125,
+      "harmonics_hz": [
+        8000,
+        16000,
+        24000,
+        32000,
+        40000
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "8 kHz \u2014 upper presence/lower air. Adds crispness, sibilance, and the 'sparkle' of cymbals and vocal consonants. The S and T sounds of speech are rich here. Over-emphasis causes harshness.",
+      "chakra_association": null,
+      "brainwave_effect": "Gamma",
+      "color_hex": "#00CCFF",
+      "hearing_range_position": "Brilliance",
+      "visual_personality": "Cyan sparkle geometry, crisp sibilance crystals, cymbal shimmer patterns",
+      "chladni_pattern_reference": "CHLAD-8000-8KHZ",
+      "cymatics_reference": "CYMAT-8000-8KHZ-SAND",
+      "ai_art_tags": [
+        "8khz",
+        "air",
+        "sibilance",
+        "cyan",
+        "sparkle",
+        "crisp",
+        "cymbals"
+      ]
+    },
+    {
+      "id": "FREQ-16000-16KHZ",
+      "note": "\u2014",
+      "frequency_hz": 16000,
+      "octave": 8,
+      "wavelength_m": 0.0214,
+      "period_ms": 0.0625,
+      "harmonics_hz": [
+        16000,
+        32000,
+        48000,
+        64000,
+        80000
+      ],
+      "harmonic_ratios": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1",
+        "5:1"
+      ],
+      "perception": "16 kHz \u2014 upper air. At the edge of hearing for most adults. Adds 'air' and ethereal shimmer to audio. Most people over 40 have reduced sensitivity here. Bats navigate using ultrasound starting near 20 kHz.",
+      "chakra_association": null,
+      "brainwave_effect": "Gamma",
+      "color_hex": "#E0E0FF",
+      "hearing_range_position": "Brilliance/Air",
+      "visual_personality": "Near-ultraviolet shimmer, air crystals, barely-visible high-frequency geometry",
+      "chladni_pattern_reference": "CHLAD-16000-16KHZ",
+      "cymatics_reference": "CYMAT-16000-16KHZ-SAND",
+      "ai_art_tags": [
+        "16khz",
+        "air",
+        "shimmer",
+        "ethereal",
+        "near-ultrasound",
+        "blue-white",
+        "hearing-limit"
+      ]
+    }
+  ]
+}
