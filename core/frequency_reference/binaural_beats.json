@@ -1,0 +1,344 @@
+{
+  "brainwave_states": [
+    {
+      "id": "BB-EPSILON",
+      "state": "Epsilon",
+      "hz_range_min": 0.001,
+      "hz_range_max": 0.5,
+      "carrier_frequency_hz": 100,
+      "beat_frequency_hz_example": 0.3,
+      "description": "The deepest known brainwave state. Epsilon waves are extremely rare and associated with the deepest transcendental meditation states and near-death experiences. Some researchers report out-of-body experiences and access to universal consciousness.",
+      "effect": "Ultra-deep altered state, possible access to collective unconscious, profound stillness",
+      "subjective_experience": "Complete dissolution of ego boundaries, profound bliss or void",
+      "use_cases": [
+        "advanced meditation",
+        "shamanic journey",
+        "deep trance",
+        "consciousness research",
+        "Yoga Nidra"
+      ],
+      "associated_neurotransmitters": [
+        "DMT (possibly)",
+        "anandamide"
+      ],
+      "eeg_characteristics": "Extremely low amplitude, rarely measurable; some overlap with DC-coupled EEG shifts",
+      "discovery_notes": "Not yet fully established in mainstream neuroscience; reported in advanced meditators"
+    },
+    {
+      "id": "BB-DELTA",
+      "state": "Delta",
+      "hz_range_min": 0.5,
+      "hz_range_max": 4,
+      "carrier_frequency_hz": 100,
+      "beat_frequency_hz_example": 2,
+      "description": "Slowest measurable brainwave. Dominates dreamless deep sleep (NREM stages 3-4). Associated with physical regeneration, immune function, and healing. Also present during unconscious or very deep meditation.",
+      "effect": "Deep dreamless sleep, physical restoration, unconscious processing, enhanced immune function",
+      "subjective_experience": "No conscious awareness (in sleep); profound calm and surrender (in deep meditation)",
+      "use_cases": [
+        "deep sleep induction",
+        "physical healing",
+        "pain relief",
+        "insomnia treatment",
+        "immune support",
+        "trauma recovery"
+      ],
+      "associated_neurotransmitters": [
+        "growth hormone (GH release)",
+        "melatonin",
+        "prolactin",
+        "GABA"
+      ],
+      "eeg_characteristics": "High amplitude (75-200 \u00b5V), 0.5-4 Hz, global synchrony",
+      "clinical_applications": [
+        "sleep disorder treatment",
+        "chronic pain management",
+        "post-traumatic recovery"
+      ]
+    },
+    {
+      "id": "BB-THETA",
+      "state": "Theta",
+      "hz_range_min": 4,
+      "hz_range_max": 8,
+      "carrier_frequency_hz": 200,
+      "beat_frequency_hz_example": 6,
+      "description": "Twilight state between sleep and wakefulness. Associated with REM sleep, daydreaming, hypnagogic imagery, and deep meditation. The 'creative' brainwave \u2014 many artists and innovators report Theta as the source of their best ideas.",
+      "effect": "Creativity, insight, emotional integration, hypnagogic imagery, enhanced intuition, memory consolidation",
+      "subjective_experience": "Vivid imagery, free association of ideas, dream-like states, reduced critical mind",
+      "use_cases": [
+        "creativity enhancement",
+        "deep meditation",
+        "hypnotherapy",
+        "REM sleep",
+        "memory consolidation",
+        "intuition development",
+        "trauma processing"
+      ],
+      "associated_neurotransmitters": [
+        "serotonin",
+        "acetylcholine",
+        "endorphins",
+        "dopamine (creativity)"
+      ],
+      "eeg_characteristics": "4-8 Hz, 20-100 \u00b5V, dominant in hippocampus and frontal cortex",
+      "clinical_applications": [
+        "PTSD treatment (EMDR)",
+        "addiction therapy",
+        "learning enhancement",
+        "theta burst TMS"
+      ],
+      "notable_theta_research": "Hippocampal theta (4-8 Hz) is fundamental to spatial navigation and memory encoding (O'Keefe & Dostrovsky, 1971; Nobel Prize 2014)"
+    },
+    {
+      "id": "BB-ALPHA",
+      "state": "Alpha",
+      "hz_range_min": 8,
+      "hz_range_max": 14,
+      "carrier_frequency_hz": 200,
+      "beat_frequency_hz_example": 10,
+      "description": "Relaxed, non-aroused wakefulness with closed eyes. Berger's 'alpha rhythm' (first human EEG, 1929). The brain's resting-state idle rhythm \u2014 present when awake but not actively processing. Associated with calm focus, stress reduction, and the bridge between conscious and subconscious.",
+      "effect": "Relaxed alertness, stress reduction, accelerated learning, meditative state, positive mood",
+      "subjective_experience": "Calm, present, unfocused relaxation; the feeling after meditation or yoga",
+      "use_cases": [
+        "stress reduction",
+        "light meditation",
+        "accelerated learning (Lozanov method)",
+        "creative flow",
+        "anxiety reduction",
+        "sports performance (pre-event calm)"
+      ],
+      "associated_neurotransmitters": [
+        "serotonin",
+        "GABA",
+        "acetylcholine"
+      ],
+      "eeg_characteristics": "8-14 Hz, 20-120 \u00b5V, strongest in occipital and parietal lobes; alpha blocks with eye opening (Berger effect)",
+      "clinical_applications": [
+        "neurofeedback for ADHD",
+        "anxiety treatment",
+        "alpha training for depression",
+        "sports psychology"
+      ],
+      "alpha_peak_note": "Individual alpha peak frequency (IAF) typically 9-11 Hz; higher IAF correlates with better cognitive performance"
+    },
+    {
+      "id": "BB-LOW-ALPHA",
+      "state": "Low Alpha",
+      "hz_range_min": 8,
+      "hz_range_max": 10,
+      "carrier_frequency_hz": 200,
+      "beat_frequency_hz_example": 9,
+      "description": "Lower alpha band. Associated with passive relaxation, idle mind, and inward-focused attention. The Schumann resonance first harmonic (7.83 Hz) sits just below this range.",
+      "effect": "Passive relaxation, mind wandering, subtle awareness",
+      "subjective_experience": "Gentle drifting of thoughts, comfortable stillness",
+      "use_cases": [
+        "relaxation",
+        "passive meditation",
+        "stress relief"
+      ],
+      "associated_neurotransmitters": [
+        "serotonin",
+        "GABA"
+      ],
+      "eeg_characteristics": "8-10 Hz"
+    },
+    {
+      "id": "BB-HIGH-ALPHA",
+      "state": "High Alpha",
+      "hz_range_min": 10,
+      "hz_range_max": 14,
+      "carrier_frequency_hz": 300,
+      "beat_frequency_hz_example": 12,
+      "description": "Upper alpha band. Associated with active relaxed alertness and the gateway to focused beta. Often targeted for peak performance and 'flow state' onset.",
+      "effect": "Focused calm, readiness for action, creative alertness, flow state entry",
+      "subjective_experience": "Clear mind, ready attention without tension",
+      "use_cases": [
+        "flow state induction",
+        "performance preparation",
+        "mindful focus",
+        "studying"
+      ],
+      "associated_neurotransmitters": [
+        "acetylcholine",
+        "norepinephrine (moderate)"
+      ],
+      "eeg_characteristics": "10-14 Hz"
+    },
+    {
+      "id": "BB-SMR",
+      "state": "Sensorimotor Rhythm (SMR)",
+      "hz_range_min": 12,
+      "hz_range_max": 15,
+      "carrier_frequency_hz": 300,
+      "beat_frequency_hz_example": 13,
+      "description": "SMR rhythm from sensorimotor cortex, associated with physical stillness and calm focused alertness. Cats produce SMR when alert but motionless. Associated with motor inhibition and focused calm.",
+      "effect": "Physical stillness, calm alertness, reduced impulsivity, improved sleep quality",
+      "subjective_experience": "Alert but physically relaxed, ready without restlessness",
+      "use_cases": [
+        "ADHD neurofeedback",
+        "sleep improvement",
+        "motor control",
+        "sports focus",
+        "reducing hyperactivity"
+      ],
+      "associated_neurotransmitters": [
+        "GABA",
+        "acetylcholine"
+      ],
+      "eeg_characteristics": "12-15 Hz, rolandic fissure (sensorimotor strip)",
+      "clinical_applications": [
+        "ADHD neurofeedback (Sterman protocol)",
+        "epilepsy management",
+        "sleep disorder"
+      ]
+    },
+    {
+      "id": "BB-BETA",
+      "state": "Beta",
+      "hz_range_min": 14,
+      "hz_range_max": 30,
+      "carrier_frequency_hz": 400,
+      "beat_frequency_hz_example": 20,
+      "description": "Normal waking consciousness. The dominant rhythm of active, logical thinking, attention, and problem solving. Present during normal alert activities. High beta can indicate anxiety and stress.",
+      "effect": "Active thinking, concentration, alertness, logical reasoning, external focus",
+      "subjective_experience": "Normal waking awareness, analytical thought, conversation, task focus",
+      "use_cases": [
+        "focus enhancement",
+        "productivity",
+        "studying",
+        "active problem solving",
+        "verbal tasks",
+        "reducing brain fog"
+      ],
+      "associated_neurotransmitters": [
+        "norepinephrine",
+        "dopamine",
+        "acetylcholine",
+        "glutamate"
+      ],
+      "eeg_characteristics": "14-30 Hz, 5-30 \u00b5V, widespread cortical distribution; strongest frontally",
+      "beta_subtypes": {
+        "low_beta": "14-17 Hz \u2014 relaxed focus",
+        "mid_beta": "17-23 Hz \u2014 sustained attention",
+        "high_beta": "23-30 Hz \u2014 stress, anxiety, arousal"
+      }
+    },
+    {
+      "id": "BB-GAMMA",
+      "state": "Gamma",
+      "hz_range_min": 30,
+      "hz_range_max": 100,
+      "carrier_frequency_hz": 1000,
+      "beat_frequency_hz_example": 40,
+      "description": "Highest commonly measured brainwave. Associated with peak cognitive processing, perceptual binding (combining senses into unified experience), insight, and heightened consciousness. Tibetan Buddhist monks in compassion meditation show exceptional gamma synchrony. 40 Hz is the canonical gamma frequency for neural binding.",
+      "effect": "Peak cognition, neural binding, heightened sensory processing, expanded awareness, insight, compassion states",
+      "subjective_experience": "Exceptional clarity, heightened senses, flow state, profound compassion or insight",
+      "use_cases": [
+        "peak performance",
+        "learning acceleration",
+        "consciousness expansion",
+        "compassion meditation",
+        "memory enhancement",
+        "Alzheimer's research (40 Hz therapy)"
+      ],
+      "associated_neurotransmitters": [
+        "acetylcholine",
+        "glutamate",
+        "BDNF (neuroplasticity)",
+        "dopamine"
+      ],
+      "eeg_characteristics": "30-100 Hz, very low amplitude (1-5 \u00b5V due to muscle artifact filtering), frontal and parietal lobes",
+      "notable_gamma_research": "Lutz et al. (2004) showed Tibetan meditators produce extraordinary gamma coherence (40-80 Hz) during compassion meditation. Tsai lab (MIT) demonstrated 40 Hz light flicker reduces amyloid plaques in Alzheimer's mouse models.",
+      "clinical_applications": [
+        "Alzheimer's disease (40 Hz GENUS therapy)",
+        "attention disorders",
+        "working memory training"
+      ]
+    },
+    {
+      "id": "BB-HIGH-GAMMA",
+      "state": "High Gamma / Ripples",
+      "hz_range_min": 80,
+      "hz_range_max": 150,
+      "carrier_frequency_hz": 2000,
+      "beat_frequency_hz_example": 100,
+      "description": "High frequency oscillations above standard gamma. Sharp-wave ripples (100-250 Hz) in hippocampus are critical for memory consolidation during sleep. Also associated with highly localized neural computation.",
+      "effect": "Memory consolidation, highly focused neural processing, epileptiform activity detection",
+      "subjective_experience": "Difficult to access consciously; reported as extreme clarity in rare states",
+      "use_cases": [
+        "advanced meditation research",
+        "memory research",
+        "epilepsy monitoring"
+      ],
+      "associated_neurotransmitters": [
+        "glutamate",
+        "GABA (interneurons)"
+      ],
+      "eeg_characteristics": "80-150 Hz; hippocampal sharp-wave ripples in sleep"
+    },
+    {
+      "id": "BB-LAMBDA",
+      "state": "Lambda",
+      "hz_range_min": 100,
+      "hz_range_max": 200,
+      "carrier_frequency_hz": 5000,
+      "beat_frequency_hz_example": 150,
+      "description": "Extremely rare ultra-high frequency brainwave. Only detected in highly advanced meditators or in specific neurological conditions. Possibly related to hyper-efficient neural processing. Sometimes described as the 'polar opposite' of Epsilon waves, with some researchers suggesting a Lambda-Epsilon continuum.",
+      "effect": "Rare states of extreme perceptual clarity, hyper-efficient cognition",
+      "subjective_experience": "Reported as 'crystal clarity', 'white light awareness', extreme present-moment perception",
+      "use_cases": [
+        "advanced meditation research",
+        "consciousness research"
+      ],
+      "associated_neurotransmitters": [
+        "unknown; possibly acetylcholine-dominant"
+      ],
+      "eeg_characteristics": "100-200 Hz; extremely rare, difficult to measure cleanly",
+      "discovery_notes": "Not yet standardized in neuroscience; primarily reported in esoteric literature and some fringe research"
+    }
+  ],
+  "carrier_frequency_guide": {
+    "recommended_carriers": [
+      {
+        "frequency_hz": 100,
+        "note": "G2",
+        "use": "Delta beats (0.5-4 Hz) \u2014 deep sub-bass carrier"
+      },
+      {
+        "frequency_hz": 200,
+        "note": "G3",
+        "use": "Theta/Alpha beats (4-14 Hz) \u2014 bass carrier"
+      },
+      {
+        "frequency_hz": 300,
+        "note": "D4 approx",
+        "use": "Alpha/SMR beats (8-15 Hz) \u2014 mid carrier"
+      },
+      {
+        "frequency_hz": 400,
+        "note": "G4",
+        "use": "Beta beats (14-30 Hz) \u2014 midrange carrier"
+      },
+      {
+        "frequency_hz": 432,
+        "note": "A4 (Verdi)",
+        "use": "Universal carrier \u2014 alternative tuning"
+      },
+      {
+        "frequency_hz": 440,
+        "note": "A4",
+        "use": "Standard concert pitch carrier"
+      },
+      {
+        "frequency_hz": 528,
+        "note": "C5 approx",
+        "use": "Solfeggio carrier \u2014 'love frequency'"
+      },
+      {
+        "frequency_hz": 1000,
+        "note": "B5 approx",
+        "use": "Gamma beats (30-100 Hz) \u2014 high carrier"
+      }
+    ]
+  }
+}

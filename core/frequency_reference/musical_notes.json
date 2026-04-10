@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "NOTE-C0",
+    "note": "C0",
+    "midi_number": 12,
+    "frequency_hz": 16.35,
+    "octave": 0,
+    "note_name": "C",
+    "wavelength_m": 20.9786,
+    "period_ms": 61.1621,
+    "harmonics_hz": [
+      16.35,
+      32.7,
+      49.05,
+      65.4,
+      81.75
+    ],
+    "semitone_from_A4": -57,
+    "color_hex": "#FF0000",
+    "perception": "Root tone; grounding, foundational"
+  },
+  {
+    "id": "NOTE-Cs0",
+    "note": "C#0",
+    "midi_number": 13,
+    "frequency_hz": 17.32,
+    "octave": 0,
+    "note_name": "C#",
+    "wavelength_m": 19.8037,
+    "period_ms": 57.7367,
+    "harmonics_hz": [
+      17.32,
+      34.64,
+      51.96,
+      69.28,
+      86.6
+    ],
+    "semitone_from_A4": -56,
+    "color_hex": "#FF4000",
+    "perception": "Slightly tense, transitional"
+  },
+  {
+    "id": "NOTE-D0",
+    "note": "D0",
+    "midi_number": 14,
+    "frequency_hz": 18.35,
+    "octave": 0,
+    "note_name": "D",
+    "wavelength_m": 18.6921,
+    "period_ms": 54.4959,
+    "harmonics_hz": [
+      18.35,
+      36.7,
+      55.05,
+      73.4,
+      91.75
+    ],
+    "semitone_from_A4": -55,
+    "color_hex": "#FF8000",
+    "perception": "Open, moving, energetic"
+  },
+  {
+    "id": "NOTE-Ds0",
+    "note": "D#0",
+    "midi_number": 15,
+    "frequency_hz": 19.45,
+    "octave": 0,
+    "note_name": "D#",
+    "wavelength_m": 17.635,
+    "period_ms": 51.4139,
+    "harmonics_hz": [
+      19.45,
+      38.9,
+      58.35,
+      77.8,
+      97.25
+    ],
+    "semitone_from_A4": -54,
+    "color_hex": "#FFBF00",
+    "perception": "Restless, anticipatory"
+  },
+  {
+    "id": "NOTE-E0",
+    "note": "E0",
+    "midi_number": 16,
+    "frequency_hz": 20.6,
+    "octave": 0,
+    "note_name": "E",
+    "wavelength_m": 16.6505,
+    "period_ms": 48.5437,
+    "harmonics_hz": [
+      20.6,
+      41.2,
+      61.8,
+      82.4,
+      103.0
+    ],
+    "semitone_from_A4": -53,
+    "color_hex": "#FFFF00",
+    "perception": "Bright, expressive, warm"
+  },
+  {
+    "id": "NOTE-F0",
+    "note": "F0",
+    "midi_number": 17,
+    "frequency_hz": 21.83,
+    "octave": 0,
+    "note_name": "F",
+    "wavelength_m": 15.7123,
+    "period_ms": 45.8085,
+    "harmonics_hz": [
+      21.83,
+      43.66,
+      65.49,
+      87.32,
+      109.15
+    ],
+    "semitone_from_A4": -52,
+    "color_hex": "#80FF00",
+    "perception": "Warm, gentle, subdued"
+  },
+  {
+    "id": "NOTE-Fs0",
+    "note": "F#0",
+    "midi_number": 18,
+    "frequency_hz": 23.12,
+    "octave": 0,
+    "note_name": "F#",
+    "wavelength_m": 14.8356,
+    "period_ms": 43.2526,
+    "harmonics_hz": [
+      23.12,
+      46.24,
+      69.36,
+      92.48,
+      115.6
+    ],
+    "semitone_from_A4": -51,
+    "color_hex": "#00CC00",
+    "perception": "Mysterious, ambiguous"
+  },
+  {
+    "id": "NOTE-G0",
+    "note": "G0",
+    "midi_number": 19,
+    "frequency_hz": 24.5,
+    "octave": 0,
+    "note_name": "G",
+    "wavelength_m": 14.0,
+    "period_ms": 40.8163,
+    "harmonics_hz": [
+      24.5,
+      49.0,
+      73.5,
+      98.0,
+      122.5
+    ],
+    "semitone_from_A4": -50,
+    "color_hex": "#00FFAA",
+    "perception": "Stable, open, harmonious"
+  },
+  {
+    "id": "NOTE-Gs0",
+    "note": "G#0",
+    "midi_number": 20,
+    "frequency_hz": 25.96,
+    "octave": 0,
+    "note_name": "G#",
+    "wavelength_m": 13.2126,
+    "period_ms": 38.5208,
+    "harmonics_hz": [
+      25.96,
+      51.92,
+      77.88,
+      103.84,
+      129.8
+    ],
+    "semitone_from_A4": -49,
+    "color_hex": "#00FFFF",
+    "perception": "Bittersweet, introspective"
+  },
+  {
+    "id": "NOTE-A0",
+    "note": "A0",
+    "midi_number": 21,
+    "frequency_hz": 27.5,
+    "octave": 0,
+    "note_name": "A",
+    "wavelength_m": 12.4727,
+    "period_ms": 36.3636,
+    "harmonics_hz": [
+      27.5,
+      55.0,
+      82.5,
+      110.0,
+      137.5
+    ],
+    "semitone_from_A4": -48,
+    "color_hex": "#0080FF",
+    "perception": "Lowest note on a standard piano"
+  },
+  {
+    "id": "NOTE-As0",
+    "note": "A#0",
+    "midi_number": 22,
+    "frequency_hz": 29.14,
+    "octave": 0,
+    "note_name": "A#",
+    "wavelength_m": 11.7708,
+    "period_ms": 34.3171,
+    "harmonics_hz": [
+      29.14,
+      58.28,
+      87.42,
+      116.56,
+      145.7
+    ],
+    "semitone_from_A4": -47,
+    "color_hex": "#8000FF",
+    "perception": "Mellow, transitional"
+  },
+  {
+    "id": "NOTE-B0",
+    "note": "B0",
+    "midi_number": 23,
+    "frequency_hz": 30.87,
+    "octave": 0,
+    "note_name": "B",
+    "wavelength_m": 11.1111,
+    "period_ms": 32.3939,
+    "harmonics_hz": [
+      30.87,
+      61.74,
+      92.61,
+      123.48,
+      154.35
+    ],
+    "semitone_from_A4": -46,
+    "color_hex": "#FF00FF",
+    "perception": "Leading tone, tense, anticipatory"
+  },
+  {
+    "id": "NOTE-C1",
+    "note": "C1",
+    "midi_number": 24,
+    "frequency_hz": 32.7,
+    "octave": 1,
+    "note_name": "C",
+    "wavelength_m": 10.4893,
+    "period_ms": 30.581,
+    "harmonics_hz": [
+      32.7,
+      65.4,
+      98.1,
+      130.8,
+      163.5
+    ],
+    "semitone_from_A4": -45,
+    "color_hex": "#FF0000",
+    "perception": "Root tone; grounding, foundational"
+  },
+  {
+    "id": "NOTE-Cs1",
+    "note": "C#1",
+    "midi_number": 25,
+    "frequency_hz": 34.65,
+    "octave": 1,
+    "note_name": "C#",
+    "wavelength_m": 9.899,
+    "period_ms": 28.86,
+    "harmonics_hz": [
+      34.65,
+      69.3,
+      103.95,
+      138.6,
+      173.25
+    ],
+    "semitone_from_A4": -44,
+    "color_hex": "#FF4000",
+    "perception": "Slightly tense, transitional"
+  },
+  {
+    "id": "NOTE-D1",
+    "note": "D1",
+    "midi_number": 26,
+    "frequency_hz": 36.71,
+    "octave": 1,
+    "note_name": "D",
+    "wavelength_m": 9.3435,
+    "period_ms": 27.2405,
+    "harmonics_hz": [
+      36.71,
+      73.42,
+      110.13,
+      146.84,
+      183.55
+    ],
+    "semitone_from_A4": -43,
+    "color_hex": "#FF8000",
+    "perception": "Open, moving, energetic"
+  },
+  {
+    "id": "NOTE-Ds1",
+    "note": "D#1",
+    "midi_number": 27,
+    "frequency_hz": 38.89,
+    "octave": 1,
+    "note_name": "D#",
+    "wavelength_m": 8.8197,
+    "period_ms": 25.7136,
+    "harmonics_hz": [
+      38.89,
+      77.78,
+      116.67,
+      155.56,
+      194.45
+    ],
+    "semitone_from_A4": -42,
+    "color_hex": "#FFBF00",
+    "perception": "Restless, anticipatory"
+  },
+  {
+    "id": "NOTE-E1",
+    "note": "E1",
+    "midi_number": 28,
+    "frequency_hz": 41.2,
+    "octave": 1,
+    "note_name": "E",
+    "wavelength_m": 8.3252,
+    "period_ms": 24.2718,
+    "harmonics_hz": [
+      41.2,
+      82.4,
+      123.6,
+      164.8,
+      206.0
+    ],
+    "semitone_from_A4": -41,
+    "color_hex": "#FFFF00",
+    "perception": "Bright, expressive, warm"
+  },
+  {
+    "id": "NOTE-F1",
+    "note": "F1",
+    "midi_number": 29,
+    "frequency_hz": 43.65,
+    "octave": 1,
+    "note_name": "F",
+    "wavelength_m": 7.858,
+    "period_ms": 22.9095,
+    "harmonics_hz": [
+      43.65,
+      87.3,
+      130.95,
+      174.6,
+      218.25
+    ],
+    "semitone_from_A4": -40,
+    "color_hex": "#80FF00",
+    "perception": "Warm, gentle, subdued"
+  },
+  {
+    "id": "NOTE-Fs1",
+    "note": "F#1",
+    "midi_number": 30,
+    "frequency_hz": 46.25,
+    "octave": 1,
+    "note_name": "F#",
+    "wavelength_m": 7.4162,
+    "period_ms": 21.6216,
+    "harmonics_hz": [
+      46.25,
+      92.5,
+      138.75,
+      185.0,
+      231.25
+    ],
+    "semitone_from_A4": -39,
+    "color_hex": "#00CC00",
+    "perception": "Mysterious, ambiguous"
+  },
+  {
+    "id": "NOTE-G1",
+    "note": "G1",
+    "midi_number": 31,
+    "frequency_hz": 49.0,
+    "octave": 1,
+    "note_name": "G",
+    "wavelength_m": 7.0,
+    "period_ms": 20.4082,
+    "harmonics_hz": [
+      49.0,
+      98.0,
+      147.0,
+      196.0,
+      245.0
+    ],
+    "semitone_from_A4": -38,
+    "color_hex": "#00FFAA",
+    "perception": "Stable, open, harmonious"
+  },
+  {
+    "id": "NOTE-Gs1",
+    "note": "G#1",
+    "midi_number": 32,
+    "frequency_hz": 51.91,
+    "octave": 1,
+    "note_name": "G#",
+    "wavelength_m": 6.6076,
+    "period_ms": 19.2641,
+    "harmonics_hz": [
+      51.91,
+      103.82,
+      155.73,
+      207.64,
+      259.55
+    ],
+    "semitone_from_A4": -37,
+    "color_hex": "#00FFFF",
+    "perception": "Bittersweet, introspective"
+  },
+  {
+    "id": "NOTE-A1",
+    "note": "A1",
+    "midi_number": 33,
+    "frequency_hz": 55.0,
+    "octave": 1,
+    "note_name": "A",
+    "wavelength_m": 6.2364,
+    "period_ms": 18.1818,
+    "harmonics_hz": [
+      55.0,
+      110.0,
+      165.0,
+      220.0,
+      275.0
+    ],
+    "semitone_from_A4": -36,
+    "color_hex": "#0080FF",
+    "perception": "Brilliant, confident, reference pitch"
+  },
+  {
+    "id": "NOTE-As1",
+    "note": "A#1",
+    "midi_number": 34,
+    "frequency_hz": 58.27,
+    "octave": 1,
+    "note_name": "A#",
+    "wavelength_m": 5.8864,
+    "period_ms": 17.1615,
+    "harmonics_hz": [
+      58.27,
+      116.54,
+      174.81,
+      233.08,
+      291.35
+    ],
+    "semitone_from_A4": -35,
+    "color_hex": "#8000FF",
+    "perception": "Mellow, transitional"
+  },
+  {
+    "id": "NOTE-B1",
+    "note": "B1",
+    "midi_number": 35,
+    "frequency_hz": 61.74,
+    "octave": 1,
+    "note_name": "B",
+    "wavelength_m": 5.5556,
+    "period_ms": 16.197,
+    "harmonics_hz": [
+      61.74,
+      123.48,
+      185.22,
+      246.96,
+      308.7
+    ],
+    "semitone_from_A4": -34,
+    "color_hex": "#FF00FF",
+    "perception": "Leading tone, tense, anticipatory"
+  },
+  {
+    "id": "NOTE-C2",
+    "note": "C2",
+    "midi_number": 36,
+    "frequency_hz": 65.41,
+    "octave": 2,
+    "note_name": "C",
+    "wavelength_m": 5.2438,
+    "period_ms": 15.2882,
+    "harmonics_hz": [
+      65.41,
+      130.82,
+      196.23,
+      261.64,
+      327.05
+    ],
+    "semitone_from_A4": -33,
+    "color_hex": "#FF0000",
+    "perception": "Root tone; grounding, foundational"
+  },
+  {
+    "id": "NOTE-Cs2",
+    "note": "C#2",
+    "midi_number": 37,
+    "frequency_hz": 69.3,
+    "octave": 2,
+    "note_name": "C#",
+    "wavelength_m": 4.9495,
+    "period_ms": 14.43,
+    "harmonics_hz": [
+      69.3,
+      138.6,
+      207.9,
+      277.2,
+      346.5
+    ],
+    "semitone_from_A4": -32,
+    "color_hex": "#FF4000",
+    "perception": "Slightly tense, transitional"
+  },
+  {
+    "id": "NOTE-D2",
+    "note": "D2",
+    "midi_number": 38,
+    "frequency_hz": 73.42,
+    "octave": 2,
+    "note_name": "D",
+    "wavelength_m": 4.6718,
+    "period_ms": 13.6203,
+    "harmonics_hz": [
+      73.42,
+      146.84,
+      220.26,
+      293.68,
+      367.1
+    ],
+    "semitone_from_A4": -31,
+    "color_hex": "#FF8000",
+    "perception": "Open, moving, energetic"
+  },
+  {
+    "id": "NOTE-Ds2",
+    "note": "D#2",
+    "midi_number": 39,
+    "frequency_hz": 77.78,
+    "octave": 2,
+    "note_name": "D#",
+    "wavelength_m": 4.4099,
+    "period_ms": 12.8568,
+    "harmonics_hz": [
+      77.78,
+      155.56,
+      233.34,
+      311.12,
+      388.9
+    ],
+    "semitone_from_A4": -30,
+    "color_hex": "#FFBF00",
+    "perception": "Restless, anticipatory"
+  },
+  {
+    "id": "NOTE-E2",
+    "note": "E2",
+    "midi_number": 40,
+    "frequency_hz": 82.41,
+    "octave": 2,
+    "note_name": "E",
+    "wavelength_m": 4.1621,
+    "period_ms": 12.1344,
+    "harmonics_hz": [
+      82.41,
+      164.82,
+      247.23,
+      329.64,
+      412.05
+    ],
+    "semitone_from_A4": -29,
+    "color_hex": "#FFFF00",
+    "perception": "Open low E string of standard guitar"
+  },
+  {
+    "id": "NOTE-F2",
+    "note": "F2",
+    "midi_number": 41,
+    "frequency_hz": 87.31,
+    "octave": 2,
+    "note_name": "F",
+    "wavelength_m": 3.9285,
+    "period_ms": 11.4534,
+    "harmonics_hz": [
+      87.31,
+      174.62,
+      261.93,
+      349.24,
+      436.55
+    ],
+    "semitone_from_A4": -28,
+    "color_hex": "#80FF00",
+    "perception": "Warm, gentle, subdued"
+  },
+  {
+    "id": "NOTE-Fs2",
+    "note": "F#2",
+    "midi_number": 42,
+    "frequency_hz": 92.5,
+    "octave": 2,
+    "note_name": "F#",
+    "wavelength_m": 3.7081,
+    "period_ms": 10.8108,
+    "harmonics_hz": [
+      92.5,
+      185.0,
+      277.5,
+      370.0,
+      462.5
+    ],
+    "semitone_from_A4": -27,
+    "color_hex": "#00CC00",
+    "perception": "Mysterious, ambiguous"
+  },
+  {
+    "id": "NOTE-G2",
+    "note": "G2",
+    "midi_number": 43,
+    "frequency_hz": 98.0,
+    "octave": 2,
+    "note_name": "G",
+    "wavelength_m": 3.5,
+    "period_ms": 10.2041,
+    "harmonics_hz": [
+      98.0,
+      196.0,
+      294.0,
+      392.0,
+      490.0
+    ],
+    "semitone_from_A4": -26,
+    "color_hex": "#00FFAA",
+    "perception": "Stable, open, harmonious"
+  },
+  {
+    "id": "NOTE-Gs2",
+    "note": "G#2",
+    "midi_number": 44,
+    "frequency_hz": 103.83,
+    "octave": 2,
+    "note_name": "G#",
+    "wavelength_m": 3.3035,
+    "period_ms": 9.6311,
+    "harmonics_hz": [
+      103.83,
+      207.66,
+      311.49,
+      415.32,
+      519.15
+    ],
+    "semitone_from_A4": -25,
+    "color_hex": "#00FFFF",
+    "perception": "Bittersweet, introspective"
+  },
+  {
+    "id": "NOTE-A2",
+    "note": "A2",
+    "midi_number": 45,
+    "frequency_hz": 110.0,
+    "octave": 2,
+    "note_name": "A",
+    "wavelength_m": 3.1182,
+    "period_ms": 9.0909,
+    "harmonics_hz": [
+      110.0,
+      220.0,
+      330.0,
+      440.0,
+      550.0
+    ],
+    "semitone_from_A4": -24,
+    "color_hex": "#0080FF",
+    "perception": "Contrabass fundamental A; open A string cello"
+  },
+  {
+    "id": "NOTE-As2",
+    "note": "A#2",
+    "midi_number": 46,
+    "frequency_hz": 116.54,
+    "octave": 2,
+    "note_name": "A#",
+    "wavelength_m": 2.9432,
+    "period_ms": 8.5807,
+    "harmonics_hz": [
+      116.54,
+      233.08,
+      349.62,
+      466.16,
+      582.7
+    ],
+    "semitone_from_A4": -23,
+    "color_hex": "#8000FF",
+    "perception": "Mellow, transitional"
+  },
+  {
+    "id": "NOTE-B2",
+    "note": "B2",
+    "midi_number": 47,
+    "frequency_hz": 123.47,
+    "octave": 2,
+    "note_name": "B",
+    "wavelength_m": 2.778,
+    "period_ms": 8.0991,
+    "harmonics_hz": [
+      123.47,
+      246.94,
+      370.41,
+      493.88,
+      617.35
+    ],
+    "semitone_from_A4": -22,
+    "color_hex": "#FF00FF",
+    "perception": "Leading tone, tense, anticipatory"
+  },
+  {
+    "id": "NOTE-C3",
+    "note": "C3",
+    "midi_number": 48,
+    "frequency_hz": 130.81,
+    "octave": 3,
+    "note_name": "C",
+    "wavelength_m": 2.6221,
+    "period_ms": 7.6447,
+    "harmonics_hz": [
+      130.81,
+      261.62,
+      392.43,
+      523.24,
+      654.05
+    ],
+    "semitone_from_A4": -21,
+    "color_hex": "#FF0000",
+    "perception": "Tenor voice low register"
+  },
+  {
+    "id": "NOTE-Cs3",
+    "note": "C#3",
+    "midi_number": 49,
+    "frequency_hz": 138.59,
+    "octave": 3,
+    "note_name": "C#",
+    "wavelength_m": 2.4749,
+    "period_ms": 7.2155,
+    "harmonics_hz": [
+      138.59,
+      277.18,
+      415.77,
+      554.36,
+      692.95
+    ],
+    "semitone_from_A4": -20,
+    "color_hex": "#FF4000",
+    "perception": "Slightly tense, transitional"
+  },
+  {
+    "id": "NOTE-D3",
+    "note": "D3",
+    "midi_number": 50,
+    "frequency_hz": 146.83,
+    "octave": 3,
+    "note_name": "D",
+    "wavelength_m": 2.336,
+    "period_ms": 6.8106,
+    "harmonics_hz": [
+      146.83,
+      293.66,
+      440.49,
+      587.32,
+      734.15
+    ],
+    "semitone_from_A4": -19,
+    "color_hex": "#FF8000",
+    "perception": "Open, moving, energetic"
+  },
+  {
+    "id": "NOTE-Ds3",
+    "note": "D#3",
+    "midi_number": 51,
+    "frequency_hz": 155.56,
+    "octave": 3,
+    "note_name": "D#",
+    "wavelength_m": 2.2049,
+    "period_ms": 6.4284,
+    "harmonics_hz": [
+      155.56,
+      311.12,
+      466.68,
+      622.24,
+      777.8
+    ],
+    "semitone_from_A4": -18,
+    "color_hex": "#FFBF00",
+    "perception": "Restless, anticipatory"
+  },
+  {
+    "id": "NOTE-E3",
+    "note": "E3",
+    "midi_number": 52,
+    "frequency_hz": 164.81,
+    "octave": 3,
+    "note_name": "E",
+    "wavelength_m": 2.0812,
+    "period_ms": 6.0676,
+    "harmonics_hz": [
+      164.81,
+      329.62,
+      494.43,
+      659.24,
+      824.05
+    ],
+    "semitone_from_A4": -17,
+    "color_hex": "#FFFF00",
+    "perception": "Bright, expressive, warm"
+  },
+  {
+    "id": "NOTE-F3",
+    "note": "F3",
+    "midi_number": 53,
+    "frequency_hz": 174.61,
+    "octave": 3,
+    "note_name": "F",
+    "wavelength_m": 1.9644,
+    "period_ms": 5.727,
+    "harmonics_hz": [
+      174.61,
+      349.22,
+      523.83,
+      698.44,
+      873.05
+    ],
+    "semitone_from_A4": -16,
+    "color_hex": "#80FF00",
+    "perception": "Warm, gentle, subdued"
+  },
+  {
+    "id": "NOTE-Fs3",
+    "note": "F#3",
+    "midi_number": 54,
+    "frequency_hz": 185.0,
+    "octave": 3,
+    "note_name": "F#",
+    "wavelength_m": 1.8541,
+    "period_ms": 5.4054,
+    "harmonics_hz": [
+      185.0,
+      370.0,
+      555.0,
+      740.0,
+      925.0
+    ],
+    "semitone_from_A4": -15,
+    "color_hex": "#00CC00",
+    "perception": "Mysterious, ambiguous"
+  },
+  {
+    "id": "NOTE-G3",
+    "note": "G3",
+    "midi_number": 55,
+    "frequency_hz": 196.0,
+    "octave": 3,
+    "note_name": "G",
+    "wavelength_m": 1.75,
+    "period_ms": 5.102,
+    "harmonics_hz": [
+      196.0,
+      392.0,
+      588.0,
+      784.0,
+      980.0
+    ],
+    "semitone_from_A4": -14,
+    "color_hex": "#00FFAA",
+    "perception": "Stable, open, harmonious"
+  },
+  {
+    "id": "NOTE-Gs3",
+    "note": "G#3",
+    "midi_number": 56,
+    "frequency_hz": 207.65,
+    "octave": 3,
+    "note_name": "G#",
+    "wavelength_m": 1.6518,
+    "period_ms": 4.8158,
+    "harmonics_hz": [
+      207.65,
+      415.3,
+      622.95,
+      830.6,
+      1038.25
+    ],
+    "semitone_from_A4": -13,
+    "color_hex": "#00FFFF",
+    "perception": "Bittersweet, introspective"
+  },
+  {
+    "id": "NOTE-A3",
+    "note": "A3",
+    "midi_number": 57,
+    "frequency_hz": 220.0,
+    "octave": 3,
+    "note_name": "A",
+    "wavelength_m": 1.5591,
+    "period_ms": 4.5455,
+    "harmonics_hz": [
+      220.0,
+      440.0,
+      660.0,
+      880.0,
+      1100.0
+    ],
+    "semitone_from_A4": -12,
+    "color_hex": "#0080FF",
+    "perception": "Brilliant, confident, reference pitch"
+  },
+  {
+    "id": "NOTE-As3",
+    "note": "A#3",
+    "midi_number": 58,
+    "frequency_hz": 233.08,
+    "octave": 3,
+    "note_name": "A#",
+    "wavelength_m": 1.4716,
+    "period_ms": 4.2904,
+    "harmonics_hz": [
+      233.08,
+      466.16,
+      699.24,
+      932.32,
+      1165.4
+    ],
+    "semitone_from_A4": -11,
+    "color_hex": "#8000FF",
+    "perception": "Mellow, transitional"
+  },
+  {
+    "id": "NOTE-B3",
+    "note": "B3",
+    "midi_number": 59,
+    "frequency_hz": 246.94,
+    "octave": 3,
+    "note_name": "B",
+    "wavelength_m": 1.389,
+    "period_ms": 4.0496,
+    "harmonics_hz": [
+      246.94,
+      493.88,
+      740.82,
+      987.76,
+      1234.7
+    ],
+    "semitone_from_A4": -10,
+    "color_hex": "#FF00FF",
+    "perception": "Second string of standard guitar (open)"
+  },
+  {
+    "id": "NOTE-C4",
+    "note": "C4",
+    "midi_number": 60,
+    "frequency_hz": 261.63,
+    "octave": 4,
+    "note_name": "C",
+    "wavelength_m": 1.311,
+    "period_ms": 3.8222,
+    "harmonics_hz": [
+      261.63,
+      523.26,
+      784.89,
+      1046.52,
+      1308.15
+    ],
+    "semitone_from_A4": -9,
+    "color_hex": "#FF0000",
+    "perception": "Middle C \u2014 universal reference, piano key 40"
+  },
+  {
+    "id": "NOTE-Cs4",
+    "note": "C#4",
+    "midi_number": 61,
+    "frequency_hz": 277.18,
+    "octave": 4,
+    "note_name": "C#",
+    "wavelength_m": 1.2375,
+    "period_ms": 3.6078,
+    "harmonics_hz": [
+      277.18,
+      554.36,
+      831.54,
+      1108.72,
+      1385.9
+    ],
+    "semitone_from_A4": -8,
+    "color_hex": "#FF4000",
+    "perception": "Slightly tense, transitional"
+  },
+  {
+    "id": "NOTE-D4",
+    "note": "D4",
+    "midi_number": 62,
+    "frequency_hz": 293.66,
+    "octave": 4,
+    "note_name": "D",
+    "wavelength_m": 1.168,
+    "period_ms": 3.4053,
+    "harmonics_hz": [
+      293.66,
+      587.32,
+      880.98,
+      1174.64,
+      1468.3
+    ],
+    "semitone_from_A4": -7,
+    "color_hex": "#FF8000",
+    "perception": "Open, moving, energetic"
+  },
+  {
+    "id": "NOTE-Ds4",
+    "note": "D#4",
+    "midi_number": 63,
+    "frequency_hz": 311.13,
+    "octave": 4,
+    "note_name": "D#",
+    "wavelength_m": 1.1024,
+    "period_ms": 3.2141,
+    "harmonics_hz": [
+      311.13,
+      622.26,
+      933.39,
+      1244.52,
+      1555.65
+    ],
+    "semitone_from_A4": -6,
+    "color_hex": "#FFBF00",
+    "perception": "Restless, anticipatory"
+  },
+  {
+    "id": "NOTE-E4",
+    "note": "E4",
+    "midi_number": 64,
+    "frequency_hz": 329.63,
+    "octave": 4,
+    "note_name": "E",
+    "wavelength_m": 1.0406,
+    "period_ms": 3.0337,
+    "harmonics_hz": [
+      329.63,
+      659.26,
+      988.89,
+      1318.52,
+      1648.15
+    ],
+    "semitone_from_A4": -5,
+    "color_hex": "#FFFF00",
+    "perception": "Top string of standard guitar (open)"
+  },
+  {
+    "id": "NOTE-F4",
+    "note": "F4",
+    "midi_number": 65,
+    "frequency_hz": 349.23,
+    "octave": 4,
+    "note_name": "F",
+    "wavelength_m": 0.9822,
+    "period_ms": 2.8634,
+    "harmonics_hz": [
+      349.23,
+      698.46,
+      1047.69,
+      1396.92,
+      1746.15
+    ],
+    "semitone_from_A4": -4,
+    "color_hex": "#80FF00",
+    "perception": "Warm, gentle, subdued"
+  },
+  {
+    "id": "NOTE-Fs4",
+    "note": "F#4",
+    "midi_number": 66,
+    "frequency_hz": 369.99,
+    "octave": 4,
+    "note_name": "F#",
+    "wavelength_m": 0.9271,
+    "period_ms": 2.7028,
+    "harmonics_hz": [
+      369.99,
+      739.98,
+      1109.97,
+      1479.96,
+      1849.95
+    ],
+    "semitone_from_A4": -3,
+    "color_hex": "#00CC00",
+    "perception": "Mysterious, ambiguous"
+  },
+  {
+    "id": "NOTE-G4",
+    "note": "G4",
+    "midi_number": 67,
+    "frequency_hz": 392.0,
+    "octave": 4,
+    "note_name": "G",
+    "wavelength_m": 0.875,
+    "period_ms": 2.551,
+    "harmonics_hz": [
+      392.0,
+      784.0,
+      1176.0,
+      1568.0,
+      1960.0
+    ],
+    "semitone_from_A4": -2,
+    "color_hex": "#00FFAA",
+    "perception": "Bright open fifth above middle C"
+  },
+  {
+    "id": "NOTE-Gs4",
+    "note": "G#4",
+    "midi_number": 68,
+    "frequency_hz": 415.3,
+    "octave": 4,
+    "note_name": "G#",
+    "wavelength_m": 0.8259,
+    "period_ms": 2.4079,
+    "harmonics_hz": [
+      415.3,
+      830.6,
+      1245.9,
+      1661.2,
+      2076.5
+    ],
+    "semitone_from_A4": -1,
+    "color_hex": "#00FFFF",
+    "perception": "Bittersweet, introspective"
+  },
+  {
+    "id": "NOTE-A4",
+    "note": "A4",
+    "midi_number": 69,
+    "frequency_hz": 440.0,
+    "octave": 4,
+    "note_name": "A",
+    "wavelength_m": 0.7795,
+    "period_ms": 2.2727,
+    "harmonics_hz": [
+      440.0,
+      880.0,
+      1320.0,
+      1760.0,
+      2200.0
+    ],
+    "semitone_from_A4": 0,
+    "color_hex": "#0080FF",
+    "perception": "Concert pitch standard \u2014 440 Hz"
+  },
+  {
+    "id": "NOTE-As4",
+    "note": "A#4",
+    "midi_number": 70,
+    "frequency_hz": 466.16,
+    "octave": 4,
+    "note_name": "A#",
+    "wavelength_m": 0.7358,
+    "period_ms": 2.1452,
+    "harmonics_hz": [
+      466.16,
+      932.32,
+      1398.48,
+      1864.64,
+      2330.8
+    ],
+    "semitone_from_A4": 1,
+    "color_hex": "#8000FF",
+    "perception": "Mellow, transitional"
+  },
+  {
+    "id": "NOTE-B4",
+    "note": "B4",
+    "midi_number": 71,
+    "frequency_hz": 493.88,
+    "octave": 4,
+    "note_name": "B",
+    "wavelength_m": 0.6945,
+    "period_ms": 2.0248,
+    "harmonics_hz": [
+      493.88,
+      987.76,
+      1481.64,
+      1975.52,
+      2469.4
+    ],
+    "semitone_from_A4": 2,
+    "color_hex": "#FF00FF",
+    "perception": "Leading tone, tense, anticipatory"
+  },
+  {
+    "id": "NOTE-C5",
+    "note": "C5",
+    "midi_number": 72,
+    "frequency_hz": 523.25,
+    "octave": 5,
+    "note_name": "C",
+    "wavelength_m": 0.6555,
+    "period_ms": 1.9111,
+    "harmonics_hz": [
+      523.25,
+      1046.5,
+      1569.75,
+      2093.0,
+      2616.25
+    ],
+    "semitone_from_A4": 3,
+    "color_hex": "#FF0000",
+    "perception": "Root tone; grounding, foundational"
+  },
+  {
+    "id": "NOTE-Cs5",
+    "note": "C#5",
+    "midi_number": 73,
+    "frequency_hz": 554.37,
+    "octave": 5,
+    "note_name": "C#",
+    "wavelength_m": 0.6187,
+    "period_ms": 1.8038,
+    "harmonics_hz": [
+      554.37,
+      1108.74,
+      1663.11,
+      2217.48,
+      2771.85
+    ],
+    "semitone_from_A4": 4,
+    "color_hex": "#FF4000",
+    "perception": "Slightly tense, transitional"
+  },
+  {
+    "id": "NOTE-D5",
+    "note": "D5",
+    "midi_number": 74,
+    "frequency_hz": 587.33,
+    "octave": 5,
+    "note_name": "D",
+    "wavelength_m": 0.584,
+    "period_ms": 1.7026,
+    "harmonics_hz": [
+      587.33,
+      1174.66,
+      1761.99,
+      2349.32,
+      2936.65
+    ],
+    "semitone_from_A4": 5,
+    "color_hex": "#FF8000",
+    "perception": "Open, moving, energetic"
+  },
+  {
+    "id": "NOTE-Ds5",
+    "note": "D#5",
+    "midi_number": 75,
+    "frequency_hz": 622.25,
+    "octave": 5,
+    "note_name": "D#",
+    "wavelength_m": 0.5512,
+    "period_ms": 1.6071,
+    "harmonics_hz": [
+      622.25,
+      1244.5,
+      1866.75,
+      2489.0,
+      3111.25
+    ],
+    "semitone_from_A4": 6,
+    "color_hex": "#FFBF00",
+    "perception": "Restless, anticipatory"
+  },
+  {
+    "id": "NOTE-E5",
+    "note": "E5",
+    "midi_number": 76,
+    "frequency_hz": 659.26,
+    "octave": 5,
+    "note_name": "E",
+    "wavelength_m": 0.5203,
+    "period_ms": 1.5169,
+    "harmonics_hz": [
+      659.26,
+      1318.52,
+      1977.78,
+      2637.04,
+      3296.3
+    ],
+    "semitone_from_A4": 7,
+    "color_hex": "#FFFF00",
+    "perception": "Bright, expressive, warm"
+  },
+  {
+    "id": "NOTE-F5",
+    "note": "F5",
+    "midi_number": 77,
+    "frequency_hz": 698.46,
+    "octave": 5,
+    "note_name": "F",
+    "wavelength_m": 0.4911,
+    "period_ms": 1.4317,
+    "harmonics_hz": [
+      698.46,
+      1396.92,
+      2095.38,
+      2793.84,
+      3492.3
+    ],
+    "semitone_from_A4": 8,
+    "color_hex": "#80FF00",
+    "perception": "Warm, gentle, subdued"
+  },
+  {
+    "id": "NOTE-Fs5",
+    "note": "F#5",
+    "midi_number": 78,
+    "frequency_hz": 739.99,
+    "octave": 5,
+    "note_name": "F#",
+    "wavelength_m": 0.4635,
+    "period_ms": 1.3514,
+    "harmonics_hz": [
+      739.99,
+      1479.98,
+      2219.97,
+      2959.96,
+      3699.95
+    ],
+    "semitone_from_A4": 9,
+    "color_hex": "#00CC00",
+    "perception": "Mysterious, ambiguous"
+  },
+  {
+    "id": "NOTE-G5",
+    "note": "G5",
+    "midi_number": 79,
+    "frequency_hz": 783.99,
+    "octave": 5,
+    "note_name": "G",
+    "wavelength_m": 0.4375,
+    "period_ms": 1.2755,
+    "harmonics_hz": [
+      783.99,
+      1567.98,
+      2351.97,
+      3135.96,
+      3919.95
+    ],
+    "semitone_from_A4": 10,
+    "color_hex": "#00FFAA",
+    "perception": "Stable, open, harmonious"
+  },
+  {
+    "id": "NOTE-Gs5",
+    "note": "G#5",
+    "midi_number": 80,
+    "frequency_hz": 830.61,
+    "octave": 5,
+    "note_name": "G#",
+    "wavelength_m": 0.4129,
+    "period_ms": 1.2039,
+    "harmonics_hz": [
+      830.61,
+      1661.22,
+      2491.83,
+      3322.44,
+      4153.05
+    ],
+    "semitone_from_A4": 11,
+    "color_hex": "#00FFFF",
+    "perception": "Bittersweet, introspective"
+  },
+  {
+    "id": "NOTE-A5",
+    "note": "A5",
+    "midi_number": 81,
+    "frequency_hz": 880.0,
+    "octave": 5,
+    "note_name": "A",
+    "wavelength_m": 0.3898,
+    "period_ms": 1.1364,
+    "harmonics_hz": [
+      880.0,
+      1760.0,
+      2640.0,
+      3520.0,
+      4400.0
+    ],
+    "semitone_from_A4": 12,
+    "color_hex": "#0080FF",
+    "perception": "Brilliant, confident, reference pitch"
+  },
+  {
+    "id": "NOTE-As5",
+    "note": "A#5",
+    "midi_number": 82,
+    "frequency_hz": 932.33,
+    "octave": 5,
+    "note_name": "A#",
+    "wavelength_m": 0.3679,
+    "period_ms": 1.0726,
+    "harmonics_hz": [
+      932.33,
+      1864.66,
+      2796.99,
+      3729.32,
+      4661.65
+    ],
+    "semitone_from_A4": 13,
+    "color_hex": "#8000FF",
+    "perception": "Mellow, transitional"
+  },
+  {
+    "id": "NOTE-B5",
+    "note": "B5",
+    "midi_number": 83,
+    "frequency_hz": 987.77,
+    "octave": 5,
+    "note_name": "B",
+    "wavelength_m": 0.3472,
+    "period_ms": 1.0124,
+    "harmonics_hz": [
+      987.77,
+      1975.54,
+      2963.31,
+      3951.08,
+      4938.85
+    ],
+    "semitone_from_A4": 14,
+    "color_hex": "#FF00FF",
+    "perception": "Leading tone, tense, anticipatory"
+  },
+  {
+    "id": "NOTE-C6",
+    "note": "C6",
+    "midi_number": 84,
+    "frequency_hz": 1046.5,
+    "octave": 6,
+    "note_name": "C",
+    "wavelength_m": 0.3278,
+    "period_ms": 0.9556,
+    "harmonics_hz": [
+      1046.5,
+      2093.0,
+      3139.5,
+      4186.0,
+      5232.5
+    ],
+    "semitone_from_A4": 15,
+    "color_hex": "#FF0000",
+    "perception": "Root tone; grounding, foundational"
+  },
+  {
+    "id": "NOTE-Cs6",
+    "note": "C#6",
+    "midi_number": 85,
+    "frequency_hz": 1108.73,
+    "octave": 6,
+    "note_name": "C#",
+    "wavelength_m": 0.3094,
+    "period_ms": 0.9019,
+    "harmonics_hz": [
+      1108.73,
+      2217.46,
+      3326.19,
+      4434.92,
+      5543.65
+    ],
+    "semitone_from_A4": 16,
+    "color_hex": "#FF4000",
+    "perception": "Slightly tense, transitional"
+  },
+  {
+    "id": "NOTE-D6",
+    "note": "D6",
+    "midi_number": 86,
+    "frequency_hz": 1174.66,
+    "octave": 6,
+    "note_name": "D",
+    "wavelength_m": 0.292,
+    "period_ms": 0.8513,
+    "harmonics_hz": [
+      1174.66,
+      2349.32,
+      3523.98,
+      4698.64,
+      5873.3
+    ],
+    "semitone_from_A4": 17,
+    "color_hex": "#FF8000",
+    "perception": "Open, moving, energetic"
+  },
+  {
+    "id": "NOTE-Ds6",
+    "note": "D#6",
+    "midi_number": 87,
+    "frequency_hz": 1244.51,
+    "octave": 6,
+    "note_name": "D#",
+    "wavelength_m": 0.2756,
+    "period_ms": 0.8035,
+    "harmonics_hz": [
+      1244.51,
+      2489.02,
+      3733.53,
+      4978.04,
+      6222.55
+    ],
+    "semitone_from_A4": 18,
+    "color_hex": "#FFBF00",
+    "perception": "Restless, anticipatory"
+  },
+  {
+    "id": "NOTE-E6",
+    "note": "E6",
+    "midi_number": 88,
+    "frequency_hz": 1318.51,
+    "octave": 6,
+    "note_name": "E",
+    "wavelength_m": 0.2601,
+    "period_ms": 0.7584,
+    "harmonics_hz": [
+      1318.51,
+      2637.02,
+      3955.53,
+      5274.04,
+      6592.55
+    ],
+    "semitone_from_A4": 19,
+    "color_hex": "#FFFF00",
+    "perception": "Bright, expressive, warm"
+  },
+  {
+    "id": "NOTE-F6",
+    "note": "F6",
+    "midi_number": 89,
+    "frequency_hz": 1396.91,
+    "octave": 6,
+    "note_name": "F",
+    "wavelength_m": 0.2455,
+    "period_ms": 0.7159,
+    "harmonics_hz": [
+      1396.91,
+      2793.82,
+      4190.73,
+      5587.64,
+      6984.55
+    ],
+    "semitone_from_A4": 20,
+    "color_hex": "#80FF00",
+    "perception": "Warm, gentle, subdued"
+  },
+  {
+    "id": "NOTE-Fs6",
+    "note": "F#6",
+    "midi_number": 90,
+    "frequency_hz": 1479.98,
+    "octave": 6,
+    "note_name": "F#",
+    "wavelength_m": 0.2318,
+    "period_ms": 0.6757,
+    "harmonics_hz": [
+      1479.98,
+      2959.96,
+      4439.94,
+      5919.92,
+      7399.9
+    ],
+    "semitone_from_A4": 21,
+    "color_hex": "#00CC00",
+    "perception": "Mysterious, ambiguous"
+  },
+  {
+    "id": "NOTE-G6",
+    "note": "G6",
+    "midi_number": 91,
+    "frequency_hz": 1567.98,
+    "octave": 6,
+    "note_name": "G",
+    "wavelength_m": 0.2188,
+    "period_ms": 0.6378,
+    "harmonics_hz": [
+      1567.98,
+      3135.96,
+      4703.94,
+      6271.92,
+      7839.9
+    ],
+    "semitone_from_A4": 22,
+    "color_hex": "#00FFAA",
+    "perception": "Stable, open, harmonious"
+  },
+  {
+    "id": "NOTE-Gs6",
+    "note": "G#6",
+    "midi_number": 92,
+    "frequency_hz": 1661.22,
+    "octave": 6,
+    "note_name": "G#",
+    "wavelength_m": 0.2065,
+    "period_ms": 0.602,
+    "harmonics_hz": [
+      1661.22,
+      3322.44,
+      4983.66,
+      6644.88,
+      8306.1
+    ],
+    "semitone_from_A4": 23,
+    "color_hex": "#00FFFF",
+    "perception": "Bittersweet, introspective"
+  },
+  {
+    "id": "NOTE-A6",
+    "note": "A6",
+    "midi_number": 93,
+    "frequency_hz": 1760.0,
+    "octave": 6,
+    "note_name": "A",
+    "wavelength_m": 0.1949,
+    "period_ms": 0.5682,
+    "harmonics_hz": [
+      1760.0,
+      3520.0,
+      5280.0,
+      7040.0,
+      8800.0
+    ],
+    "semitone_from_A4": 24,
+    "color_hex": "#0080FF",
+    "perception": "Brilliant, confident, reference pitch"
+  },
+  {
+    "id": "NOTE-As6",
+    "note": "A#6",
+    "midi_number": 94,
+    "frequency_hz": 1864.66,
+    "octave": 6,
+    "note_name": "A#",
+    "wavelength_m": 0.1839,
+    "period_ms": 0.5363,
+    "harmonics_hz": [
+      1864.66,
+      3729.32,
+      5593.98,
+      7458.64,
+      9323.3
+    ],
+    "semitone_from_A4": 25,
+    "color_hex": "#8000FF",
+    "perception": "Mellow, transitional"
+  },
+  {
+    "id": "NOTE-B6",
+    "note": "B6",
+    "midi_number": 95,
+    "frequency_hz": 1975.53,
+    "octave": 6,
+    "note_name": "B",
+    "wavelength_m": 0.1736,
+    "period_ms": 0.5062,
+    "harmonics_hz": [
+      1975.53,
+      3951.06,
+      5926.59,
+      7902.12,
+      9877.65
+    ],
+    "semitone_from_A4": 26,
+    "color_hex": "#FF00FF",
+    "perception": "Leading tone, tense, anticipatory"
+  },
+  {
+    "id": "NOTE-C7",
+    "note": "C7",
+    "midi_number": 96,
+    "frequency_hz": 2093.0,
+    "octave": 7,
+    "note_name": "C",
+    "wavelength_m": 0.1639,
+    "period_ms": 0.4778,
+    "harmonics_hz": [
+      2093.0,
+      4186.0,
+      6279.0,
+      8372.0,
+      10465.0
+    ],
+    "semitone_from_A4": 27,
+    "color_hex": "#FF0000",
+    "perception": "Root tone; grounding, foundational"
+  },
+  {
+    "id": "NOTE-Cs7",
+    "note": "C#7",
+    "midi_number": 97,
+    "frequency_hz": 2217.46,
+    "octave": 7,
+    "note_name": "C#",
+    "wavelength_m": 0.1547,
+    "period_ms": 0.451,
+    "harmonics_hz": [
+      2217.46,
+      4434.92,
+      6652.38,
+      8869.84,
+      11087.3
+    ],
+    "semitone_from_A4": 28,
+    "color_hex": "#FF4000",
+    "perception": "Slightly tense, transitional"
+  },
+  {
+    "id": "NOTE-D7",
+    "note": "D7",
+    "midi_number": 98,
+    "frequency_hz": 2349.32,
+    "octave": 7,
+    "note_name": "D",
+    "wavelength_m": 0.146,
+    "period_ms": 0.4257,
+    "harmonics_hz": [
+      2349.32,
+      4698.64,
+      7047.96,
+      9397.28,
+      11746.6
+    ],
+    "semitone_from_A4": 29,
+    "color_hex": "#FF8000",
+    "perception": "Open, moving, energetic"
+  },
+  {
+    "id": "NOTE-Ds7",
+    "note": "D#7",
+    "midi_number": 99,
+    "frequency_hz": 2489.02,
+    "octave": 7,
+    "note_name": "D#",
+    "wavelength_m": 0.1378,
+    "period_ms": 0.4018,
+    "harmonics_hz": [
+      2489.02,
+      4978.04,
+      7467.06,
+      9956.08,
+      12445.1
+    ],
+    "semitone_from_A4": 30,
+    "color_hex": "#FFBF00",
+    "perception": "Restless, anticipatory"
+  },
+  {
+    "id": "NOTE-E7",
+    "note": "E7",
+    "midi_number": 100,
+    "frequency_hz": 2637.02,
+    "octave": 7,
+    "note_name": "E",
+    "wavelength_m": 0.1301,
+    "period_ms": 0.3792,
+    "harmonics_hz": [
+      2637.02,
+      5274.04,
+      7911.06,
+      10548.08,
+      13185.1
+    ],
+    "semitone_from_A4": 31,
+    "color_hex": "#FFFF00",
+    "perception": "Bright, expressive, warm"
+  },
+  {
+    "id": "NOTE-F7",
+    "note": "F7",
+    "midi_number": 101,
+    "frequency_hz": 2793.83,
+    "octave": 7,
+    "note_name": "F",
+    "wavelength_m": 0.1228,
+    "period_ms": 0.3579,
+    "harmonics_hz": [
+      2793.83,
+      5587.66,
+      8381.49,
+      11175.32,
+      13969.15
+    ],
+    "semitone_from_A4": 32,
+    "color_hex": "#80FF00",
+    "perception": "Warm, gentle, subdued"
+  },
+  {
+    "id": "NOTE-Fs7",
+    "note": "F#7",
+    "midi_number": 102,
+    "frequency_hz": 2959.96,
+    "octave": 7,
+    "note_name": "F#",
+    "wavelength_m": 0.1159,
+    "period_ms": 0.3378,
+    "harmonics_hz": [
+      2959.96,
+      5919.92,
+      8879.88,
+      11839.84,
+      14799.8
+    ],
+    "semitone_from_A4": 33,
+    "color_hex": "#00CC00",
+    "perception": "Mysterious, ambiguous"
+  },
+  {
+    "id": "NOTE-G7",
+    "note": "G7",
+    "midi_number": 103,
+    "frequency_hz": 3135.96,
+    "octave": 7,
+    "note_name": "G",
+    "wavelength_m": 0.1094,
+    "period_ms": 0.3189,
+    "harmonics_hz": [
+      3135.96,
+      6271.92,
+      9407.88,
+      12543.84,
+      15679.8
+    ],
+    "semitone_from_A4": 34,
+    "color_hex": "#00FFAA",
+    "perception": "Stable, open, harmonious"
+  },
+  {
+    "id": "NOTE-Gs7",
+    "note": "G#7",
+    "midi_number": 104,
+    "frequency_hz": 3322.44,
+    "octave": 7,
+    "note_name": "G#",
+    "wavelength_m": 0.1032,
+    "period_ms": 0.301,
+    "harmonics_hz": [
+      3322.44,
+      6644.88,
+      9967.32,
+      13289.76,
+      16612.2
+    ],
+    "semitone_from_A4": 35,
+    "color_hex": "#00FFFF",
+    "perception": "Bittersweet, introspective"
+  },
+  {
+    "id": "NOTE-A7",
+    "note": "A7",
+    "midi_number": 105,
+    "frequency_hz": 3520.0,
+    "octave": 7,
+    "note_name": "A",
+    "wavelength_m": 0.0974,
+    "period_ms": 0.2841,
+    "harmonics_hz": [
+      3520.0,
+      7040.0,
+      10560.0,
+      14080.0,
+      17600.0
+    ],
+    "semitone_from_A4": 36,
+    "color_hex": "#0080FF",
+    "perception": "Brilliant, confident, reference pitch"
+  },
+  {
+    "id": "NOTE-As7",
+    "note": "A#7",
+    "midi_number": 106,
+    "frequency_hz": 3729.31,
+    "octave": 7,
+    "note_name": "A#",
+    "wavelength_m": 0.092,
+    "period_ms": 0.2681,
+    "harmonics_hz": [
+      3729.31,
+      7458.62,
+      11187.93,
+      14917.24,
+      18646.55
+    ],
+    "semitone_from_A4": 37,
+    "color_hex": "#8000FF",
+    "perception": "Mellow, transitional"
+  },
+  {
+    "id": "NOTE-B7",
+    "note": "B7",
+    "midi_number": 107,
+    "frequency_hz": 3951.07,
+    "octave": 7,
+    "note_name": "B",
+    "wavelength_m": 0.0868,
+    "period_ms": 0.2531,
+    "harmonics_hz": [
+      3951.07,
+      7902.14,
+      11853.21,
+      15804.28,
+      19755.35
+    ],
+    "semitone_from_A4": 38,
+    "color_hex": "#FF00FF",
+    "perception": "Leading tone, tense, anticipatory"
+  },
+  {
+    "id": "NOTE-C8",
+    "note": "C8",
+    "midi_number": 108,
+    "frequency_hz": 4186.01,
+    "octave": 8,
+    "note_name": "C",
+    "wavelength_m": 0.0819,
+    "period_ms": 0.2389,
+    "harmonics_hz": [
+      4186.01,
+      8372.02,
+      12558.03,
+      16744.04,
+      20930.05
+    ],
+    "semitone_from_A4": 39,
+    "color_hex": "#FF0000",
+    "perception": "Highest C on a standard piano"
+  },
+  {
+    "id": "NOTE-Cs8",
+    "note": "C#8",
+    "midi_number": 109,
+    "frequency_hz": 4434.92,
+    "octave": 8,
+    "note_name": "C#",
+    "wavelength_m": 0.0773,
+    "period_ms": 0.2255,
+    "harmonics_hz": [
+      4434.92,
+      8869.84,
+      13304.76,
+      17739.68,
+      22174.6
+    ],
+    "semitone_from_A4": 40,
+    "color_hex": "#FF4000",
+    "perception": "Slightly tense, transitional"
+  },
+  {
+    "id": "NOTE-D8",
+    "note": "D8",
+    "midi_number": 110,
+    "frequency_hz": 4698.64,
+    "octave": 8,
+    "note_name": "D",
+    "wavelength_m": 0.073,
+    "period_ms": 0.2128,
+    "harmonics_hz": [
+      4698.64,
+      9397.28,
+      14095.92,
+      18794.56,
+      23493.2
+    ],
+    "semitone_from_A4": 41,
+    "color_hex": "#FF8000",
+    "perception": "Open, moving, energetic"
+  },
+  {
+    "id": "NOTE-Ds8",
+    "note": "D#8",
+    "midi_number": 111,
+    "frequency_hz": 4978.03,
+    "octave": 8,
+    "note_name": "D#",
+    "wavelength_m": 0.0689,
+    "period_ms": 0.2009,
+    "harmonics_hz": [
+      4978.03,
+      9956.06,
+      14934.09,
+      19912.12,
+      24890.15
+    ],
+    "semitone_from_A4": 42,
+    "color_hex": "#FFBF00",
+    "perception": "Restless, anticipatory"
+  },
+  {
+    "id": "NOTE-E8",
+    "note": "E8",
+    "midi_number": 112,
+    "frequency_hz": 5274.04,
+    "octave": 8,
+    "note_name": "E",
+    "wavelength_m": 0.065,
+    "period_ms": 0.1896,
+    "harmonics_hz": [
+      5274.04,
+      10548.08,
+      15822.12,
+      21096.16,
+      26370.2
+    ],
+    "semitone_from_A4": 43,
+    "color_hex": "#FFFF00",
+    "perception": "Bright, expressive, warm"
+  },
+  {
+    "id": "NOTE-F8",
+    "note": "F8",
+    "midi_number": 113,
+    "frequency_hz": 5587.65,
+    "octave": 8,
+    "note_name": "F",
+    "wavelength_m": 0.0614,
+    "period_ms": 0.179,
+    "harmonics_hz": [
+      5587.65,
+      11175.3,
+      16762.95,
+      22350.6,
+      27938.25
+    ],
+    "semitone_from_A4": 44,
+    "color_hex": "#80FF00",
+    "perception": "Warm, gentle, subdued"
+  },
+  {
+    "id": "NOTE-Fs8",
+    "note": "F#8",
+    "midi_number": 114,
+    "frequency_hz": 5919.91,
+    "octave": 8,
+    "note_name": "F#",
+    "wavelength_m": 0.0579,
+    "period_ms": 0.1689,
+    "harmonics_hz": [
+      5919.91,
+      11839.82,
+      17759.73,
+      23679.64,
+      29599.55
+    ],
+    "semitone_from_A4": 45,
+    "color_hex": "#00CC00",
+    "perception": "Mysterious, ambiguous"
+  },
+  {
+    "id": "NOTE-G8",
+    "note": "G8",
+    "midi_number": 115,
+    "frequency_hz": 6271.93,
+    "octave": 8,
+    "note_name": "G",
+    "wavelength_m": 0.0547,
+    "period_ms": 0.1594,
+    "harmonics_hz": [
+      6271.93,
+      12543.86,
+      18815.79,
+      25087.72,
+      31359.65
+    ],
+    "semitone_from_A4": 46,
+    "color_hex": "#00FFAA",
+    "perception": "Stable, open, harmonious"
+  },
+  {
+    "id": "NOTE-Gs8",
+    "note": "G#8",
+    "midi_number": 116,
+    "frequency_hz": 6644.88,
+    "octave": 8,
+    "note_name": "G#",
+    "wavelength_m": 0.0516,
+    "period_ms": 0.1505,
+    "harmonics_hz": [
+      6644.88,
+      13289.76,
+      19934.64,
+      26579.52,
+      33224.4
+    ],
+    "semitone_from_A4": 47,
+    "color_hex": "#00FFFF",
+    "perception": "Bittersweet, introspective"
+  },
+  {
+    "id": "NOTE-A8",
+    "note": "A8",
+    "midi_number": 117,
+    "frequency_hz": 7040.0,
+    "octave": 8,
+    "note_name": "A",
+    "wavelength_m": 0.0487,
+    "period_ms": 0.142,
+    "harmonics_hz": [
+      7040.0,
+      14080.0,
+      21120.0,
+      28160.0,
+      35200.0
+    ],
+    "semitone_from_A4": 48,
+    "color_hex": "#0080FF",
+    "perception": "Brilliant, confident, reference pitch"
+  },
+  {
+    "id": "NOTE-As8",
+    "note": "A#8",
+    "midi_number": 118,
+    "frequency_hz": 7458.62,
+    "octave": 8,
+    "note_name": "A#",
+    "wavelength_m": 0.046,
+    "period_ms": 0.1341,
+    "harmonics_hz": [
+      7458.62,
+      14917.24,
+      22375.86,
+      29834.48,
+      37293.1
+    ],
+    "semitone_from_A4": 49,
+    "color_hex": "#8000FF",
+    "perception": "Mellow, transitional"
+  },
+  {
+    "id": "NOTE-B8",
+    "note": "B8",
+    "midi_number": 119,
+    "frequency_hz": 7902.13,
+    "octave": 8,
+    "note_name": "B",
+    "wavelength_m": 0.0434,
+    "period_ms": 0.1265,
+    "harmonics_hz": [
+      7902.13,
+      15804.26,
+      23706.39,
+      31608.52,
+      39510.65
+    ],
+    "semitone_from_A4": 50,
+    "color_hex": "#FF00FF",
+    "perception": "Leading tone, tense, anticipatory"
+  }
+]
