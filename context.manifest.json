@@ -1,0 +1,23 @@
+{
+  "description": "Vibration physics + cymatics database \u2014 Chladni patterns, frequency references, brainwaves, harmonic series, and spectrogram data for generative art",
+  "files": [
+    "README.md",
+    "VIBRATION_PHYSICS_PRIMER.md",
+    "chladni/README.md",
+    "chladni/chladni_patterns.json",
+    "chladni/modal_analysis.md",
+    "chladni/pattern_gallery/modal_shapes.json",
+    "cymatics/README.md",
+    "cymatics/cymatics_patterns.json",
+    "cymatics/visualization_techniques.md",
+    "cymatics/particle_aggregation.md",
+    "core/vibration_database.json",
+    "core/frequency_reference/special_frequencies.json",
+    "data/harmonic_series.json",
+    "data/brainwave_frequencies.json",
+    "data/chakra_frequencies.json",
+    "spectrograms/color_mapping_schemes.json",
+    "spectrograms/waveform_types.json",
+    "spectrograms/harmonic_series.json"
+  ]
+}
